@@ -74,7 +74,7 @@
 - prévision de planning
   - d7: arrivée à Keelung en après midi, marché de nuit
   - l8: bus ~1, rando ~3h, visit Jiufen. Soirée en Jiufen ou retour pour marché nuit de Keelung.
-  - m9: retour pour Taipei
+  - m9: retour pour Taipei ~45min
     
 ## <a id="taroko" />Taroko 太魯閣 (4j/3n)
 - Hotel
@@ -88,7 +88,7 @@
   - [Source chaude pleine nature 文山野溪溫泉](https://maps.app.goo.gl/TdJyQ2Z7Jw64SpmD9) [video](https://youtu.be/q1dIi_Ql7CM?t=3) 
   - [Baiyang Waterfall Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/baiyang-waterfall-trail) [video](https://youtu.be/k0fGTH0lNZQ)
 - prévision de planning
-  - m9: train depuis Taipei, recup Hotel, mini visite, marché de nuit de Hualien
+  - m9: train depuis Taipei ~2h, recup Hotel, mini visite, marché de nuit de Hualien
   - M10: départ tôt de Hualien en bus pour l'office de tourisme de Taroko (<1/2h), on fait Shakadang, ensuite hotel, et à pied vers la source chaude.
   - j11: Zhuilu Old Road, Swallow Grotto Trail, source chaude
   - v12: Baiyang Waterfall Trail, Tunnel of Nine Turns Trail
