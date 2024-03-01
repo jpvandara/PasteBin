@@ -34,17 +34,17 @@
     
 | Jour | Temps | | Principal |
 | --- | --- | --- | --- |
-| 1 | :cloud_with_rain: | P1 | **Musée national**, pêche aux crevettes, **Shilin night market**
-| 2 | | P2 | **Tour 101**, Shopping, I-Ride
-| 3 | | P3 | **孙中山紀念館**, Creative parks (Songshan, Huashan)
-| 4 | | P4 | **Changkaicheck mémorial hall**, [Ximending](#%E8%A5%BF%E9%97%A8%E7%94%BA-ximending)
+| 1 | :cloud_with_rain: | P1 | [Musée national](https://maps.app.goo.gl/opUC2Zo1nQYXeVTg6), pêche aux crevettes, **Shilin night market**
+| 2 | | P2 | [Tour 101](https://maps.app.goo.gl/agW9YgrYaws8x49H8), Shopping, I-Ride
+| 3 | | P3 | [孙中山紀念館 Sun Yat-Sen Memorial Hall](https://maps.app.goo.gl/6HkvyrePh5YTMNPn6), Creative parks (Songshan, Huashan)
+| 4 | | P4 | [Chiang Kai-shek Memorial Hall](https://maps.app.goo.gl/MBscffYWo8RZbqhj9), [Ximending](https://youtu.be/8VFmjrMw0Ts)
 | 5 | | P5 | DongMen Market, Flower Market (le WE), DaAn Park....
 | 6 | | | 林本源園邸...... | 
-| 7 | | | quartier Source chaude de [北投區](https://maps.app.goo.gl/sgSravCbkZNo9Y7N8), quartier 淡水區 Tamsui
+| 7 | | | quarteir Source chaude de [北投區](https://maps.app.goo.gl/sgSravCbkZNo9Y7N8), quartier 淡水區 Tamsui
 | 8 | | | quartier [大稻埕區 Dadaocheng](https://www.google.com/maps/@25.0538262,121.5094333,17.17z?entry=ttu) |
 | 9 | | | Balade vélo |
-| 10 | | S2 | rando [五寮尖山](https://youtu.be/vNiveMLYAzM?t=361) |
-| 11 | :sunny: | S1 | rando [平溪六尖](https://youtu.be/DQnrA0GS-DQ?t=10), [baignade cascades](https://youtu.be/5MXErNYXcSE?t=365) 
+| 10 | | S2 | rando [五寮尖山 Wuliao peak](https://youtu.be/vNiveMLYAzM?t=361) |
+| 11 | :sunny: | S1 | rando [平溪六尖 Pingxi Crags](https://youtu.be/DQnrA0GS-DQ?t=10), [baignade cascades](https://youtu.be/5MXErNYXcSE?t=365) 
 
 | | Secondaire | |
 | --- | --- | --- |
