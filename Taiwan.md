@@ -72,9 +72,9 @@
   - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252)
   - visit [九份 Jiufen](https://youtu.be/VyinTcVrkWo)
 - prévision de planning
-  - J1: arrivée à Keelung en après midi, marché de nuit
-  - J2: bus ~1, rando ~3h, visit Jiufen. Soirée en Jiufen ou retour pour marché nuit de Keelung.
-  - J3: retour pour Taipei
+  - d7: arrivée à Keelung en après midi, marché de nuit
+  - l8: bus ~1, rando ~3h, visit Jiufen. Soirée en Jiufen ou retour pour marché nuit de Keelung.
+  - m9: retour pour Taipei
     
 ## <a id="taroko" />Taroko 太魯閣 (4j/3n)
 - Hotel
@@ -88,10 +88,11 @@
   - [Source chaude pleine nature 文山野溪溫泉](https://maps.app.goo.gl/TdJyQ2Z7Jw64SpmD9) [video](https://youtu.be/q1dIi_Ql7CM?t=3) 
   - [Baiyang Waterfall Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/baiyang-waterfall-trail) [video](https://youtu.be/k0fGTH0lNZQ)
 - prévision de planning
-  - J1: départ tôt de Hualien en bus pour l'office de tourisme de Taroko (<1/2h), on fait Shakadang, ensuite hotel, et à pied vers la source chaude.
-  - J2: Zhuilu Old Road, Swallow Grotto Trail, source chaude
-  - J3: Baiyang Waterfall Trail, Tunnel of Nine Turns Trail
-- questionnement: à la fin de J3, on passe une nuit à Hualien ou part directement pour Taitung (train 2h)?
+  - m9: train depuis Taipei, recup Hotel, mini visite, marché de nuit de Hualien
+  - M10: départ tôt de Hualien en bus pour l'office de tourisme de Taroko (<1/2h), on fait Shakadang, ensuite hotel, et à pied vers la source chaude.
+  - j11: Zhuilu Old Road, Swallow Grotto Trail, source chaude
+  - v12: Baiyang Waterfall Trail, Tunnel of Nine Turns Trail
+- questionnement: à la fin de v12, on passe une nuit à Hualien ou part directement pour Taitung (train 2h)?
 
 ## <a id="taitung" />Taitung 台东 (2j)
 - Hotel TODO
