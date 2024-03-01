@@ -25,7 +25,7 @@
 | l29 |
 | Avion/Paris |
 
-## <a id="taipei" />Taipei 台北
+## <a id="taipei" />Taipei 台北 (11j)
 
 | Jour | Temps | | Structure |
 | --- | --- | --- | --- |
@@ -56,12 +56,12 @@
 
 ## <a id="keelung" />Keelung 台北
 
-## <a id="taroko" />Taroko 太魯閣
+## <a id="taroko" />Taroko 太魯閣 (3j)
 
-## <a id="taitung" />Taitung 台东
+## <a id="taitung" />Taitung 台东 (2j)
 
-## <a id="orchid-island" />Orchid Island 蘭嶼岛
+## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
 
-## <a id="tainan" />Tainan 台南
+## <a id="tainan" />Tainan 台南 (3j)
 
-## <a id="alishan" />Alishan 阿里山
+## <a id="alishan" />Alishan 阿里山 
