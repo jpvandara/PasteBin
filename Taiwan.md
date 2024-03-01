@@ -54,6 +54,10 @@
 | | Modern Toilet Resto | cf. map |
 | :sunny: | [象山步道](#%E8%B1%A1%E5%B1%B1%E6%AD%A5%E9%81%93-2h30) |
 
+- Hotel
+  - du 1 au 4 [Queens Hotel 2](https://www.booking.com/hotel/tw/queens-hotel-ii.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142)
+  - du 4 au 7 [Triple Tiger Inn](https://www.booking.com/hotel/tw/triple-tiger-taipei.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142)
+  - du 24 au 28 [Sunny Hostel](https://www.booking.com/hotel/tw/tai-bei-tian-qing-qing-nian-lu-guan.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) 
 ## <a id="keelung" />Keelung 台北
 
 ## <a id="taroko" />Taroko 太魯閣 (3j)
