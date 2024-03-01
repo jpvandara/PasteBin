@@ -95,7 +95,9 @@
 - Hotel
   - si possible chez [月台民宿](https://maps.app.goo.gl/VLXZn6GiJKUUJsuW8) car bon retour, bien situé et loue des vélos.
 - Activités
-  - Snorkeling
+  - Tour de l'ile en vélo
+  - Baignade, Snorkeling
+  - ...
     
 ## <a id="tainan" />Tainan 台南 (3j)
 
