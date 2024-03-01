@@ -78,9 +78,10 @@
   - [Source chaude pleine nature 文山野溪溫泉](https://maps.app.goo.gl/TdJyQ2Z7Jw64SpmD9) [video](https://youtu.be/q1dIi_Ql7CM?t=3) 
   - [Baiyang Waterfall Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/baiyang-waterfall-trail) [video](https://youtu.be/k0fGTH0lNZQ)
 - idée de planning
-  - 1j: départ tôt de Hualien en bus pour l'office de tourisme de Taroko (<1/2h), on fait Shakadang, ensuite hotel, et à pied vers la source chaude.
-  - 2j: Zhuilu Old Road, Swallow Grotto Trail, source chaude
-  - 3j: Baiyang Waterfall Trail, Tunnel of Nine Turns Trail
+  - J1: départ tôt de Hualien en bus pour l'office de tourisme de Taroko (<1/2h), on fait Shakadang, ensuite hotel, et à pied vers la source chaude.
+  - J2: Zhuilu Old Road, Swallow Grotto Trail, source chaude
+  - J3: Baiyang Waterfall Trail, Tunnel of Nine Turns Trail
+- questionnement: à la fin de J3, on passe une nuit à Hualien ou part directement pour Taitung (train 2h)?
 
 ## <a id="taitung" />Taitung 台东 (2j)
 
