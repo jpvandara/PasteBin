@@ -27,6 +27,33 @@
 
 ## <a id="taipei" />Taipei 台北
 
+| Jour | Temps | | Structure |
+| --- | --- | --- | --- |
+| 1 | :cloud_with_rain: | P1 | **Musée national**, pêche aux crevettes, Shilin night market
+| 2 | | P2 | **Tour 101**, Shopping, I-Ride
+| 3 | | P3 | **孙中山紀念館**, Creative parks (Songshan, Huashan)
+| 4 | | P4 | **Changkaicheck mémorial hall**, [Ximending](#%E8%A5%BF%E9%97%A8%E7%94%BA-ximending)
+| 5 | | P5 | DongMen Market, Flower Market (le WE), DaAn Park
+| 6 | | | 林本源園邸 | 
+| 7 | | | **北投區**, 淡水區
+| 8 | | | [大稻埕區](#%E5%A4%A7%E7%A8%BB%E5%9F%95) |
+| 9 | | | Balade vélo |
+| 10 | | S2 | 五寮尖山
+| 11 | :sunny: | S1 | 平溪六尖, baignade cascades 
+
+| | Secondaire | |
+| --- | --- | --- |
+| :cloud_with_rain: | [台北地下街 TaipeiCityMall](http://www.taipeimall.com.tw/en) |
+| | MRT Zhongshan Underground Book Street |
+| | [Marchés couverts](https://www.travel.taipei/en/pictorial/article/53990) | cf. map
+| | [Roller 186 Skating Rink](https://roller186.com/taipeiarena/) 
+| | E7play
+| | [Roller186](https://maps.app.goo.gl/C3Wjv7aN3bEuuNJL8)
+| | [TarokoSport](https://maps.app.goo.gl/4UED1ULfLDqUrFQK9) | Cage de Baseball  
+| | Ice land
+| | Modern Toilet Resto | cf. map |
+| :sunny: | [象山步道](#%E8%B1%A1%E5%B1%B1%E6%AD%A5%E9%81%93-2h30) |
+
 ## <a id="keelung" />Keelung 台北
 
 ## <a id="taroko" />Taroko 太魯閣
