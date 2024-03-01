@@ -63,7 +63,9 @@
 ## <a id="keelung" />Keelung 台北
 
 ## <a id="taroko" />Taroko 太魯閣 (3j)
-
+- Hotel
+  - ...
+  - 
 ## <a id="taitung" />Taitung 台东 (2j)
 
 ## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
