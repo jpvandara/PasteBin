@@ -28,9 +28,9 @@
 ## <a id="taipei" />Taipei 台北 (11j)
 
 - Hotel
-  - du 1 au 4 [Queens Hotel 2](https://www.booking.com/hotel/tw/queens-hotel-ii.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (à 4)
-  - du 4 au 7 [Triple Tiger Inn](https://www.booking.com/hotel/tw/triple-tiger-taipei.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (à 4)
-  - du 24 au 28 [Sunny Hostel](https://www.booking.com/hotel/tw/tai-bei-tian-qing-qing-nian-lu-guan.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (à 6)
+  - du 1 au 4 [Queens Hotel 2](https://www.booking.com/hotel/tw/queens-hotel-ii.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (seulement charentonnais)
+  - du 4 au 7 [Triple Tiger Inn](https://www.booking.com/hotel/tw/triple-tiger-taipei.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (seulement charentonnais)
+  - du 24 au 28 [Sunny Hostel](https://www.booking.com/hotel/tw/tai-bei-tian-qing-qing-nian-lu-guan.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142)
     
 | Jour | Temps | | Structure |
 | --- | --- | --- | --- |
@@ -61,7 +61,7 @@
 
 
 ## <a id="keelung" />Keelung 台北
-- Hotel TODO
+- Hotel TODO (seulement charentonnais)
 - Marché de nuit de keelung
 - rando [茶壺山](https://youtu.be/7pE-kUjAm5c?t=252)
 - visit [九份](https://youtu.be/VyinTcVrkWo)
