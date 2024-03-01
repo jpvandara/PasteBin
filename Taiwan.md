@@ -92,6 +92,7 @@
   - Eventuellement, le [festival de ballon](https://balloontaiwan.taitung.gov.tw/en)
 
 ## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
+- Traversée bateau ~2h
 - Hotel
   - si possible chez [月台民宿](https://maps.app.goo.gl/VLXZn6GiJKUUJsuW8) car bon retour, bien situé et loue des vélos.
 - Activités
