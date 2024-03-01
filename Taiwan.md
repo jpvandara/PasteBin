@@ -62,15 +62,16 @@
 
 ## <a id="keelung" />Keelung 台北 (3j/2n)
 - Hotel TODO (seulement charentonnais)
-- Marché de nuit de keelung
-- rando [茶壺山](https://youtu.be/7pE-kUjAm5c?t=252)
-- visit [九份](https://youtu.be/VyinTcVrkWo)
+- Activités
+  - Marché de nuit de keelung
+  - rando [茶壺山](https://youtu.be/7pE-kUjAm5c?t=252)
+  - visit [九份](https://youtu.be/VyinTcVrkWo)
 
 ## <a id="taroko" />Taroko 太魯閣 (4j/3n)
 - Hotel
   - nuit du 9, hotel à Hualien TODO
   - du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) OUVERTURE RESA DEBUT MAI :alarm_clock:
-- rando/visit
+- Activités
   - [Shakadang Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-trail--4) ou sa [version longue}(https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-and-tongli-loop) [video](https://youtu.be/qHQuwvOLS6o)
   - [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail) [video](https://youtu.be/Al0hBseZbU0?t=3)
   - [Swallow Grotto Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/swallow-grotto-trail) [video](https://youtu.be/ZxgZrsHrwrw)
@@ -84,6 +85,11 @@
 - questionnement: à la fin de J3, on passe une nuit à Hualien ou part directement pour Taitung (train 2h)?
 
 ## <a id="taitung" />Taitung 台东 (2j)
+- Hotel
+- Activités
+  - Journée vélo dans les rizières de [池上 Chishang](https://maps.app.goo.gl/yADvgcQHaEn8srW27)    [video](https://youtu.be/HlQbgTydUyc)
+  - Jounrée source chaude de [栗松溫泉 Lisong](https://maps.app.goo.gl/ZJ59xBMbLsK2cEvw8) [video](https://youtu.be/bU3983IN6H8)
+  - Eventuellement, le [festival de ballon](https://balloontaiwan.taitung.gov.tw/en)
 
 ## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
 
