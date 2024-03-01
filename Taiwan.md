@@ -28,9 +28,9 @@
 ## <a id="taipei" />Taipei 台北 (11j)
 
 - Hotel
-  - du 1 au 4 [Queens Hotel 2](https://www.booking.com/hotel/tw/queens-hotel-ii.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (seulement charentonnais)
-  - du 4 au 7 [Triple Tiger Inn](https://www.booking.com/hotel/tw/triple-tiger-taipei.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (seulement charentonnais)
-  - du 24 au 28 [Sunny Hostel](https://www.booking.com/hotel/tw/tai-bei-tian-qing-qing-nian-lu-guan.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142)
+  - du 1 au 4 (3 nuits) [Queens Hotel 2](https://www.booking.com/hotel/tw/queens-hotel-ii.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (seulement charentonnais)
+  - du 4 au 7 (3 nuits) [Triple Tiger Inn](https://www.booking.com/hotel/tw/triple-tiger-taipei.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (seulement charentonnais)
+  - du 24 au 28 (4 nuits) [Sunny Hostel](https://www.booking.com/hotel/tw/tai-bei-tian-qing-qing-nian-lu-guan.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142)
     
 | Jour | Temps | | Structure |
 | --- | --- | --- | --- |
@@ -60,16 +60,16 @@
 | :sunny: | [象山步道](#%E8%B1%A1%E5%B1%B1%E6%AD%A5%E9%81%93-2h30) |
 
 
-## <a id="keelung" />Keelung 台北
+## <a id="keelung" />Keelung 台北 (3j/2n)
 - Hotel TODO (seulement charentonnais)
 - Marché de nuit de keelung
 - rando [茶壺山](https://youtu.be/7pE-kUjAm5c?t=252)
 - visit [九份](https://youtu.be/VyinTcVrkWo)
 
-## <a id="taroko" />Taroko 太魯閣 (3j)
+## <a id="taroko" />Taroko 太魯閣 (4j/3n)
 - Hotel
-  - ...
-  - 
+  - nuit 9, hotel à Hualien TODO
+  - du 10 au 12 (2 nuits) 
 ## <a id="taitung" />Taitung 台东 (2j)
 
 ## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
