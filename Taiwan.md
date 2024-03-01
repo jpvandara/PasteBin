@@ -71,12 +71,12 @@
   - nuit 9, hotel à Hualien TODO
   - du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) OUVERTURE RESA DEBUT MAI :alarm_clock:
 - rando/visit
-  - [Shakadang Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-trail--4) ou sa [version longue}(https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-and-tongli-loop)
-  - [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail)
-  - [Swallow Grotto Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/swallow-grotto-trail)
-  - [Tunnel of Nine Turns Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/tunnel-of-nine-turns-trail)
-  - [Source chaude pleine nature 文山野溪溫泉](https://youtu.be/q1dIi_Ql7CM?t=3) [ici](https://maps.app.goo.gl/TdJyQ2Z7Jw64SpmD9)
-  - [Baiyang Waterfall Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/baiyang-waterfall-trail)
+  - [Shakadang Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-trail--4) ou sa [version longue}(https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-and-tongli-loop) [video](https://youtu.be/qHQuwvOLS6o)
+  - [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail) [video](https://youtu.be/Al0hBseZbU0?t=3)
+  - [Swallow Grotto Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/swallow-grotto-trail) [video](https://youtu.be/ZxgZrsHrwrw)
+  - [Tunnel of Nine Turns Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/tunnel-of-nine-turns-trail) [video](https://youtu.be/23R33Ou7O04)
+  - [Source chaude pleine nature 文山野溪溫泉](https://maps.app.goo.gl/TdJyQ2Z7Jw64SpmD9) [video](https://youtu.be/q1dIi_Ql7CM?t=3) 
+  - [Baiyang Waterfall Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/baiyang-waterfall-trail) [video](https://youtu.be/k0fGTH0lNZQ)
     
 ## <a id="taitung" />Taitung 台东 (2j)
 
