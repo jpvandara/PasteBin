@@ -69,7 +69,7 @@
 ## <a id="taroko" />Taroko 太魯閣 (4j/3n)
 - Hotel
   - nuit 9, hotel à Hualien TODO
-  - du 10 au 12 (2 nuits) 
+  - du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) OUVERTURE RESE DEBUT MAI :alarm_clock:
 ## <a id="taitung" />Taitung 台东 (2j)
 
 ## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
