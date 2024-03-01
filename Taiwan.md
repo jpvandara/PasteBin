@@ -41,7 +41,7 @@
 | 4 | | [Chiang Kai-shek Memorial Hall](https://maps.app.goo.gl/MBscffYWo8RZbqhj9), [Ximending](https://youtu.be/8VFmjrMw0Ts)
 | 5 | | DongMen Market, Flower Market (le WE), DaAn Park.... :construction: TODO
 | 6 | | 林本源園邸...... :construction: TODO| 
-| 7 | | quarteir Source chaude de [北投區](https://maps.app.goo.gl/sgSravCbkZNo9Y7N8), quartier 淡水區 Tamsui
+| 7 | | quartier Source chaude de [北投區](https://maps.app.goo.gl/sgSravCbkZNo9Y7N8), quartier 淡水區 Tamsui
 | 8 | | quartier [大稻埕區 Dadaocheng](https://www.google.com/maps/@25.0538262,121.5094333,17.17z?entry=ttu) |
 | 9 | | Balade vélo |
 | 10 | | rando [五寮尖山 Wuliao peak](https://youtu.be/vNiveMLYAzM?t=361) |
