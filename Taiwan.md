@@ -75,7 +75,7 @@
 - prévision de planning
   - d7: arrivée à Keelung en après midi, marché de nuit
   - l8: bus ~1, rando ~3h, visit Jiufen. Soirée en Jiufen ou retour pour marché nuit de Keelung.
-  - m9: retour pour Taipei ~45min
+  - m9: retour pour Taipei ~45min, rdv avec les bretons, train pour Hualien ~2h
     
 ## <a id="taroko" />Taroko 太魯閣 (4j/3n)
 - Hotel
