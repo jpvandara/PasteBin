@@ -61,6 +61,10 @@
 
 
 ## <a id="keelung" />Keelung 台北
+- Hotel TODO
+- Marché de nuit de keelung
+- rando [茶壺山](https://youtu.be/7pE-kUjAm5c?t=252)
+- visit [九份](https://youtu.be/VyinTcVrkWo)
 
 ## <a id="taroko" />Taroko 太魯閣 (3j)
 - Hotel
