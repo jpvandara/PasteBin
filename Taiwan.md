@@ -85,14 +85,18 @@
 - questionnement: à la fin de J3, on passe une nuit à Hualien ou part directement pour Taitung (train 2h)?
 
 ## <a id="taitung" />Taitung 台东 (2j)
-- Hotel
+- Hotel TODO
 - Activités
   - Journée vélo dans les rizières de [池上 Chishang](https://maps.app.goo.gl/yADvgcQHaEn8srW27)    [video](https://youtu.be/HlQbgTydUyc)
   - Jounrée source chaude de [栗松溫泉 Lisong](https://maps.app.goo.gl/ZJ59xBMbLsK2cEvw8) [video](https://youtu.be/bU3983IN6H8) 	:warning: sous réserve que mon permis international arrive à temps!
   - Eventuellement, le [festival de ballon](https://balloontaiwan.taitung.gov.tw/en)
 
 ## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
-
+- Hotel
+  - si possible chez [月台民宿](https://maps.app.goo.gl/VLXZn6GiJKUUJsuW8) car bon retour, bien situé et loue des vélos.
+- Activités
+  - Snorkeling
+    
 ## <a id="tainan" />Tainan 台南 (3j)
 
 ## <a id="alishan" />Alishan 阿里山 
