@@ -88,7 +88,7 @@
 - Hotel
 - Activités
   - Journée vélo dans les rizières de [池上 Chishang](https://maps.app.goo.gl/yADvgcQHaEn8srW27)    [video](https://youtu.be/HlQbgTydUyc)
-  - Jounrée source chaude de [栗松溫泉 Lisong](https://maps.app.goo.gl/ZJ59xBMbLsK2cEvw8) [video](https://youtu.be/bU3983IN6H8)
+  - Jounrée source chaude de [栗松溫泉 Lisong](https://maps.app.goo.gl/ZJ59xBMbLsK2cEvw8) [video](https://youtu.be/bU3983IN6H8) 	:warning: sous réserve que mon permis international arrive à temps!
   - Eventuellement, le [festival de ballon](https://balloontaiwan.taitung.gov.tw/en)
 
 ## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
