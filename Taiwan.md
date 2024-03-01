@@ -120,7 +120,7 @@
     - [Westernmost Point of Taiwan](https://maps.app.goo.gl/zHKfeAUuwG1ttKTi9)
     - [Centre attration autour du sel](https://maps.app.goo.gl/R546xeqCGNhMGJwv9)
 
-## <a id="alishan" />Alishan 阿里山 
+## <a id="alishan" />Alishan 阿里山 (3j/2n)
 - Hotel TODO
 - Activités
   - Visite colline de plantation de thé
