@@ -32,9 +32,10 @@
   - du 4 au 7 (3 nuits) [Triple Tiger Inn](https://www.booking.com/hotel/tw/triple-tiger-taipei.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (seulement charentonnais)
   - du 24 au 28 (4 nuits) [Sunny Hostel](https://www.booking.com/hotel/tw/tai-bei-tian-qing-qing-nian-lu-guan.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (un chambre 2 lits triples superposés face parc (photo 9))
     
-| Jour | Temps | | Structure |
+
+| Jour | Temps | | Principal |
 | --- | --- | --- | --- |
-| 1 | :cloud_with_rain: | P1 | **Musée national**, pêche aux crevettes, Shilin night market
+| 1 | :cloud_with_rain: | P1 | **Musée national**, pêche aux crevettes, **Shilin night market**
 | 2 | | P2 | **Tour 101**, Shopping, I-Ride
 | 3 | | P3 | **孙中山紀念館**, Creative parks (Songshan, Huashan)
 | 4 | | P4 | **Changkaicheck mémorial hall**, [Ximending](#%E8%A5%BF%E9%97%A8%E7%94%BA-ximending)
@@ -43,21 +44,26 @@
 | 7 | | | **北投區**, 淡水區
 | 8 | | | [大稻埕區](#%E5%A4%A7%E7%A8%BB%E5%9F%95) |
 | 9 | | | Balade vélo |
-| 10 | | S2 | 五寮尖山
-| 11 | :sunny: | S1 | 平溪六尖, baignade cascades 
+| 10 | | S2 | rando [五寮尖山](https://youtu.be/vNiveMLYAzM?t=361) |
+| 11 | :sunny: | S1 | rando [平溪六尖](https://youtu.be/DQnrA0GS-DQ?t=10), [baignade cascades](https://youtu.be/5MXErNYXcSE?t=365) 
 
 | | Secondaire | |
 | --- | --- | --- |
 | :cloud_with_rain: | [台北地下街 TaipeiCityMall](http://www.taipeimall.com.tw/en) |
+| | Spectacles | Opera, Cirques|
 | | MRT Zhongshan Underground Book Street |
+| | Miramar mall |
+| | XPark aquarium |
+| | VIVELAND VR Theme Park |
 | | [Marchés couverts](https://www.travel.taipei/en/pictorial/article/53990) | cf. map
-| | [Roller 186 Skating Rink](https://roller186.com/taipeiarena/) 
-| | E7play
-| | [Roller186](https://maps.app.goo.gl/C3Wjv7aN3bEuuNJL8)
+| | [Roller 186 Skating Rink](https://maps.app.goo.gl/C3Wjv7aN3bEuuNJL8) | Roller |
+| | E7play | Multi-activités |
 | | [TarokoSport](https://maps.app.goo.gl/4UED1ULfLDqUrFQK9) | Cage de Baseball  
-| | Ice land
-| | Modern Toilet Resto | cf. map |
-| :sunny: | [象山步道](#%E8%B1%A1%E5%B1%B1%E6%AD%A5%E9%81%93-2h30) |
+| | Ice land | Patin à glace |
+| | Modern Toilet Resto | resto cacaPipi |
+| | Marché Fleurs et Jade (le WE only)  |
+| :sunny: | rando [象山步道](https://www.alltrails.com/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng) |
+
 
 
 ## <a id="keelung" />Keelung 台北 (3j/2n)
