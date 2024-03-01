@@ -69,7 +69,15 @@
 ## <a id="taroko" />Taroko 太魯閣 (4j/3n)
 - Hotel
   - nuit 9, hotel à Hualien TODO
-  - du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) OUVERTURE RESE DEBUT MAI :alarm_clock:
+  - du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) OUVERTURE RESA DEBUT MAI :alarm_clock:
+- rando/visit
+  - [Shakadang Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-trail--4) ou sa [version longue}(https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-and-tongli-loop)
+  - [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail)
+  - [Swallow Grotto Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/swallow-grotto-trail)
+  - [Tunnel of Nine Turns Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/tunnel-of-nine-turns-trail)
+  - [Source chaude pleine nature 文山野溪溫泉](https://youtu.be/q1dIi_Ql7CM?t=3) [ici](https://maps.app.goo.gl/TdJyQ2Z7Jw64SpmD9)
+  - [Baiyang Waterfall Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/baiyang-waterfall-trail)
+    
 ## <a id="taitung" />Taitung 台东 (2j)
 
 ## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
