@@ -70,7 +70,7 @@
 - Hotel TODO (seulement charentonnais)
 - Activités
   - Marché de nuit de keelung
-  - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252)
+  - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) [version venteux](https://youtu.be/Dwrx5yUnUhI)
   - visit [九份 Jiufen](https://youtu.be/VyinTcVrkWo)
 - prévision de planning
   - d7: arrivée à Keelung en après midi, marché de nuit
@@ -111,6 +111,18 @@
   - Baignade, Snorkeling
   - ...
     
-## <a id="tainan" />Tainan 台南 (3j)
+## <a id="tainan" />Tainan 台南 (4j/3n)
+- Hotel TODO
+- Activités
+  - Visite ville
+  - Journée vélo au bord de mer dans le triangle
+    - [Taijiang National Park 台江國家公園](https://maps.app.goo.gl/oSQM6bZ1rq1UgMY29) 
+    - [Westernmost Point of Taiwan](https://maps.app.goo.gl/zHKfeAUuwG1ttKTi9)
+    - [Centre attration autour du sel](https://maps.app.goo.gl/R546xeqCGNhMGJwv9)
 
 ## <a id="alishan" />Alishan 阿里山 
+- Hotel TOTO
+- Activités
+  - Visite colline de plantation de thé
+  - Rando dans foret de bamboo [奮瑞古道 Fenrui Historical Trail](https://youtu.be/cjHw3EXFjRk)
+  - Levée de soleil sur les monts Alishan
