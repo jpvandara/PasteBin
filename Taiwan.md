@@ -114,7 +114,7 @@
 ## <a id="tainan" />Tainan 台南 (4j/3n)
 - Hotel TODO
 - Activités
-  - Visite ville
+  - Visite vielle ville
   - Journée vélo au bord de mer dans le triangle
     - [Taijiang National Park 台江國家公園](https://maps.app.goo.gl/oSQM6bZ1rq1UgMY29) 
     - [Westernmost Point of Taiwan](https://maps.app.goo.gl/zHKfeAUuwG1ttKTi9)
