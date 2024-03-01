@@ -1,12 +1,12 @@
 # Taiwan
 ## TOC
-- [Taipei](#taipei)
-- [Keelung](#keelung)
-- [Taroko](#taroko)
-- [Taitung](#taitung)
-- [Orchid Island](#orchid-island)
-- [Tainan](#tainan)
-- [Alishan](#alishan)
+- [Taipei 台北](#taipei)
+- [Keelung 基隆](#keelung)
+- [Taroko 太魯閣](#taroko)
+- [Taitung 台东](#taitung)
+- [Orchid Island 蘭嶼岛](#orchid-island)
+- [Tainan 台南](#tainan)
+- [Alishan 阿里山](#alishan)
 
 ## Calendrier
 | l | m | M | j | v | s | d
