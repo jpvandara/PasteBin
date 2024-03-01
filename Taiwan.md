@@ -121,7 +121,7 @@
     - [Centre attration autour du sel](https://maps.app.goo.gl/R546xeqCGNhMGJwv9)
 
 ## <a id="alishan" />Alishan 阿里山 
-- Hotel TOTO
+- Hotel TODO
 - Activités
   - Visite colline de plantation de thé
   - Rando dans foret de bamboo [奮瑞古道 Fenrui Historical Trail](https://youtu.be/cjHw3EXFjRk)
