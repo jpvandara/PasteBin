@@ -32,17 +32,16 @@
   - du 4 au 7 (3 nuits) [Triple Tiger Inn](https://www.booking.com/hotel/tw/triple-tiger-taipei.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (seulement charentonnais)
   - du 24 au 28 (4 nuits) [Sunny Hostel](https://www.booking.com/hotel/tw/tai-bei-tian-qing-qing-nian-lu-guan.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (un chambre 2 lits triples superposés face parc (photo 9))
     
-
 | Jour | Temps | | Principal |
 | --- | --- | --- | --- |
 | 1 | :cloud_with_rain: | P1 | **Musée national**, pêche aux crevettes, **Shilin night market**
 | 2 | | P2 | **Tour 101**, Shopping, I-Ride
 | 3 | | P3 | **孙中山紀念館**, Creative parks (Songshan, Huashan)
 | 4 | | P4 | **Changkaicheck mémorial hall**, [Ximending](#%E8%A5%BF%E9%97%A8%E7%94%BA-ximending)
-| 5 | | P5 | DongMen Market, Flower Market (le WE), DaAn Park
-| 6 | | | 林本源園邸 | 
-| 7 | | | **北投區**, 淡水區
-| 8 | | | [大稻埕區](#%E5%A4%A7%E7%A8%BB%E5%9F%95) |
+| 5 | | P5 | DongMen Market, Flower Market (le WE), DaAn Park....
+| 6 | | | 林本源園邸...... | 
+| 7 | | | quartir Source chaude de [北投區](https://maps.app.goo.gl/sgSravCbkZNo9Y7N8), quartier 淡水區 Tamsui
+| 8 | | | quartier [大稻埕區 Dadaocheng](https://www.google.com/maps/@25.0538262,121.5094333,17.17z?entry=ttu) |
 | 9 | | | Balade vélo |
 | 10 | | S2 | rando [五寮尖山](https://youtu.be/vNiveMLYAzM?t=361) |
 | 11 | :sunny: | S1 | rando [平溪六尖](https://youtu.be/DQnrA0GS-DQ?t=10), [baignade cascades](https://youtu.be/5MXErNYXcSE?t=365) 
