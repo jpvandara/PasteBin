@@ -32,21 +32,22 @@
   - du 4 au 7 (3 nuits) [Triple Tiger Inn](https://www.booking.com/hotel/tw/triple-tiger-taipei.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (seulement charentonnais)
   - du 24 au 28 (4 nuits) [Sunny Hostel](https://www.booking.com/hotel/tw/tai-bei-tian-qing-qing-nian-lu-guan.fr.html?label=gen173nr-1FCAEoggI46AdIM1gEaE2IAQGYAQ24ARfIAQ_YAQHoAQH4AQuIAgGoAgO4AvP3-64GwAIB0gIkNTk5YWZjYzMtOWQ2YS00M2U0LWJiNjctZWRiYTU2YjE0Njk52AIG4AIB&sid=4886e70dbb9458b4775d14aed9f5a04c&aid=304142) (un chambre 2 lits triples superposés face parc (photo 9))
     
-| Jour | Temps | | Principal |
-| --- | --- | --- | --- |
-| 1 | :cloud_with_rain: | P1 | [Musée national](https://maps.app.goo.gl/opUC2Zo1nQYXeVTg6), pêche aux crevettes, **Shilin night market**
-| 2 | | P2 | [Tour 101](https://maps.app.goo.gl/agW9YgrYaws8x49H8), Shopping, I-Ride
-| 3 | | P3 | [孙中山紀念館 Sun Yat-Sen Memorial Hall](https://maps.app.goo.gl/6HkvyrePh5YTMNPn6), Creative parks (Songshan, Huashan)
-| 4 | | P4 | [Chiang Kai-shek Memorial Hall](https://maps.app.goo.gl/MBscffYWo8RZbqhj9), [Ximending](https://youtu.be/8VFmjrMw0Ts)
-| 5 | | P5 | DongMen Market, Flower Market (le WE), DaAn Park....
-| 6 | | | 林本源園邸...... | 
-| 7 | | | quarteir Source chaude de [北投區](https://maps.app.goo.gl/sgSravCbkZNo9Y7N8), quartier 淡水區 Tamsui
-| 8 | | | quartier [大稻埕區 Dadaocheng](https://www.google.com/maps/@25.0538262,121.5094333,17.17z?entry=ttu) |
-| 9 | | | Balade vélo |
-| 10 | | S2 | rando [五寮尖山 Wuliao peak](https://youtu.be/vNiveMLYAzM?t=361) |
-| 11 | :sunny: | S1 | rando [平溪六尖 Pingxi Crags](https://youtu.be/DQnrA0GS-DQ?t=10), [baignade cascades](https://youtu.be/5MXErNYXcSE?t=365) 
 
-| | Secondaire | |
+| Jour | Météo | Principal |
+| --- | --- | --- |
+| 1 | :cloud_with_rain: | [Musée national](https://maps.app.goo.gl/opUC2Zo1nQYXeVTg6), pêche aux crevettes, **Shilin night market**
+| 2 | | [Tour 101](https://maps.app.goo.gl/agW9YgrYaws8x49H8), Shopping, I-Ride
+| 3 | | [孙中山紀念館 Sun Yat-Sen Memorial Hall](https://maps.app.goo.gl/6HkvyrePh5YTMNPn6), Creative parks (Songshan, Huashan)
+| 4 | | [Chiang Kai-shek Memorial Hall](https://maps.app.goo.gl/MBscffYWo8RZbqhj9), [Ximending](https://youtu.be/8VFmjrMw0Ts)
+| 5 | | DongMen Market, Flower Market (le WE), DaAn Park....
+| 6 | | 林本源園邸...... | 
+| 7 | | quarteir Source chaude de [北投區](https://maps.app.goo.gl/sgSravCbkZNo9Y7N8), quartier 淡水區 Tamsui
+| 8 | | quartier [大稻埕區 Dadaocheng](https://www.google.com/maps/@25.0538262,121.5094333,17.17z?entry=ttu) |
+| 9 | | Balade vélo |
+| 10 | | rando [五寮尖山 Wuliao peak](https://youtu.be/vNiveMLYAzM?t=361) |
+| 11 | :sunny: | rando [平溪六尖 Pingxi Crags](https://youtu.be/DQnrA0GS-DQ?t=10), [baignade cascades](https://youtu.be/5MXErNYXcSE?t=365) 
+
+| Météo | Secondaire | |
 | --- | --- | --- |
 | :cloud_with_rain: | [台北地下街 TaipeiCityMall](http://www.taipeimall.com.tw/en) |
 | | Spectacles | Opera, Cirques|
