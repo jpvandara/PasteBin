@@ -10,8 +10,8 @@
 - [Tainan 台南](#tainan)
 - [Alishan 阿里山](#alishan)
 
-## A faire
-- :alarm_clock: [Loterie 'Taiwan Lucky Land'](https://theme.taiwan.net.tw/luckyland/en.html) à faire 1 semaine avant le départ
+## A faire :alarm_clock:
+- [Loterie 'Taiwan Lucky Land'](https://theme.taiwan.net.tw/luckyland/en.html) à faire 1 semaine avant le départ
 
 ## Calendrier
 | l | m | M | j | v | s | d
