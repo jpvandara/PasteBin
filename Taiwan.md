@@ -87,10 +87,10 @@
 ## <a id="taroko" />Taroko 太魯閣 (4j/3n)
 - Hotel
   - nuit du 9, hotel à Hualien TODO
-  - du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) <a name="resa-hotel-taroko"/> :warning: OUVERTURE RESA DEBUT MAI :alarm_clock:
+  - :alarm_clock: du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) <a name="resa-hotel-taroko"/> :warning: OUVERTURE RESA DEBUT MAI :warning:
 - Activités
   - [Shakadang Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-trail--4) ou sa [version longue](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-and-tongli-loop) [video](https://youtu.be/qHQuwvOLS6o)
-  - [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail) [video](https://youtu.be/Al0hBseZbU0?t=3) <a name="permit-zhuilu-trail"/> :warning: RESA PERMIT pour étranger vers mi-mars :warning:
+  - :alarm_clock: [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail) [video](https://youtu.be/Al0hBseZbU0?t=3) <a name="permit-zhuilu-trail"/> :warning: RESA PERMIT pour étranger vers mi-mars :warning:
   - [Swallow Grotto Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/swallow-grotto-trail) [video](https://youtu.be/ZxgZrsHrwrw)
   - [Tunnel of Nine Turns Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/tunnel-of-nine-turns-trail) [video](https://youtu.be/23R33Ou7O04)
   - [Source chaude pleine nature 文山野溪溫泉](https://maps.app.goo.gl/TdJyQ2Z7Jw64SpmD9) [video](https://youtu.be/q1dIi_Ql7CM?t=3) 
