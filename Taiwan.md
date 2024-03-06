@@ -12,6 +12,7 @@
 
 ## A faire :alarm_clock:
 - [Loterie 'Taiwan Lucky Land'](https://theme.taiwan.net.tw/luckyland/en.html) à faire 1 semaine avant le départ
+- [test](#test)
 
 ## Calendrier
 | l | m | M | j | v | s | d
@@ -85,7 +86,7 @@
 ## <a id="taroko" />Taroko 太魯閣 (4j/3n)
 - Hotel
   - nuit du 9, hotel à Hualien TODO
-  - du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) :warning: OUVERTURE RESA DEBUT MAI :alarm_clock:
+  - du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) <a name="test"/> :warning: OUVERTURE RESA DEBUT MAI :alarm_clock:
 - Activités
   - [Shakadang Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-trail--4) ou sa [version longue](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-and-tongli-loop) [video](https://youtu.be/qHQuwvOLS6o)
   - [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail) [video](https://youtu.be/Al0hBseZbU0?t=3) :warning: RESA PERMIT pour étranger vers mi-mars :warning:
