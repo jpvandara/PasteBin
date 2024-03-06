@@ -1,5 +1,7 @@
 # Taiwan
 ## TOC
+- [A faire](#a-faire)
+- [Calendrier](#calendrier)
 - [Taipei 台北](#taipei)
 - [Keelung 基隆](#keelung)
 - [Taroko 太魯閣](#taroko)
