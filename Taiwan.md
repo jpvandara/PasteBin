@@ -13,7 +13,9 @@
 ## A faire :alarm_clock:
 - **Mi mars** [réservation permit pour Zhuilu Old road trail](#permit-zhuilu-trail)
 - **Début mai** [réservation de l'hotel à Taroko](#resa-hotel-taroko)
-- **1 semaine le vol** [Loterie 'Taiwan Lucky Land'](https://theme.taiwan.net.tw/luckyland/en.html)
+- **1 semaine avantle vol** [Loterie 'Taiwan Lucky Land'](https://theme.taiwan.net.tw/luckyland/en.html)
+  - 24 juin pour les charentonnais
+  - 28 juin pour les bretons
 
 ## Calendrier
 | l | m | M | j | v | s | d
