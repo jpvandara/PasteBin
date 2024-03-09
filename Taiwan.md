@@ -87,11 +87,14 @@
   - l8: bus ~1, rando ~3h, visit Jiufen. Soirée en Jiufen ou retour pour marché nuit de Keelung.
   - m9: retour pour Taipei ~45min, rdv avec les bretons, train pour Hualien ~2h
     
-## <a id="taroko" />Taroko 太魯閣 (4j/3n)
+## <a id="hualien" />Hualien 花蓮 (4j/3n)
 - Hotel
-  - nuit du 9, hotel à Hualien TODO
-  - :alarm_clock: du 10 au 12 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) <a name="resa-hotel-taroko"/> :warning: OUVERTURE RESA DEBUT MAI :warning:
+  - nuit du 9&10, hotel à Hualien TODO
+  - :alarm_clock: du 11 au 13 (2 nuits) au [centre d'activité jeunesse](https://maps.app.goo.gl/EVGjSJxHyJHFt2tu8) <a name="resa-hotel-taroko"/> :warning: OUVERTURE RESA DEBUT MAI :warning:
 - Activités
+  - Côtes pacifique au sud Hualien
+    - [Rizières face mer](https://maps.app.goo.gl/imTpn4idCpY1MW2C7)
+    - Points de vue: [大石鼻山 Dashibishan](https://maps.app.goo.gl/bEahQn8jZnc86DLN6) et [芭崎 Baqi](https://maps.app.goo.gl/T9q5w7ykAnG7TJ7D8)
   - [Shakadang Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-trail--4) ou sa [version longue](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-and-tongli-loop) [video](https://youtu.be/qHQuwvOLS6o)
   - :alarm_clock: [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail) [video](https://youtu.be/Al0hBseZbU0?t=3) <a name="permit-zhuilu-trail"/> :warning: RESA PERMIT pour étranger vers mi-mars :warning:
   - [Swallow Grotto Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/swallow-grotto-trail) [video](https://youtu.be/ZxgZrsHrwrw)
