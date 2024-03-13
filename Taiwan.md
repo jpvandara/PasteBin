@@ -45,12 +45,14 @@
   - rando Shakadang
   - (visite 長春祠 Changchun Shrine)
   - (visite 禪光寺 Changuang Temple)
+  - Wenshan Hot Spring
   - bus et nuit à 天祥 Tianxiang 
 - j11 太魯閣
   - bus
   - Zhuilu Old trail (~3h)
   - Swallow Grotto trail (~1h)
   - Tunnel of Nine Turns trail (~1h)
+  - Wenshan Hot Spring
   - retour à pied (~10km)
 - v12
 - s13
