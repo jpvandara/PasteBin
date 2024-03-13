@@ -40,13 +40,13 @@
   - rdv avec les bretons
   - train et nuit à 花蓮 Hualien
     - night market de Hualien
-- M10
+- M10 花蓮/太魯閣
   - train & bus pour Taroko
   - rando Shakadang
   - (visite 長春祠 Changchun Shrine)
   - (visite 禪光寺 Changuang Temple)
   - bus et nuit à 天祥 Tianxiang 
-- j11
+- j11 太魯閣
 - v12
 - s13
 - d14
