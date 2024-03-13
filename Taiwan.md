@@ -41,7 +41,7 @@
   - train et nuit à 花蓮 Hualien
     - night market de Hualien
 - M10 花蓮/太魯閣
-  - train & bus pour Taroko
+  - train & bus pour Taroko (~15 + ~10 min)
   - rando Shakadang
   - (visite 長春祠 Changchun Shrine)
   - (visite 禪光寺 Changuang Temple)
