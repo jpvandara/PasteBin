@@ -45,6 +45,7 @@
   - rando Shakadang
   - (visite 長春祠 Changchun Shrine)
   - (visite 禪光寺 Changuang Temple)
+  - bus et nuit à 天祥 Tianxiang 
 - j11
 - v12
 - s13
