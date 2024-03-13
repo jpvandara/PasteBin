@@ -38,10 +38,13 @@
 - m9 基隆/花蓮
   - train pour 台北 taipei
   - rdv avec les bretons
-  - train et nuit à 花蓮 hualien
+  - train et nuit à 花蓮 Hualien
     - night market de Hualien
 - M10
   - train & bus pour Taroko
+  - rando Shakadang
+  - (visite 長春祠 Changchun Shrine)
+  - (visite 禪光寺 Changuang Temple)
 - j11
 - v12
 - s13
