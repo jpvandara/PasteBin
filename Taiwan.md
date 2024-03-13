@@ -27,7 +27,7 @@
 | l1 | m2 | M3 | j4 | v5* | s6 | d7 |
 | 台北| 台北 | 台北 | 台北 | 台北 | 台北 | 台北/基隆 |
 | l8 | m9 | M10 | j11 | v12 | s13 | d14 |
-| 基隆 | 基隆/花蓮 | 花蓮/太魯閣 | 太魯閣 | 太魯閣/花蓮 | 花蓮/台东| 台东 |
+| 基隆 | 基隆/花蓮 | 花蓮/太魯閣 | 太魯閣 | 太魯閣/花蓮 | 花蓮/台东 | 台东 |
 | l15 | m16 | M17 | j18 | v19 | s20 | d21
 | 台东 | 台东/蘭嶼岛 | 蘭嶼岛 | 蘭嶼岛 | 蘭嶼岛/台南 | 台南 | 台南 |
 | l22 | m23 | M24 | j25 | v26 | s27 | d28
@@ -35,6 +35,31 @@
 | l29 |
 | Avion/Paris |
 
+- m9 基隆/花蓮
+  - train pour 台北 taipei
+  - rdv avec les bretons
+  - train et nuit à 花蓮 hualien
+    - night market de Hualien
+- M10
+  - train & bus pour Taroko
+- j11
+- v12
+- s13
+- d14
+- l15
+- m16
+- M17
+- j18
+- v19
+- s20
+- d21
+- l22
+- m23
+- M24
+- j25
+- v26
+- s27
+- d28
 ## <a id="taipei" />Taipei 台北 (11j)
 
 - Hotel
