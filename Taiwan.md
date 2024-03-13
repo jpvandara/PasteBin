@@ -38,15 +38,20 @@
 - m9 基隆/花蓮
   - train pour 台北 taipei
   - rdv avec les bretons
-  - train et nuit à 花蓮 Hualien
+  - train (~2h30) et nuit à 花蓮 Hualien
     - night market de Hualien
 - M10 花蓮/太魯閣
-  - train & bus pour Taroko (~15 + ~10 min)
+  - train (~15min) & bus (~10 min) pour Taroko 
   - rando Shakadang
   - (visite 長春祠 Changchun Shrine)
   - (visite 禪光寺 Changuang Temple)
   - bus et nuit à 天祥 Tianxiang 
 - j11 太魯閣
+  - bus
+  - Zhuilu Old trail (~3h)
+  - Swallow Grotto trail (~1h)
+  - Tunnel of Nine Turns trail (~1h)
+  - retour à pied (~10km)
 - v12
 - s13
 - d14
