@@ -54,9 +54,20 @@
   - Tunnel of Nine Turns trail (~1h)
   - Wenshan Hot Spring
   - retour à pied (~10km)
-- v12
-- s13
-- d14
+- v12 太魯閣/花蓮
+  - Baiyang Trail (~3h)
+  - bus et nuit à Hualien
+- s13 花蓮/台东
+  - bus pour visite de la côte pacifique
+    - 芭崎 Baqi promontoire
+    - 大石鼻 Dashibi promontoire
+    - 新社梯田 Xinshe rizière en terrasse et bord de mer 
+    - 石梯坪 Shitiping formation rocheuse
+    - 石雨傘 plage (mais surtout saut depuis rocher)
+  - nuit à Taitung
+- d14 台东
+  - train pour 池上 Cheshang (~30min)
+  - journée Vélo dans les rizières avec Takeshi Kaneshiro
 - l15
 - m16
 - M17
