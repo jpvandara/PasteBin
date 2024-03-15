@@ -71,7 +71,7 @@
 - l15 台东 Taitung
   - location voiture
   - source chaude de Lisong
-  - (festival des mongolfières)
+  - (festival des montgolfières)
 - m16 台东/蘭嶼岛 Taitung/Ile des orchidées
   - bus pour port
   - bateau (~2h)
