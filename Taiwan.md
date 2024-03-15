@@ -84,8 +84,9 @@
 - s20 台南 Tainan
   - visite de la ville
 - d21 台南 Tainan
-  - balade en vélo
-    - 
+  - balade en vélo (en U-bike, pour retour éventuel en bus)
+    - quartier 安南區 (zone nature, bord de mer)
+    - quartier 七股區 (zone marais salant)
 - l22
 - m23
 - M24
