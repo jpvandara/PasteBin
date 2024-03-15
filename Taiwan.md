@@ -57,7 +57,7 @@
 - v12 太魯閣/花蓮 Taroko/Hualien
   - Baiyang Trail (~3h)
   - bus et nuit à Hualien
-- s13 花蓮/台东 Hualien/Taitung  --> :warning: journée viste avec affaires
+- s13 花蓮/台东 Hualien/Taitung  --> :warning: journée visite avec affaires
   - bus pour visite de la côte pacifique
     - 芭崎 Baqi promontoire
     - 大石鼻 Dashibi promontoire
