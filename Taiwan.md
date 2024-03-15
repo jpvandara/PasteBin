@@ -35,29 +35,29 @@
 | l29 |
 | Avion/Paris |
 
-- m9 基隆/花蓮
+- m9 基隆/花蓮 Keelung/Hualien
   - train pour 台北 taipei
   - rdv avec les bretons
   - train (~2h30) et nuit à 花蓮 Hualien
     - night market de Hualien
-- M10 花蓮/太魯閣
+- M10 花蓮/太魯閣 Hualien/Taroko
   - train (~15min) & bus (~10 min) pour Taroko 
   - rando Shakadang
   - (visite 長春祠 Changchun Shrine)
   - (visite 禪光寺 Changuang Temple)
   - Wenshan Hot Spring
   - bus et nuit à 天祥 Tianxiang 
-- j11 太魯閣
+- j11 太魯閣 Taroko
   - bus
   - Zhuilu Old trail (~3h)
   - Swallow Grotto trail (~1h)
   - Tunnel of Nine Turns trail (~1h)
   - Wenshan Hot Spring
   - retour à pied (~10km)
-- v12 太魯閣/花蓮
+- v12 太魯閣/花蓮 Taroko/Hualien
   - Baiyang Trail (~3h)
   - bus et nuit à Hualien
-- s13 花蓮/台东
+- s13 花蓮/台东 Hualien/Taitung
   - bus pour visite de la côte pacifique
     - 芭崎 Baqi promontoire
     - 大石鼻 Dashibi promontoire
@@ -65,16 +65,27 @@
     - 石梯坪 Shitiping formation rocheuse
     - 石雨傘 plage (mais surtout saut depuis rocher)
   - nuit à Taitung
-- d14 台东
+- d14 台东 Taitung
   - train pour 池上 Cheshang (~30min)
   - journée Vélo dans les rizières avec Takeshi Kaneshiro
-- l15
-- m16
-- M17
-- j18
-- v19
-- s20
-- d21
+- l15 台东 Taitung
+  - location voiture
+  - source chaude de Lisong
+  - (festival des mongolfières)
+- m16 台东/蘭嶼岛 Taitung/Ile des orchidées
+  - bus pour port
+  - bateau (~2h)
+- M17 蘭嶼岛 Taitung/Ile des orchidées
+- j18 蘭嶼岛 Taitung/Ile des orchidées
+- v19 蘭嶼岛/台南 Ile des orchidées/Tainan
+  - bateau (~2h)
+  - bus pour Taitung
+  - train pour Tainan (~2-3h)
+- s20 台南 Tainan
+  - visite de la ville
+- d21 台南 Tainan
+  - balade en vélo
+    - 
 - l22
 - m23
 - M24
