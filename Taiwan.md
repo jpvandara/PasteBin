@@ -88,6 +88,7 @@
   - quartier 安南區 (zone nature, bord de mer)
   - quartier 七股區 (zone marais salant)
 - l22
+  - train (~45min+pour 奮起湖 Fenchihu
 - m23
 - M24
 - j25
