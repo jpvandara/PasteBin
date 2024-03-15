@@ -61,7 +61,7 @@
   - bus pour visite de la côte pacifique
     - 芭崎 Baqi promontoire
     - 大石鼻 Dashibi promontoire
-    - 新社梯田 Xinshe rizière en terrasse et bord de mer 
+    - 新社梯田 Xinshe rizière en terrasse sur bord de mer 
     - 石梯坪 Shitiping formation rocheuse
     - 石雨傘 plage (mais surtout saut depuis rocher)
   - nuit à Taitung
