@@ -61,9 +61,10 @@
   - bus pour visite de la côte pacifique
     - 芭崎 Baqi promontoire
     - 大石鼻 Dashibi promontoire
-    - 新社梯田 Xinshe rizière en terrasse sur bord de mer 
-    - 石梯坪 Shitiping formation rocheuse
-    - 石雨傘 plage (mais surtout saut depuis rocher)
+    - 新社梯田 Xinshe rizière en terrasse sur bord de mer
+      - au plus tard dernier bus 1140 16h42
+      - départ à 豐濱 du bus 1125 à 17h30 pour 光復 (arrivée 18h08)
+      - départ à 光復 du train 19h17 pour taitung (arrivée 20h44)
   - nuit à Taitung
 - d14 台东 Taitung
   - train pour 池上 Cheshang (~30min)
