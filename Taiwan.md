@@ -83,14 +83,18 @@
   - bus pour Taitung
   - train pour Tainan (~2-3h)
 - s20 台南 Tainan
-  - visite de la ville
-- d21 台南 Tainan
   - balade en vélo (en U-bike, pour retour éventuel en bus)
   - quartier 安南區 (zone nature, bord de mer)
   - quartier 七股區 (zone marais salant)
-- l22
-  - train (~45min+pour 奮起湖 Fenchihu
-- m23
+- d21 台南 Tainan/Chiayi
+  - visite de la ville
+  - train et nuit à Chiayi (~18h 40min)
+- l22 Chiaya/Fenchihu
+  - train AlishanExpress pour Fenchihu (9h 2h30)
+  - Fenrui historic trail (foret de bamboo ~5h aller/retour)
+- m23 Fenchihu/石卓Shizhao
+  - rejoindre Shizhao par sentier de montagne et plantation de thé
+  - (5km par la route, 11min)
 - M24
 - j25
 - v26
