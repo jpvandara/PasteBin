@@ -90,8 +90,8 @@
   - visite de la ville
   - train et nuit à Chiayi (~18h 40min)
 - l22 Chiaya/Fenchihu (affaires au dos)
-  - train AlishanExpress pour Fenchihu (9h 2h30)
-  - Fenrui historic trail (foret de bamboo ~5h aller/retour)
+  - train AlishanExpress pour Fenchihu (9h-11h30)
+  - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (foret de bamboo ~5h aller/retour)
   - nuit à Fenchihu
 - m23 Fenchihu/石卓Shizhao (affaires au dos)
   - rejoindre Shizhao par sentier de montagne et plantation de thé
