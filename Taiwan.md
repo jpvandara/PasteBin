@@ -89,8 +89,9 @@
 - d21 台南 Tainan/Chiayi
   - visite de la ville
   - train et nuit à Chiayi (~18h 40min)
-- l22 Chiaya/Fenchihu --> ⚠️ journée visite avec affaires 
+- l22 Chiaya/Fenchihu
   - train AlishanExpress pour Fenchihu (9h-11h30)
+  - dépose affaires soit casier de la gare soit hotel
   - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (foret de bamboo ~5h aller/retour)
   - nuit à Fenchihu
 - m23 Fenchihu/石卓Shizhao --> ⚠️ journée visite avec affaires 
