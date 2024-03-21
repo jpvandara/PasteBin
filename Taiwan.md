@@ -98,7 +98,10 @@
   - (5km par la route, 11min)
   - nuit à Shizhao
 - M24 Shizhao/Taipei
-  - (pour ceux qui le veulent) levée du Solei à Alishan
+  - soit visite d'une fabrique de tea si je trouve qqchose soit grace matinée et brunch
+  - bus ~12h18 (durée 15min) pour balade dans plantation de thé des trails [Eryanping et Mist](https://www.taiwanobsessed.com/eryanping-tea-mist-trail-alishan/#Getting_to_Eryanping_Mist_Trail) (durée ~2h)
+  - bus ~15h26 pour la gare, arrivée ~16h56 (sinon dernier bus à 17h29)
+  - train pour Taipei de 17h32 ou 18h00 (sinon départ tout les 30min jusqu'à 22h30)
 - j25
 - v26
 - s27
