@@ -89,15 +89,15 @@
 - d21 台南 Tainan/Chiayi
   - visite de la ville
   - train et nuit à Chiayi (~18h 40min)
-- l22 Chiaya/Fenchihu (affaires au dos)
+- l22 Chiaya/Fenchihu --> ⚠️ journée visite avec affaires 
   - train AlishanExpress pour Fenchihu (9h-11h30)
   - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (foret de bamboo ~5h aller/retour)
   - nuit à Fenchihu
-- m23 Fenchihu/石卓Shizhao (affaires au dos)
+- m23 Fenchihu/石卓Shizhao --> ⚠️ journée visite avec affaires 
   - rejoindre Shizhao par sentier de montagne et plantation de thé
   - (5km par la route, 11min)
   - nuit à Shizhao
-- M24 Shizhao/Taipei
+- M24 Shizhao/Taipei --> ⚠️ journée visite avec affaires 
   - soit visite d'une fabrique de tea si je trouve qqchose soit grace matinée et brunch
   - bus ~12h18 (durée 15min) pour balade dans plantation de thé des trails [Eryanping et Mist](https://www.taiwanobsessed.com/eryanping-tea-mist-trail-alishan/#Getting_to_Eryanping_Mist_Trail) (durée ~2h)
   - bus ~15h26 pour la gare, arrivée ~16h56 (sinon dernier bus à 17h29)
