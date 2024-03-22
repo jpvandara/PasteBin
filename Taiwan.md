@@ -71,7 +71,7 @@
   - journée Vélo dans les rizières avec Takeshi Kaneshiro
 - l15 台东 Taitung
   - location voiture
-  - source chaude de Lisong
+  - source chaude de [Lisong](https://www.youtube.com/watch?v=4Rc9LTO21b0&t=288s)
   - (festival des montgolfières)
 - m16 台东/蘭嶼岛 Taitung/Ile des orchidées
   - bus pour port
