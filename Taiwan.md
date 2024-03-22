@@ -91,6 +91,7 @@
   - train et nuit à Chiayi (~18h 40min)
 - l22 Chiaya/Fenchihu
   - train AlishanExpress pour Fenchihu (9h-11h30)
+    - [instruction](https://afrch.forest.gov.tw/EN/0000270)       [toto](https://afrch.forest.gov.tw/EN/0000270)
   - dépose affaires soit casier de la gare soit hotel
   - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (foret de bamboo ~5h aller/retour)
   - nuit à Fenchihu
