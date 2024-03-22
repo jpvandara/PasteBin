@@ -37,7 +37,7 @@
 
 - m9 基隆/花蓮 Keelung/Hualien
   - train pour 台北 taipei
-  - rdv avec les bretons
+  - rdv avec les bretonnes
   - train (~2h30) et nuit à 花蓮 Hualien
     - night market de Hualien
 - M10 花蓮/太魯閣 Hualien/Taroko
