@@ -45,7 +45,7 @@
   - rando Shakadang
   - (visite 長春祠 Changchun Shrine)
   - (visite 禪光寺 Changuang Temple)
-  - Wenshan Hot Spring
+  - [Wenshan Hot Spring](https://youtu.be/qjXwqta7zv0?t=308)
   - bus et nuit à 天祥 Tianxiang 
 - j11 太魯閣 Taroko
   - bus
