@@ -17,6 +17,7 @@
   - [enregistrement](https://5000.taiwan.net.tw/people2_en.html)
   - 24 juin pour les charentonnais
   - 28 juin pour les bretons
+- **Lundi 18 juillet** [réservation 15j avant du train AlishanExpress](#train-alishan) 
 
 ## Calendrier
 | l | m | M | j | v | s | d
@@ -91,7 +92,7 @@
   - train et nuit à Chiayi (~18h 40min)
 - l22 Chiaya/Fenchihu
   - train AlishanExpress pour Fenchihu (9h-11h30)
-    - [instruction](https://afrch.forest.gov.tw/EN/0000270) &nbsp; &nbsp; [toto](https://afrch.forest.gov.tw/EN/0000270)
+    - <a id="train-alishan" />[instruction](https://afrch.forest.gov.tw/EN/0000270), [réservation](https://afrts.forest.gov.tw/OT01_1.aspx)
   - dépose affaires soit casier de la gare soit hotel
   - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (foret de bamboo ~5h aller/retour)
   - nuit à Fenchihu
