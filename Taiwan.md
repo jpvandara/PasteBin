@@ -184,6 +184,8 @@
   - j11: départ tôt de Hualien en bus pour l'office de tourisme de Taroko (<1/2h), on fait Shakadang, à pied vers 長春祠 'Eternal Spring Shrine', ensuite hotel, et à pied vers la source chaude.
   - v12: Zhuilu Old Road, retour à pied ~10km si pas trop dangeureux, en passant par 'Swallow Grotto Trail' et 'Nine Turns Trail', source chaude si pas trop tard.
   - s13: Baiyang Waterfall Trail, bus vers Hualien ensuite train pour Taitung
+- Bus
+  - [310](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0071)
 
 ## <a id="taitung" />Taitung 台东 (2j)
 - Hotel TODO
