@@ -51,6 +51,7 @@
 - j11 太魯閣 Taroko
   - bus
   - Zhuilu Old trail (~3h)
+    - entrée entre 7h et 10h
   - Swallow Grotto trail (~1h)
   - Tunnel of Nine Turns trail (~1h)
   - Wenshan Hot Spring
