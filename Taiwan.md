@@ -49,7 +49,9 @@
   - [Wenshan Hot Spring](https://youtu.be/qjXwqta7zv0?t=308)
   - bus et nuit à 天祥 Tianxiang 
 - j11 太魯閣 Taroko
-  - bus
+  - bus pour station 燕子口 Swallow Grotto ~15min
+    - 310: 8h10, 9h10
+    - 302: 9h35
   - Zhuilu Old trail (~3h)
     - entrée entre 7h et 10h
   - Swallow Grotto trail (~1h)
