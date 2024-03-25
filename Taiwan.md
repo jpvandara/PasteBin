@@ -15,7 +15,7 @@
 - Impression permis Zhuilu
 
 ## A faire :alarm_clock:
-- :ok: ~~**Mi mars** [réservation permit pour Zhuilu Old road trail](#permit-zhuilu-trail)~~
+- ~~**Mi mars** [réservation permit pour Zhuilu Old road trail](#permit-zhuilu-trail)~~
 - **Début mai** [réservation de l'hotel à Taroko](#resa-hotel-taroko)
 - **1 semaine avant le vol** [Loterie 'Taiwan Lucky Land'](https://theme.taiwan.net.tw/luckyland/en.html) （environ ~150Є en bon d'achat)
   - [enregistrement](https://5000.taiwan.net.tw/people2_en.html)
