@@ -175,7 +175,7 @@
     - Points de vue: [大石鼻山 Dashibishan](https://maps.app.goo.gl/bEahQn8jZnc86DLN6) et [芭崎 Baqi](https://maps.app.goo.gl/T9q5w7ykAnG7TJ7D8)
   - [Shakadang Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-trail--4) ou sa [version longue](https://www.alltrails.com/fr/randonnee/taiwan/hualien/shakadang-and-tongli-loop) [video](https://youtu.be/qHQuwvOLS6o)
   - :alarm_clock: [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail) [video](https://youtu.be/Al0hBseZbU0?t=3) <a name="permit-zhuilu-trail"/>
-    - ~~Done [RESA PERMIT pour étranger vers mi-mars](https://npm.nps.gov.tw/en/news_1main.aspx?ID=1855)~~ :warning:
+    - [RESA PERMIT pour étranger vers mi-mars](https://npm.nps.gov.tw/en/news_1main.aspx?ID=1855) :warning:
     - <a id="permis-zhuilu"/> :warning: Permis à imprimer: https://npm.nps.gov.tw/en/apply_3.aspx avec T113013668
   - [Swallow Grotto Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/swallow-grotto-trail) [video](https://youtu.be/ZxgZrsHrwrw)
   - [Tunnel of Nine Turns Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/tunnel-of-nine-turns-trail) [video](https://youtu.be/23R33Ou7O04)
