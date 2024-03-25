@@ -13,6 +13,8 @@
 ## Question pour petite kim
 - dépose Valises
 - Impression permis Zhuilu
+- adresse
+- meteofrance taiwanais
 
 ## A faire :alarm_clock:
 - ~~**Mi mars** [réservation permit pour Zhuilu Old road trail](#permit-zhuilu-trail)~~
