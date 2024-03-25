@@ -10,6 +10,10 @@
 - [Tainan 台南](#tainan)
 - [Alishan 阿里山](#alishan)
 
+## Question pour petite kim
+- dépose Valises
+- Impression permis Zhuilu
+
 ## A faire :alarm_clock:
 - :ok: ~~**Mi mars** [réservation permit pour Zhuilu Old road trail](#permit-zhuilu-trail)~~
 - **Début mai** [réservation de l'hotel à Taroko](#resa-hotel-taroko)
@@ -152,7 +156,16 @@
 | | Marché Fleurs et Jade (le WE only)  |
 | :sunny: | rando [象山步道](https://www.alltrails.com/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng) |
 
-
+- trail 平溪六尖 & cascades/baignades 望古瀑布
+  - Aller
+    - par l'ouest
+      - metro MainStation à Muzha ~25min
+      - bus 795 ~45min [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020)
+    - par l'est
+      - train Taipei-Ruifang 45min-1h
+      - train Ruifang-Pingxi ~50min
+  - [le trail](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/mount-cimu-loop)
+  - [les cascades et baignades]()
 
 ## <a id="keelung" />Keelung 台北 (3j/2n)
 - Hotel TODO (seulement charentonnais)
