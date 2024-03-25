@@ -162,8 +162,8 @@
       - metro MainStation à Muzha ~25min
       - bus 795 ~45min [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020) (dernier retour 20h40)
     - par l'est
-      - train Taipei-Ruifang 45min-1h
-      - train Ruifang-Pingxi ~50min
+      - train Taipei-Ruifang 45min-1h (dernier retour 23h13)
+      - train Ruifang-Pingxi ~50min (dernier retour 20h44)
   - [le trail](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/mount-cimu-loop)
   - [les cascades et baignades](https://www.alltrails.com/explore/trail/taiwan/new-taipei-city/wangguo-waterfall-lingjiao-waterfall?mobileMap=false&ref=sidebar-static-map) &nbsp; [videos](https://www.youtube.com/watch?v=5MXErNYXcSE&t=365s)
 
