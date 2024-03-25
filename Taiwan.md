@@ -165,7 +165,7 @@
       - train Taipei-Ruifang 45min-1h
       - train Ruifang-Pingxi ~50min
   - [le trail](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/mount-cimu-loop)
-  - [les cascades et baignades]()
+  - [les cascades et baignades](https://www.alltrails.com/explore/trail/taiwan/new-taipei-city/wangguo-waterfall-lingjiao-waterfall?mobileMap=false&ref=sidebar-static-map) &nbsp; &nbsp;[videos](https://www.youtube.com/watch?v=5MXErNYXcSE&t=365s)
 
 ## <a id="keelung" />Keelung 台北 (3j/2n)
 - Hotel TODO (seulement charentonnais)
