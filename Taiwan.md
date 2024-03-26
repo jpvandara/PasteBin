@@ -12,7 +12,7 @@
 
 ## Question pour petite kim
 - dépose Valises
-- Impression permis Zhuilu
+- confirmation impressionIbon@7eleven
 - adresse
 - meteofrance taiwanais
 
