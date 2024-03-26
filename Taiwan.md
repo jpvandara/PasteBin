@@ -193,6 +193,7 @@
   - :alarm_clock: [Zhuilu Old Road](https://www.alltrails.com/fr/randonnee/taiwan/hualien/zhuilu-old-road-trail) [video](https://youtu.be/Al0hBseZbU0?t=3) <a name="permit-zhuilu-trail"/>
     - [RESA PERMIT pour étranger vers mi-mars](https://npm.nps.gov.tw/en/news_1main.aspx?ID=1855) :warning:
     - <a id="permis-zhuilu"/> :warning: Permis à imprimer: https://npm.nps.gov.tw/en/apply_3.aspx avec T113013668
+    - [impression@7Eleven](https://www.thepoortraveler.net/taiwan-train-tickets-7-eleven-ibon-kiosk/)
   - [Swallow Grotto Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/swallow-grotto-trail) [video](https://youtu.be/ZxgZrsHrwrw)
   - [Tunnel of Nine Turns Trail](https://www.alltrails.com/fr/randonnee/taiwan/hualien/tunnel-of-nine-turns-trail) [video](https://youtu.be/23R33Ou7O04)
   - [Source chaude pleine nature 文山野溪溫泉](https://maps.app.goo.gl/TdJyQ2Z7Jw64SpmD9) [video](https://youtu.be/q1dIi_Ql7CM?t=3) 
