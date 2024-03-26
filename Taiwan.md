@@ -162,7 +162,7 @@
   - Aller
     - par l'ouest
       - metro MainStation à Muzha ~25min
-      - bus 795 ~45min [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020) (dernier retour 20h40)
+      - [bus 795](https://www.taiwantrip.com.tw/Frontend/Route/Select_p?RouteID=R0020) ~45min [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020) (dernier retour 20h40)
     - par l'est
       - train Taipei-Ruifang 45min-1h (dernier retour 23h13)
       - train Ruifang-Pingxi ~50min (dernier retour 20h44)
