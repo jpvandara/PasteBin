@@ -14,7 +14,6 @@
 - dépose Valises
 - confirmation impressionIbon@7eleven
 - adresse
-- meteofrance taiwanais
 
 ## A faire :alarm_clock:
 - ~~**Mi mars** [réservation permit pour Zhuilu Old road trail](#permit-zhuilu-trail)~~
