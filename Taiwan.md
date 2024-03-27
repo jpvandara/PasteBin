@@ -179,7 +179,7 @@
       - MTR 永寧 Yongning (sortie 1 ou 4)
       - [bus 916](bus916.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400091600) ou [bus 705](bus705.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400070500) ou [bus 706](bus706.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400070600) arrêt 三峽老街 Sanxia Old Street :warning: [localisation différente](Sanxia%20Old%20Street%20station.jpg)
       -  [bus 807](bus807.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400080700) ou [bus F627](busF627.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0454062700) arrêt 合作橋 Hezuo Bridge
-- rando 象山步道 Elephan trail
+- [rando 象山步道 Elephan trail](https://www.alltrails.com/explore/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng?mobileMap=false&ref=sidebar-static-map)
   - transport
     - MTR 象山 Xiangshan (sortie 2)
     - bus [33](bus33.jpg), [46 direction 圓環](bus46.jpg), [88](bus88.jpg), [207](bus207.jpg), [Blue10](busBlue10.jpg), [M17](busM17.jpg), [Xinyi](xinyiBus.jpg)
