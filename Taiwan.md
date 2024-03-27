@@ -173,7 +173,7 @@
     - choix 1
       - MTR 永寧 Yongning (sortie 1 ou 4)
       - bus 916 arrêt 臺北大學 Taipei University
-      - marche 臺北大學 à 三峽一站 3min 220m plan
+      - marche 臺北大學 à 三峽一站 3min 220m [plan](Taipei University - Sanxia 1st Station.png)
     - MTR 永寧 Yongning (sortie 1 ou 4)
       - bus 916 (arrêt 
 
