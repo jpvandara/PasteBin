@@ -158,8 +158,8 @@
 | | Marché Fleurs et Jade (le WE only)  |
 | :sunny: | rando [象山步道](https://www.alltrails.com/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng) |
 
-- trail 平溪六尖 & cascades/baignades 望古瀑布
-  - Aller
+- rando Pingxi Crags 平溪六尖 & cascades/baignades 望古瀑布
+  - transport
     - par l'ouest
       - metro MainStation à Muzha ~25min
       - [bus 795](https://www.taiwantrip.com.tw/Frontend/Route/Select_p?RouteID=R0020) ~45min [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020) (dernier retour 20h40) [plan](bus795.jpg)
@@ -168,6 +168,10 @@
       - train Ruifang-Pingxi ~50min (dernier retour 20h44)
   - [le trail](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/mount-cimu-loop)
   - [les cascades et baignades](https://www.alltrails.com/explore/trail/taiwan/new-taipei-city/wangguo-waterfall-lingjiao-waterfall?mobileMap=false&ref=sidebar-static-map),&nbsp; [videos](https://www.youtube.com/watch?v=5MXErNYXcSE&t=365s),&nbsp; [prez](https://taiwantrailsandtales.com/2021/07/30/lingjiao-and-wanggu-waterfalls/)
+- [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88)
+  - transport
+    - MTR 永寧 Yongning (sortie 1 ou 4)
+      - bus 916 (arrêt 
 
 ## <a id="keelung" />Keelung 台北 (3j/2n)
 - Hotel TODO (seulement charentonnais)
