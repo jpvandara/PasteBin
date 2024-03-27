@@ -172,7 +172,7 @@
   - transport
     - choix 1 (simplement pour l'aller)
       - MTR 永寧 Yongning (sortie 1 ou 4)
-      - [bus 916](bus916.jpg) [horaires](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400091600) arrêt 臺北大學 Taipei University ~10min
+      - [bus 916](bus916.jpg) [(direct)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400091600) arrêt 臺北大學 Taipei University ~10min
       - marche 臺北大學 à 三峽一站 3min 220m [plan](Taipei%20University%20-%20Sanxia%201st%20Station.png)
       - [bus 807](bus807.jpg) [horaires](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400080700) arrêt 合作橋 Hezuo Bridge 
     - choix 2 (pour aller/retour)
