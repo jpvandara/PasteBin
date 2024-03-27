@@ -170,12 +170,16 @@
   - [les cascades et baignades](https://www.alltrails.com/explore/trail/taiwan/new-taipei-city/wangguo-waterfall-lingjiao-waterfall?mobileMap=false&ref=sidebar-static-map),&nbsp; [videos](https://www.youtube.com/watch?v=5MXErNYXcSE&t=365s),&nbsp; [prez](https://taiwantrailsandtales.com/2021/07/30/lingjiao-and-wanggu-waterfalls/)
 - [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88)
   - transport
-    - choix 1
+    - choix 1 (simplement pour l'aller)
       - MTR 永寧 Yongning (sortie 1 ou 4)
-      - bus 916 arrêt 臺北大學 Taipei University
+      - [bus 916](bus916.jpg) arrêt 臺北大學 Taipei University ~10min
       - marche 臺北大學 à 三峽一站 3min 220m [plan](Taipei%20University%20-%20Sanxia%201st%20Station.png)
-    - MTR 永寧 Yongning (sortie 1 ou 4)
-      - bus 916 (arrêt 
+      - [bus 807](bus807.jpg) arrêt 合作橋 Hezuo Bridge 
+    - choix 2 (pour aller/retour)
+      - MTR 永寧 Yongning (sortie 1 ou 4)
+      - [bus 916](bus916.jpg) ou [bus 705](bus705.jpg) ou [bus 706](bus706.jpg) arrêt 三峽老街 Sanxia Old Street :warning: localisation différente
+      -  
+  
 
 ## <a id="keelung" />Keelung 台北 (3j/2n)
 - Hotel TODO (seulement charentonnais)
