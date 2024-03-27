@@ -178,7 +178,7 @@
     - choix 2 (pour aller/retour)
       - MTR 永寧 Yongning (sortie 1 ou 4)
       - [bus 916](bus916.jpg) ou [bus 705](bus705.jpg) ou [bus 706](bus706.jpg) arrêt 三峽老街 Sanxia Old Street :warning: [localisation différente](Sanxia%20Old%20Street%20station.jpg)
-      -  
+      -  [bus 807](bus807.jpg) ou [bus F627](busF627.jpg) arrêt 合作橋 Hezuo Bridge
   
 
 ## <a id="keelung" />Keelung 台北 (3j/2n)
