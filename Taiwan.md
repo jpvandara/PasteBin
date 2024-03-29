@@ -186,6 +186,7 @@
 ## <a id="keelung" />Keelung 台北 (3j/2n)
 - Hotel TODO (seulement charentonnais)
 - Activités
+  - 外木山海水游泳池 mer comme piscine (s'il fait beau) (et y a douche) (et c gratos)
   - Marché de nuit de keelung
   - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) [version venteux](https://youtu.be/Dwrx5yUnUhI)
   - visit [九份 Jiufen](https://youtu.be/VyinTcVrkWo)
