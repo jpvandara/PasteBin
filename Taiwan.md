@@ -1,6 +1,7 @@
 # Taiwan
 ## TOC
 - [A faire](#a-faire)
+- [A prendre](#a-prendre)
 - [Calendrier](#calendrier)
 - [Taipei 台北](#taipei)
 - [Keelung 基隆](#keelung)
@@ -14,6 +15,9 @@
 - dépose Valises
 - confirmation impressionIbon@7eleven
 - adresse
+
+## A prendre
+- lunettes de piscine
 
 ## A faire :alarm_clock:
 - ~~**Mi mars** [réservation permit pour Zhuilu Old road trail](#permit-zhuilu-trail)~~
