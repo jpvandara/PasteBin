@@ -16,9 +16,6 @@
 - confirmation impressionIbon@7eleven
 - adresse
 
-## A prendre
-- lunettes de piscine
-
 ## A faire :alarm_clock:
 - ~~**Mi mars** [réservation permit pour Zhuilu Old road trail](#permit-zhuilu-trail)~~
 - **1 mai** [réservation de l'hotel à Taroko](https://rwd.ezhotel.cloud/cyh/12/room/list)
@@ -28,6 +25,9 @@
   - 28 juin pour les bretons
 - **Dimanche 7 juillet** [Imprimer les permis pour Zhuilu Old trail](#permis-zhuilu)
 - **Lundi 18 juillet** [réservation 15j avant du train AlishanExpress](#train-alishan) 
+
+## A prendre
+- lunettes de piscine
 
 ## Calendrier
 | l | m | M | j | v | s | d
