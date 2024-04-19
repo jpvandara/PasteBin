@@ -63,19 +63,19 @@
 | l29 |
 | Avion/Paris |
 
-- m9 基隆/花蓮 Keelung/Hualien
+- [A] m9 基隆/花蓮 Keelung/Hualien
   - train pour 台北 taipei
   - rdv avec les bretonnes
   - train (~2h30) et nuit à 花蓮 Hualien
     - night market de Hualien
-- M10 花蓮/太魯閣 Hualien/Taroko
+- [A] M10 花蓮/太魯閣 Hualien/Taroko
   - train (~15min) & bus (~10 min) pour Taroko 
   - rando Shakadang
   - (visite 長春祠 Changchun Shrine)
   - (visite 禪光寺 Changuang Temple)
   - [Wenshan Hot Spring](https://youtu.be/qjXwqta7zv0?t=308)
   - bus et nuit à 天祥 Tianxiang 
-- j11 太魯閣 Taroko
+- [A] j11 太魯閣 Taroko
   - bus pour station 燕子口 Swallow Grotto ~15min
     - 310: 8h10, 9h10
     - 302: 9h35
@@ -85,10 +85,10 @@
   - Tunnel of Nine Turns trail (~1h)
   - Wenshan Hot Spring
   - retour à pied (~10km)
-- v12 太魯閣/花蓮 Taroko/Hualien
+- [A] v12 太魯閣/花蓮 Taroko/Hualien
   - Baiyang Trail (~3h)
   - bus et nuit à Hualien
-- s13 花蓮/台东 Hualien/Taitung  --> :warning: journée visite avec affaires
+- [A] s13 花蓮/台东 Hualien/Taitung  --> :warning: journée visite avec affaires
   - bus pour visite de la côte pacifique
     - 芭崎 Baqi promontoire
     - 大石鼻 Dashibi promontoire
@@ -97,30 +97,30 @@
       - départ à 豐濱 du bus 1125 à 17h30 pour 光復 (arrivée 18h08)
       - départ à 光復 du train 19h17 pour taitung (arrivée 20h44)
   - nuit à Taitung
-- d14 台东 Taitung
+- [A] d14 台东 Taitung
   - train pour 池上 Cheshang (~30min)
   - journée Vélo dans les rizières avec Takeshi Kaneshiro
-- l15 台东 Taitung
+- [A] l15 台东 Taitung
   - location voiture
   - source chaude de [Lisong](https://www.youtube.com/watch?v=4Rc9LTO21b0&t=288s)
   - (festival des montgolfières)
-- m16 台东/蘭嶼岛 Taitung/Ile des orchidées
+- [A] m16 台东/蘭嶼岛 Taitung/Ile des orchidées
   - bus pour port
   - bateau (~2h)
-- M17 蘭嶼岛 Taitung/Ile des orchidées
-- j18 蘭嶼岛 Taitung/Ile des orchidées
-- v19 蘭嶼岛/台南 Ile des orchidées/Tainan
+- [A] M17 蘭嶼岛 Taitung/Ile des orchidées
+- [A] j18 蘭嶼岛 Taitung/Ile des orchidées
+- [A] v19 蘭嶼岛/台南 Ile des orchidées/Tainan
   - bateau (~2h)
   - bus pour Taitung
   - train pour Tainan (~2-3h)
-- s20 台南 Tainan
+- [A] s20 台南 Tainan
   - balade en vélo (en U-bike, pour retour éventuel en bus)
   - quartier 安南區 (zone nature, bord de mer)
   - quartier 七股區 (zone marais salant)
-- d21 台南 Tainan/Chiayi
+- [A] d21 台南 Tainan/Chiayi
   - visite de la ville
   - train et nuit à Chiayi (~18h 40min)
-- l22 Chiaya/Fenchihu
+- [A] l22 Chiaya/Fenchihu
   - train AlishanExpress pour Fenchihu (9h-11h30)
     - <a id="train-alishan" />[Résa instruction](https://afrch.forest.gov.tw/EN/0000270), [site](https://afrts.forest.gov.tw/OT01_1.aspx)
   - dépose affaires soit casier de la gare soit hotel
