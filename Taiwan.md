@@ -72,7 +72,7 @@
 - l8 基隆 Keelung
   - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
   - visit Jiufen
-  - Si plan A, diner à JuiFen 九份 en optopn
+  - Si plan A, diner à JuiFen 九份 en option
   - Si plan B, diner à JiuFen 
 - [A] m9 基隆/花蓮 Keelung/Hualien
   - train pour 台北 taipei
