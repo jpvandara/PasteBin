@@ -28,6 +28,7 @@
 
 ## A prendre
 - lunettes de piscine
+- bonnet bain
 
 ## Calendrier
 ### Plan A
@@ -63,11 +64,24 @@
 | l29 |
 | Avion/Paris |
 
+- d7 台北/基隆
+  - train pour 基隆 (~45min)
+  - piscine naturelle en mer [海興游泳池](https://maps.app.goo.gl/Arn3mECdvJZnd8NZ7) [vidéo](https://www.youtube.com/watch?v=aldYQMeMfXw&t=37s)
+  - aller Taxi, retour 
+  - marché de nuit de 廟口 MiaoKou
+- l8 基隆 Keelung
+  - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
+  - visit Jiufen
+  - Si plan A, diner à JuiFen 九份 en optopn
+  - Si plan B, diner à JiuFen 
 - [A] m9 基隆/花蓮 Keelung/Hualien
   - train pour 台北 taipei
   - rdv avec les bretonnes
   - train (~2h30) et nuit à 花蓮 Hualien
     - night market de Hualien
+- [B] m9 基隆 Keelung
+  - 鼻頭角步道 Bitoujiao Trail par le [bas](https://www.youtube.com/watch?v=LvBCQRktnNs&t=24s) et par le [haut](https://youtu.be/DWWfUADEv-k?t=814)
+  - [龍洞灣海洋公園](https://maps.app.goo.gl/H3oqhir2rMmYSFnW9) baignade
 - [A] M10 花蓮/太魯閣 Hualien/Taroko
   - train (~15min) & bus (~10 min) pour Taroko 
   - rando Shakadang
