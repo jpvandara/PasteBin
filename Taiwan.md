@@ -72,6 +72,8 @@
   - marché de nuit de 廟口 MiaoKou
 - l8 基隆 Keelung
   - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
+    - [bus 788](bus788.jpg) 
+    - [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
   - visit Jiufen
   - Si plan A, diner à JuiFen 九份 en option, sinon marché de nuit de Keelung
   - Si plan B, diner à JiuFen 
