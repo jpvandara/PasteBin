@@ -4,7 +4,7 @@
 - [A prendre](#a-prendre)
 - [Calendrier](#calendrier)
   - [Plan A](#plan-a)
-  - [Plan B)(#plan-b)
+  - [Plan B](#plan-b)
 - [Taipei 台北](#taipei)
 - [Keelung 基隆](#keelung)
 - [Hualien 花蓮](#hualien)
