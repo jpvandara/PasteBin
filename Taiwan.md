@@ -3,6 +3,8 @@
 - [A faire](#a-faire)
 - [A prendre](#a-prendre)
 - [Calendrier](#calendrier)
+  - [Plan A](#plan-a)
+  - [Plan B)(#plan-b)
 - [Taipei 台北](#taipei)
 - [Keelung 基隆](#keelung)
 - [Hualien 花蓮](#hualien)
@@ -31,7 +33,8 @@
 - bonnet bain
 
 ## Calendrier
-### Plan A
+### Plan A <a id="plan-a" :>
+Calendrier nomimal
 | l | m | M | j | v | s | d
 | --- | --- | --- | --- | --- | --- | --- |
 | |
@@ -47,7 +50,8 @@
 | 台南/阿里山 | 阿里山 | 阿里山/台北 | 台北| 台北 | 台北 | 台北/Avion |
 | l29 |
 | Avion/Paris |
-### Plan B
+### Plan B <a id="plan-b" :>
+Calendrier en cas de fermeture prolongé de Taroko
 | l | m | M | j | v | s | d
 | --- | --- | --- | --- | --- | --- | --- |
 | |
@@ -64,9 +68,8 @@
 | l29 |
 | Avion/Paris |
 
-| Jours | Plan A | Plan B |
-| --- | --- | --- |
-|- d7 台北/基隆 |
+
+- d7 台北/基隆
   - train pour 基隆 (~45min, toute les 1/2h, billets sur place)
   - piscine naturelle en mer [海興游泳池](https://maps.app.goo.gl/Arn3mECdvJZnd8NZ7) [vidéo](https://www.youtube.com/watch?v=aldYQMeMfXw&t=37s)
     - aller Taxi
