@@ -82,7 +82,7 @@
     - night market de Hualien
 - [B] m9 基隆 Keelung
   - [鼻頭角步道 Bitoujiao Trail](https://maps.app.goo.gl/NpfyaBWnQT5Nzf87A) par le [bas](https://www.youtube.com/watch?v=LvBCQRktnNs&t=24s) et par le [haut](https://youtu.be/DWWfUADEv-k?t=814)
-    - [bus791](bus791.jpg)
+    - [bus791](bus791.jpg) ~1h
   - [龍洞灣海洋公園](https://maps.app.goo.gl/H3oqhir2rMmYSFnW9) baignade
   - marché de nuit de Keelung
 - [A] M10 花蓮/太魯閣 Hualien/Taroko
