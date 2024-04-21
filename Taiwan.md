@@ -50,6 +50,99 @@ Calendrier nomimal
 | 台南/阿里山 | 阿里山 | 阿里山/台北 | 台北| 台北 | 台北 | 台北/Avion |
 | l29 |
 | Avion/Paris |
+
+- d7 台北/基隆
+  - train pour 基隆 (~45min, toute les 1/2h, billets sur place)
+  - piscine naturelle en mer [海興游泳池](https://maps.app.goo.gl/Arn3mECdvJZnd8NZ7) [vidéo](https://www.youtube.com/watch?v=aldYQMeMfXw&t=37s)
+    - aller Taxi
+    - retour à pied ~4km 
+  - marché de nuit de 廟口 MiaoKou
+- l8 基隆 Keelung
+  - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
+    - [bus 788](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) départ 8h40 ou 9h20, ~50min  
+    - [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
+  - visite Jiufen
+    - ~30min ~1,6km à pied depuis le Tea pot trail
+  - Diner Soit à JuiFen 九份 en option, soit au marché de nuit de Keelung
+    - bus retour Keelung
+      - bus 788 dernier ~23h00
+- m9 基隆/花蓮 Keelung/Hualien
+  - train pour 台北 taipei
+  - rdv avec les bretonnes
+  - train (~2h30) et nuit à 花蓮 Hualien
+    - night market de Hualien
+- M10 花蓮/太魯閣 Hualien/Taroko
+  - train (~15min) & bus (~10 min) pour Taroko 
+  - rando Shakadang
+  - (visite 長春祠 Changchun Shrine)
+  - (visite 禪光寺 Changuang Temple)
+  - [Wenshan Hot Spring](https://youtu.be/qjXwqta7zv0?t=308)
+  - bus et nuit à 天祥 Tianxiang 
+- j11 太魯閣 Taroko
+  - bus pour station 燕子口 Swallow Grotto ~15min
+    - 310: 8h10, 9h10
+    - 302: 9h35
+  - Zhuilu Old trail (~3h)
+    - entrée entre 7h et 10h
+  - Swallow Grotto trail (~1h)
+  - Tunnel of Nine Turns trail (~1h)
+  - Wenshan Hot Spring
+  - retour à pied (~10km)
+- v12 太魯閣/花蓮 Taroko/Hualien
+  - Baiyang Trail (~3h)
+  - bus et nuit à Hualien
+- s13 花蓮/台东 Hualien/Taitung  --> :warning: journée visite avec affaires
+  - bus pour visite de la côte pacifique
+    - 芭崎 Baqi promontoire
+    - 大石鼻 Dashibi promontoire
+    - 新社梯田 Xinshe rizière en terrasse sur bord de mer
+      - au plus tard dernier bus 1140 16h42
+      - départ à 豐濱 du bus 1125 à 17h30 pour 光復 (arrivée 18h08)
+      - départ à 光復 du train 19h17 pour taitung (arrivée 20h44)
+  - nuit à Taitung
+- d14 台东 Taitung
+  - train pour 池上 Cheshang (~30min)
+  - journée Vélo dans les rizières avec Takeshi Kaneshiro
+- l15 台东 Taitung
+  - location voiture
+  - source chaude de [Lisong](https://www.youtube.com/watch?v=4Rc9LTO21b0&t=288s)
+  - (festival des montgolfières)
+- m16 台东/蘭嶼岛 Taitung/Ile des orchidées
+  - bus pour port
+  - bateau (~2h)
+- M17 蘭嶼岛 Taitung/Ile des orchidées
+- j18 蘭嶼岛 Taitung/Ile des orchidées
+- v19 蘭嶼岛/台南 Ile des orchidées/Tainan
+  - bateau (~2h)
+  - bus pour Taitung
+  - train pour Tainan (~2-3h)
+- s20 台南 Tainan
+  - balade en vélo (en U-bike, pour retour éventuel en bus)
+  - quartier 安南區 (zone nature, bord de mer)
+  - quartier 七股區 (zone marais salant)
+- d21 台南 Tainan/Chiayi
+  - visite de la ville
+  - train et nuit à Chiayi (~18h 40min)
+- l22 Chiaya/Fenchihu
+  - train AlishanExpress pour Fenchihu (9h-11h30)
+    - <a id="train-alishan" />[Résa instruction](https://afrch.forest.gov.tw/EN/0000270), [site](https://afrts.forest.gov.tw/OT01_1.aspx)
+  - dépose affaires soit casier de la gare soit hotel
+  - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (foret de bamboo ~5h aller/retour)
+  - nuit à Fenchihu
+- m23 Fenchihu/石卓Shizhao --> ⚠️ journée visite avec affaires 
+  - rejoindre Shizhao par sentier de montagne et plantation de thé
+  - (5km par la route, 11min)
+  - nuit à Shizhao
+- M24 Shizhao/Taipei --> ⚠️ journée visite avec affaires 
+  - soit visite d'une fabrique de tea si je trouve qqchose soit grace matinée et brunch
+  - bus ~12h18 (durée 15min) pour balade dans plantation de thé des trails [Eryanping et Mist](https://www.taiwanobsessed.com/eryanping-tea-mist-trail-alishan/#Getting_to_Eryanping_Mist_Trail) (durée ~2h)
+  - bus ~15h26 pour la gare, arrivée ~16h56 (sinon dernier bus à 17h29)
+  - train pour Taipei de 17h32 ou 18h00 (durée 1h30) (sinon départ tout les 30min jusqu'à 22h30)
+- j25
+- v26
+- s27
+- d28
+    
 ### Plan B <a id="plan-b" :>
 Calendrier en cas de fermeture prolongé de Taroko
 | l | m | M | j | v | s | d
@@ -68,7 +161,6 @@ Calendrier en cas de fermeture prolongé de Taroko
 | l29 |
 | Avion/Paris |
 
-
 - d7 台北/基隆
   - train pour 基隆 (~45min, toute les 1/2h, billets sur place)
   - piscine naturelle en mer [海興游泳池](https://maps.app.goo.gl/Arn3mECdvJZnd8NZ7) [vidéo](https://www.youtube.com/watch?v=aldYQMeMfXw&t=37s)
@@ -81,14 +173,8 @@ Calendrier en cas de fermeture prolongé de Taroko
     - [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
   - visite Jiufen
     - ~30min ~1,6km à pied depuis le Tea pot trail
-  - Si plan A, diner à JuiFen 九份 en option, sinon marché de nuit de Keelung
-  - Si plan B, diner à JiuFen 
-- [A] m9 基隆/花蓮 Keelung/Hualien
-  - train pour 台北 taipei
-  - rdv avec les bretonnes
-  - train (~2h30) et nuit à 花蓮 Hualien
-    - night market de Hualien
-- [B] m9 基隆 Keelung
+  - diner à JiuFen pour "Jiufen by Night"
+- m9 基隆 Keelung
   - [鼻頭角步道 Bitoujiao Trail](https://maps.app.goo.gl/NpfyaBWnQT5Nzf87A) par le [bas](https://www.youtube.com/watch?v=LvBCQRktnNs&t=24s) et par le [haut](https://youtu.be/DWWfUADEv-k?t=814)
     - [bus791](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400079100) [plan](bus791.jpg) ~1h
   - [龍洞灣海洋公園](https://maps.app.goo.gl/H3oqhir2rMmYSFnW9) baignade
