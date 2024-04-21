@@ -64,7 +64,9 @@
 | l29 |
 | Avion/Paris |
 
-- d7 台北/基隆
+| Jours | Plan A | Plan B |
+| --- | --- | --- |
+|- d7 台北/基隆 |
   - train pour 基隆 (~45min, toute les 1/2h, billets sur place)
   - piscine naturelle en mer [海興游泳池](https://maps.app.goo.gl/Arn3mECdvJZnd8NZ7) [vidéo](https://www.youtube.com/watch?v=aldYQMeMfXw&t=37s)
     - aller Taxi
