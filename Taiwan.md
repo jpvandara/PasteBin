@@ -74,7 +74,8 @@
   - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
     - [bus 788](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) 
     - [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
-  - visit Jiufen
+  - visite Jiufen
+    - ~30min à pied depuis le Tea pot trail
   - Si plan A, diner à JuiFen 九份 en option, sinon marché de nuit de Keelung
   - Si plan B, diner à JiuFen 
 - [A] m9 基隆/花蓮 Keelung/Hualien
