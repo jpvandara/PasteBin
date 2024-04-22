@@ -51,13 +51,18 @@ Calendrier nomimal
 | l29 |
 | Avion/Paris |
 
+- l1, m2, M3, j4, v5, s6 台北 Taipei
+  - sans les bretonnes
+  - programme en fonction de la météo
 - d7 台北/基隆
+  - sans les bretonnes
   - train pour 基隆 (~45min, toute les 1/2h, billets sur place)
   - piscine naturelle en mer [海興游泳池](https://maps.app.goo.gl/Arn3mECdvJZnd8NZ7) [vidéo](https://www.youtube.com/watch?v=aldYQMeMfXw&t=37s)
     - aller Taxi
     - retour à pied ~4km 
   - marché de nuit de 廟口 MiaoKou
 - l8 基隆 Keelung
+  - sans les bretonnes
   - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
     - [bus 788](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) départ 8h40 ou 9h20, ~50min  
     - [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
@@ -174,6 +179,9 @@ Calendrier en cas de fermeture prolongée de Taroko
 | l29 |
 | Avion/Paris |
 
+- l1, m2, M3, j4, v5, s6 台北 Taipei
+  - sans les bretonnes
+  - programme en fonction de la météo
 - d7 台北/基隆
   - train pour 基隆 (~45min, toute les 1/2h, billets sur place)
   - piscine naturelle en mer [海興游泳池](https://maps.app.goo.gl/Arn3mECdvJZnd8NZ7) [vidéo](https://www.youtube.com/watch?v=aldYQMeMfXw&t=37s)
@@ -193,6 +201,10 @@ Calendrier en cas de fermeture prolongée de Taroko
   - [龍洞灣海洋公園](https://maps.app.goo.gl/H3oqhir2rMmYSFnW9) baignade
   - marché de nuit de Keelung
 - M10 基隆花 Keelung/Hualien
+  - train pour 台北 taipei
+  - rdv avec les bretonnes
+  - train (~2h30) et nuit à 花蓮 Hualien
+    - night market de Hualien
 - j11 花蓮/台东 Hualien/Taitung  --> :warning: journée visite avec affaires
   - bus pour visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer)
   - bus 145 pour 芭崎 baqi **à 8h50**
