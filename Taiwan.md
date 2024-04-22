@@ -6,7 +6,6 @@
   - [Plan A](#plan-a)
   - [Plan B](#plan-b)
 - [Taipei 台北](#taipei)
-- [Keelung 基隆](#keelung)
 - [Hualien 花蓮](#hualien)
 - [Taitung 台东](#taitung)
 - [Orchid Island 蘭嶼岛](#orchid-island)
@@ -26,7 +25,8 @@
   - 24 juin pour les charentonnais
   - 28 juin pour les bretons
 - **Dimanche 7 juillet** [Imprimer les permis pour Zhuilu Old trail](#permis-zhuilu)
-- **Lundi 18 juillet** [réservation 15j avant du train AlishanExpress](#train-alishan) 
+- **Lundi 18 juillet** [réservation 15j avant du train AlishanExpress](#train-alishan)
+- Hotel à Keelung pour 4, 2 ou 3 nuits selon plan A ou plan B
 
 ## A prendre
 - lunettes de piscine
@@ -63,7 +63,7 @@ Calendrier nomimal
   - marché de nuit de 廟口 MiaoKou
 - l8 基隆 Keelung
   - sans les bretonnes
-  - rando vue montagne-mer [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
+  - rando vue montagne-mer [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h [version venteux](https://youtu.be/Dwrx5yUnUhI)
     - [bus 788](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) départ 8h40 ou 9h20, ~50min [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
   - visite Jiufen
     - ~30min ~1,6km à pied depuis le Tea pot trail
@@ -190,7 +190,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - marché de nuit de 廟口 MiaoKou
 - l8 基隆 Keelung
   - sans les bretonnes
-  - rando vue montagne-mer [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
+  - rando vue montagne-mer [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h [version venteux](https://youtu.be/Dwrx5yUnUhI)
     - [bus 788](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) départ 8h40 ou 9h20, ~50min [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
   - visite Jiufen
     - ~30min ~1,6km à pied depuis le Tea pot trail
@@ -340,19 +340,6 @@ Calendrier en cas de fermeture prolongée de Taroko
     - MTR 象山 Xiangshan (sortie 2)
     - bus [33](bus33.jpg), [46 direction 圓環](bus46.jpg), [88](bus88.jpg), [207](bus207.jpg), [Blue10](busBlue10.jpg), [M17](busM17.jpg), [Xinyi](xinyiBus.jpg)
 
-## <a id="keelung" />Keelung 台北 (3j/2n)
-- Hotel TODO (seulement charentonnais)
-- Activités
-  - 外木山海水游泳池 mer comme piscine (s'il fait beau) (et y a douche) (et c gratos)
-  - Marché de nuit de keelung
-  - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) [version venteux](https://youtu.be/Dwrx5yUnUhI)
-  - visit [九份 Jiufen](https://youtu.be/VyinTcVrkWo)
-- prévision de planning
-  - d7: arrivée à Keelung en après midi, marché de nuit
-  - l8: bus ~1, rando ~3h, visit Jiufen. Soirée en Jiufen ou retour pour marché nuit de Keelung.
-    - [bus 788]
-  - m9: retour pour Taipei ~45min, rdv avec les bretons, train pour Hualien ~2h
-    
 ## <a id="hualien" />Hualien 花蓮 (4j/3n)
 - Hotel
   - nuit du 9&10, hotel à Hualien TODO
