@@ -191,7 +191,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 - l8 基隆 Keelung
   - sans les bretonnes
   - rando vue montagne-mer [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
-    - [bus 788](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) départ 8h40 ou 9h20, ~50min [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-
+    - [bus 788](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) départ 8h40 ou 9h20, ~50min [tracé]([https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map))
   - visite Jiufen
     - ~30min ~1,6km à pied depuis le Tea pot trail
   - diner à JiuFen pour "Jiufen by Night"
