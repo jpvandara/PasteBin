@@ -157,7 +157,7 @@ Calendrier nomimal
 - d28
     
 ### Plan B <a id="plan-b" :>
-Calendrier en cas de fermeture prolongé de Taroko
+Calendrier en cas de fermeture prolongée de Taroko
 | l | m | M | j | v | s | d
 | --- | --- | --- | --- | --- | --- | --- |
 | |
