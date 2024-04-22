@@ -123,8 +123,8 @@ Calendrier nomimal
 - m16 台东/蘭嶼岛 Taitung/Ile des orchidées
   - bus pour port
   - bateau (~2h)
-- M17 蘭嶼岛 Taitung/Ile des orchidées
-- j18 蘭嶼岛 Taitung/Ile des orchidées
+- M17 蘭嶼岛 Ile des orchidées
+- j18 蘭嶼岛 Ile des orchidées
 - v19 蘭嶼岛/台南 Ile des orchidées/Tainan
   - bateau (~2h)
   - bus pour Taitung
@@ -222,57 +222,28 @@ Calendrier en cas de fermeture prolongée de Taroko
     - 小野柳 à 三仙台 bus8102 ~1h15
     - 三仙台 à 石雨傘 bus8102 ~8min
     - retour 石雨傘 à 台东 ~1h40
-- m16 台东/蘭嶼岛 Taitung/Ile des orchidées
+- d14 台东/蘭嶼岛 Taitung/Ile des orchidées
   - bus pour port
   - bateau (~2h)
-- M17 蘭嶼岛 Taitung/Ile des orchidées
-- j18 蘭嶼岛 Taitung/Ile des orchidées
-- v19 蘭嶼岛/台南 Ile des orchidées/Tainan
+- l15 蘭嶼岛 Ile des orchidées
+- m16 蘭嶼岛 Ile des orchidées
+- M17 蘭嶼岛/台南 Ile des orchidées/Tainan
   - bateau (~2h)
   - bus pour Taitung
   - train pour Tainan (~2-3h)
+- j18 台南 Tainan
+  - balade en vélo (en U-bike, pour retour éventuel en bus)
+  - quartier 安南區 (zone nature, bord de mer)
+- v19 台南 Tainan
+  - visite de ville
 - s20 台南 Tainan
-  - balade en vélo (en U-bike, pour retour éventuel en bus)
-  - quartier 安南區 (zone nature, bord de mer)
+  - balade vélo (en U-bike, pour retour éventuel en bus)
   - quartier 七股區 (zone marais salant)
- 
-    
-- [A] v12 太魯閣/花蓮 Taroko/Hualien
-  - Baiyang Trail (~3h)
-  - bus et nuit à Hualien
-- [A] s13 花蓮/台东 Hualien/Taitung  --> :warning: journée visite avec affaires
-  - bus pour visite de la côte pacifique
-    - 芭崎 Baqi promontoire
-    - 大石鼻 Dashibi promontoire
-    - 新社梯田 Xinshe rizière en terrasse sur bord de mer
-      - au plus tard dernier bus 1140 16h42
-      - départ à 豐濱 du bus 1125 à 17h30 pour 光復 (arrivée 18h08)
-      - départ à 光復 du train 19h17 pour taitung (arrivée 20h44)
-  - nuit à Taitung
-- [A] d14 台东 Taitung
-  - train pour 池上 Cheshang (~30min)
-  - journée Vélo dans les rizières avec Takeshi Kaneshiro
-- [A] l15 台东 Taitung
-  - location voiture
-  - source chaude de [Lisong](https://www.youtube.com/watch?v=4Rc9LTO21b0&t=288s)
-  - (festival des montgolfières)
-- [A] m16 台东/蘭嶼岛 Taitung/Ile des orchidées
-  - bus pour port
-  - bateau (~2h)
-- [A] M17 蘭嶼岛 Taitung/Ile des orchidées
-- [A] j18 蘭嶼岛 Taitung/Ile des orchidées
-- [A] v19 蘭嶼岛/台南 Ile des orchidées/Tainan
-  - bateau (~2h)
-  - bus pour Taitung
-  - train pour Tainan (~2-3h)
-- [A] s20 台南 Tainan
-  - balade en vélo (en U-bike, pour retour éventuel en bus)
-  - quartier 安南區 (zone nature, bord de mer)
-  - quartier 七股區 (zone marais salant)
-- [A] d21 台南 Tainan/Chiayi
-  - visite de la ville
-  - train et nuit à Chiayi (~18h 40min)
-- [A] l22 Chiaya/Fenchihu
+  - zone ostréicole
+- d21 台南/嘉義 Tainan/Chiayi
+  - route du café (plantation de café, longan, ...)
+  - 關子嶺 Guanziling Source chaude de boue
+- l22 Chiaya/Fenchihu
   - train AlishanExpress pour Fenchihu (9h-11h30)
     - <a id="train-alishan" />[Résa instruction](https://afrch.forest.gov.tw/EN/0000270), [site](https://afrts.forest.gov.tw/OT01_1.aspx)
   - dépose affaires soit casier de la gare soit hotel
