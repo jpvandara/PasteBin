@@ -183,12 +183,14 @@ Calendrier en cas de fermeture prolongée de Taroko
   - sans les bretonnes
   - programme en fonction de la météo
 - d7 台北/基隆
+  - sans les bretonnes
   - train pour 基隆 (~45min, toute les 1/2h, billets sur place)
   - piscine naturelle en mer [海興游泳池](https://maps.app.goo.gl/Arn3mECdvJZnd8NZ7) [vidéo](https://www.youtube.com/watch?v=aldYQMeMfXw&t=37s)
     - aller Taxi
     - retour à pied ~4km 
   - marché de nuit de 廟口 MiaoKou
 - l8 基隆 Keelung
+  - sans les bretonnes
   - rando [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h
     - [bus 788](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) 
     - [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
@@ -196,6 +198,7 @@ Calendrier en cas de fermeture prolongée de Taroko
     - ~30min ~1,6km à pied depuis le Tea pot trail
   - diner à JiuFen pour "Jiufen by Night"
 - m9 基隆 Keelung
+  - sans les bretonnes
   - [鼻頭角步道 Bitoujiao Trail](https://maps.app.goo.gl/NpfyaBWnQT5Nzf87A) par le [bas](https://www.youtube.com/watch?v=LvBCQRktnNs&t=24s) et par le [haut](https://youtu.be/DWWfUADEv-k?t=814)
     - [bus791](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400079100) [plan](bus791.jpg) ~1h
   - [龍洞灣海洋公園](https://maps.app.goo.gl/H3oqhir2rMmYSFnW9) baignade
