@@ -108,11 +108,18 @@ Calendrier nomimal
   - nuit à Taitung
 - d14 台东 Taitung
   - train pour 池上 Cheshang (~30min)
-  - journée Vélo dans les rizières avec Takeshi Kaneshiro
-- l15 台东 Taitung
-  - location voiture
-  - source chaude de [Lisong](https://www.youtube.com/watch?v=4Rc9LTO21b0&t=288s)
+  - journée Vélo dans les rizières avec Takleshi Kaneshiro
   - (festival des montgolfières)
+- l15 台东 Taitung
+  - [石雨傘](https://maps.app.goo.gl/9hcqgQviY44HsBv96) piscine naturelle en mer avec saut depuis rocher [video](https://www.youtube.com/watch?v=jd_v8CLG28c)
+  - [三仙台 Sanxiantai](https://maps.app.goo.gl/BPYQjxGgRgQiqMYy7)
+  - [小野柳 Xiaoyeliu](https://maps.app.goo.gl/zqpfjtivFMmuwNPe9)
+  - (festival des montgolfières by night à 太麻里 Taimali)
+  - bus (à peaufiner après résa hotel)
+    - 台東火車站 à 小野柳 bus8109 ~22min
+    - 小野柳 à 三仙台 bus8102 ~1h15
+    - 三仙台 à 石雨傘 bus8102 ~8min
+    - retour 石雨傘 à 台东 ~1h40
 - m16 台东/蘭嶼岛 Taitung/Ile des orchidées
   - bus pour port
   - bateau (~2h)
