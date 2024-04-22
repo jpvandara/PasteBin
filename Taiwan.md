@@ -68,7 +68,7 @@ Calendrier nomimal
     - [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
   - visite Jiufen
     - ~30min ~1,6km à pied depuis le Tea pot trail
-  - Diner Soit à JuiFen 九份 en option, soit au marché de nuit de Keelung
+  - Diner soit à JuiFen 九份, soit au marché de nuit de Keelung
     - bus retour Keelung
       - bus 788 dernier ~23h00
 - m9 基隆/花蓮 Keelung/Hualien
