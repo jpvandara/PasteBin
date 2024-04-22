@@ -166,9 +166,9 @@ Calendrier en cas de fermeture prolongée de Taroko
 | l1 | m2 | M3 | j4 | v5* | s6 | d7 |
 | 台北| 台北 | 台北 | 台北 | 台北 | 台北 | 台北/基隆 |
 | l8 | m9 | M10 | j11 | v12 | s13 | d14 |
-| 基隆 | 基隆 | 基隆/花蓮 | 花蓮/石雨傘 | 石雨傘/蘭嶼岛 | 蘭嶼岛 | 蘭嶼岛 |
+| 基隆 | 基隆 | 基隆/花蓮 | 花蓮/台东 | 台东 | 台东 | 台东/蘭嶼岛 |
 | l15 | m16 | M17 | j18 | v19 | s20 | d21
-| 蘭嶼岛/台东 | 台东 | 台东/台南 | 台南 | 台南 | 台南 | 台南/嘉義 |
+| 蘭嶼岛 | 蘭嶼岛 | 蘭嶼岛/台南 | 台南 | 台南 | 台南 | 台南/嘉義 |
 | l22 | m23 | M24 | j25 | v26 | s27 | d28
 | 嘉義/阿里山 | 阿里山 | 阿里山/台北 | 台北| 台北 | 台北 | 台北/Avion |
 | l29 |
@@ -192,23 +192,51 @@ Calendrier en cas de fermeture prolongée de Taroko
     - [bus791](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400079100) [plan](bus791.jpg) ~1h
   - [龍洞灣海洋公園](https://maps.app.goo.gl/H3oqhir2rMmYSFnW9) baignade
   - marché de nuit de Keelung
-- [A] M10 花蓮/太魯閣 Hualien/Taroko
-  - train (~15min) & bus (~10 min) pour Taroko 
-  - rando Shakadang
-  - (visite 長春祠 Changchun Shrine)
-  - (visite 禪光寺 Changuang Temple)
-  - [Wenshan Hot Spring](https://youtu.be/qjXwqta7zv0?t=308)
-  - bus et nuit à 天祥 Tianxiang 
-- [A] j11 太魯閣 Taroko
-  - bus pour station 燕子口 Swallow Grotto ~15min
-    - 310: 8h10, 9h10
-    - 302: 9h35
-  - Zhuilu Old trail (~3h)
-    - entrée entre 7h et 10h
-  - Swallow Grotto trail (~1h)
-  - Tunnel of Nine Turns trail (~1h)
-  - Wenshan Hot Spring
-  - retour à pied (~10km)
+- M10 基隆花 Keelung/Hualien
+- j11 花蓮/台东 Hualien/Taitung  --> :warning: journée visite avec affaires
+  - bus pour visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer)
+  - bus 145 pour 芭崎 baqi **à 8h50**
+    - durée ~1h10 800m à pied (dont 400m sur route)
+    - arrivée ~10h à [牛寮坑](https://maps.app.goo.gl/bTzEN1wRf4VYK6ns8)
+  - bus 140 pour 大石鼻 Dashibi promontoire **à 11h30**
+    - durée ~10min
+    - rando ~1h large
+    - restauration (poisson volant...), plage
+  - bus 140 ou 145 pour 新社梯田
+    - durée ~7min
+    - au plus tard dernier bus 1140 16h42 pour 豐濱 durée ~10min
+    - départ à 豐濱 du bus 1125 à 17h30 pour 光復 (arrivée 18h08)
+    - départ à 光復 du train 19h17 pour taitung (arrivée 20h44)
+  - nuit à Taitung
+- v12 台东 Taitung
+  - train pour 池上 Cheshang (~30min)
+  - journée Vélo dans les rizières avec Takleshi Kaneshiro
+  - (festival des montgolfières)
+- s13 台东 Taitung
+  - [石雨傘](https://maps.app.goo.gl/9hcqgQviY44HsBv96) piscine naturelle en mer avec saut depuis rocher [video](https://www.youtube.com/watch?v=jd_v8CLG28c)
+  - [三仙台 Sanxiantai](https://maps.app.goo.gl/BPYQjxGgRgQiqMYy7)
+  - [小野柳 Xiaoyeliu](https://maps.app.goo.gl/zqpfjtivFMmuwNPe9)
+  - (festival des montgolfières by night à 太麻里 Taimali)
+  - bus (à peaufiner après résa hotel)
+    - 台東火車站 à 小野柳 bus8109 ~22min
+    - 小野柳 à 三仙台 bus8102 ~1h15
+    - 三仙台 à 石雨傘 bus8102 ~8min
+    - retour 石雨傘 à 台东 ~1h40
+- m16 台东/蘭嶼岛 Taitung/Ile des orchidées
+  - bus pour port
+  - bateau (~2h)
+- M17 蘭嶼岛 Taitung/Ile des orchidées
+- j18 蘭嶼岛 Taitung/Ile des orchidées
+- v19 蘭嶼岛/台南 Ile des orchidées/Tainan
+  - bateau (~2h)
+  - bus pour Taitung
+  - train pour Tainan (~2-3h)
+- s20 台南 Tainan
+  - balade en vélo (en U-bike, pour retour éventuel en bus)
+  - quartier 安南區 (zone nature, bord de mer)
+  - quartier 七股區 (zone marais salant)
+ 
+    
 - [A] v12 太魯閣/花蓮 Taroko/Hualien
   - Baiyang Trail (~3h)
   - bus et nuit à Hualien
