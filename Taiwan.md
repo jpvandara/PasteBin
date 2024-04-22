@@ -92,11 +92,17 @@ Calendrier nomimal
   - Baiyang Trail (~3h)
   - bus et nuit à Hualien
 - s13 花蓮/台东 Hualien/Taitung  --> :warning: journée visite avec affaires
-  - bus pour visite de la côte pacifique
-    - 芭崎 Baqi promontoire
-    - 大石鼻 Dashibi promontoire
-    - 新社梯田 Xinshe rizière en terrasse sur bord de mer
-      - au plus tard dernier bus 1140 16h42
+  - bus pour visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer)
+    - bus 145 pour 芭崎 baqi **à 8h50**
+      - durée ~1h10 800m à pied (dont 400m sur route)
+      - arrivée ~10h à [牛寮坑](https://maps.app.goo.gl/bTzEN1wRf4VYK6ns8)
+    - bus 140 pour 大石鼻 Dashibi promontoire **à 11h30**
+      - durée ~10min
+      - rando ~1h large
+      - restauration (poisson volant...), plage
+    - bus 140 ou 145 pour 新社梯田
+      - durée ~7min
+      - au plus tard dernier bus 1140 16h42 pour 豐濱 durée ~10min
       - départ à 豐濱 du bus 1125 à 17h30 pour 光復 (arrivée 18h08)
       - départ à 光復 du train 19h17 pour taitung (arrivée 20h44)
   - nuit à Taitung
