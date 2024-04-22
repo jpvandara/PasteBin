@@ -251,7 +251,9 @@ Calendrier en cas de fermeture prolongée de Taroko
   - visite de ville
 - s20 台南 Tainan
   - balade vélo (en U-bike, pour retour éventuel en bus)
-  - quartier 七股區 (zone marais salant)
+  - quartier 七股區 en direction de 井仔腳瓦盤鹽田 marais salant de Jingzaijiao ~30km
+    - 七股鹽山 Qigu Salt Mountain (glace salée)
+    - 生命之樹 Tree of Life
   - zone ostréicole
 - d21 台南/嘉義 Tainan/Chiayi
   - route du café (plantation de café, longan, ...)
