@@ -145,7 +145,7 @@ Calendrier nomimal
   - train AlishanExpress pour Fenchihu (9h-11h30)
     - <a id="train-alishan" />[Résa instruction](https://afrch.forest.gov.tw/EN/0000270), [site](https://afrts.forest.gov.tw/OT01_1.aspx)
   - dépose affaires soit casier de la gare soit hotel
-  - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (foret de bamboo ~5h aller/retour)
+  - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (forêt de bamboo ~5h aller/retour)
   - nuit à Fenchihu
 - m23 Fenchihu/石卓Shizhao --> ⚠️ journée visite avec affaires 
   - rejoindre Shizhao par sentier de montagne et plantation de thé
@@ -259,7 +259,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - train AlishanExpress pour Fenchihu (9h-11h30)
     - <a id="train-alishan" />[Résa instruction](https://afrch.forest.gov.tw/EN/0000270), [site](https://afrts.forest.gov.tw/OT01_1.aspx)
   - dépose affaires soit casier de la gare soit hotel
-  - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (foret de bamboo ~5h aller/retour)
+  - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (forêt de bamboo ~5h aller/retour)
   - nuit à Fenchihu
 - m23 Fenchihu/石卓Shizhao --> ⚠️ journée visite avec affaires 
   - rejoindre Shizhao par sentier de montagne et plantation de thé
