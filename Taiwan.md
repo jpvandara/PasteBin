@@ -267,6 +267,7 @@ Calendrier en cas de fermeture prolongée de Taroko
         - Dongshan Coffee Route Tourist Shuttle [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0103) [live](https://www.taiwantrip.com.tw/Frontend/Bustime/bus/R0103)
         - [bus黃13](http://www.singing168.com.tw/Y_route_Y13.html) 11:48 et 14:28
       - un [spa](https://www.myspa.com.tw/spa/) 成人NT$520/兒童NT$340
+    - bus pour 嘉義 Chiayi
   - version "on est claqué"
     - 東山175咖啡大道 route du café
       - train de 9h46 arrivée 10h09 (23min)
@@ -274,17 +275,18 @@ Calendrier en cas de fermeture prolongée de Taroko
       - déambulation (en descente) dans plantation de café et longan
       - parcemé de café-shop de producteur
       - destination au café-shop (le plus médiatique) [Café Dachu](https://maps.app.goo.gl/xrDzEVoSwZyyeMfc7)
-- l22 Chiaya/Fenchihu
+  - bus pour 嘉義 Chiayi
+- l22 嘉義 Chiaya/Fenchihu
   - train AlishanExpress pour Fenchihu (9h-11h30)
     - <a id="train-alishan" />[Résa instruction](https://afrch.forest.gov.tw/EN/0000270), [site](https://afrts.forest.gov.tw/OT01_1.aspx)
   - dépose affaires soit casier de la gare soit hotel
   - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (forêt de bamboo ~5h aller/retour)
   - nuit à Fenchihu
-- m23 Fenchihu/石卓Shizhao --> ⚠️ journée visite avec affaires 
+- m23 Fenchihu/石卓 Shizhao --> ⚠️ journée visite avec affaires 
   - rejoindre Shizhao par sentier de montagne et plantation de thé
   - (5km par la route, 11min)
   - nuit à Shizhao
-- M24 Shizhao/Taipei --> ⚠️ journée visite avec affaires 
+- M24 石卓 Shizhao/Taipei --> ⚠️ journée visite avec affaires 
   - soit visite d'une fabrique de tea si je trouve qqchose soit grace matinée et brunch
   - bus ~12h18 (durée 15min) pour balade dans plantation de thé des trails [Eryanping et Mist](https://www.taiwanobsessed.com/eryanping-tea-mist-trail-alishan/#Getting_to_Eryanping_Mist_Trail) (durée ~2h)
   - bus ~15h26 pour la gare, arrivée ~16h56 (sinon dernier bus à 17h29)
