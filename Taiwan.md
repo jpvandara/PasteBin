@@ -277,10 +277,7 @@ Calendrier en cas de fermeture prolongée de Taroko
       - destination au café-shop (le plus médiatique) [Café Dachu](https://maps.app.goo.gl/xrDzEVoSwZyyeMfc7)
     - bus pour 關子嶺 Guanziling
       - Dongshan Coffee Route Tourist Shuttle dernier à 18h12 (arrivée 18h30) [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0103) [live](https://www.taiwantrip.com.tw/Frontend/Bustime/bus/R0103)
-  - bus pour 嘉義 Chiayi
-    - [bus7214](bus7214.jpg) départ 16h35, 18h05, 19h35 (durée ~1h10) à la station [關子嶺(嶺頂公園)](https://maps.app.goo.gl/ZiB1JTh6sGGzeL7t5)
-    - Guanzihling route Tourist Shuttle 33 [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0039) [live](https://www.taiwantrip.com.tw/Frontend/Bustime/bus/R0039) [la station](https://maps.app.goo.gl/zMPwWKNisGgZAsXa6)
-      - stop à 後壁火車站 pour prendre le train (dernier 23h42 ~15min)
+  - [bus7214](bus7214.jpg) pour 嘉義 Chiayi, départ 16h35, 18h05, 19h35 (durée ~1h10) à la station [關子嶺(嶺頂公園)](https://maps.app.goo.gl/ZiB1JTh6sGGzeL7t5)
 - l22 嘉義 Chiaya/Fenchihu
   - train AlishanExpress pour Fenchihu (9h-11h30)
     - <a id="train-alishan" />[Résa instruction](https://afrch.forest.gov.tw/EN/0000270), [site](https://afrts.forest.gov.tw/OT01_1.aspx)
