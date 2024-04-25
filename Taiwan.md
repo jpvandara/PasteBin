@@ -221,12 +221,12 @@ Calendrier en cas de fermeture prolongée de Taroko
 - v12 台东 Taitung
   - train pour 池上 Cheshang (~30min)
   - journée Vélo dans les rizières avec Takleshi Kaneshiro
-  - (festival des montgolfières)
+  - ([festival des montgolfières](https://balloontaiwan.taitung.gov.tw/en))
 - s13 台东 Taitung
   - [石雨傘](https://maps.app.goo.gl/9hcqgQviY44HsBv96) piscine naturelle en mer avec saut depuis rocher [video](https://www.youtube.com/watch?v=jd_v8CLG28c)
   - [三仙台 Sanxiantai](https://maps.app.goo.gl/BPYQjxGgRgQiqMYy7)
   - [小野柳 Xiaoyeliu](https://maps.app.goo.gl/zqpfjtivFMmuwNPe9)
-  - (festival des montgolfières by night à 太麻里 Taimali)
+  - (([festival des montgolfières](https://balloontaiwan.taitung.gov.tw/en)) by night à 太麻里 Taimali)
   - bus (à peaufiner après résa hotel)
     - 台東火車站 à 小野柳 bus8109 ~22min
     - 小野柳 à 三仙台 bus8102 ~1h15
