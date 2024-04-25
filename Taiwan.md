@@ -7,10 +7,7 @@
   - [Plan B](#plan-b)
 - [Taipei 台北](#taipei)
 - [Hualien 花蓮](#hualien)
-- [Taitung 台东](#taitung)
 - [Orchid Island 蘭嶼岛](#orchid-island)
-- [Tainan 台南](#tainan)
-- [Alishan 阿里山](#alishan)
 
 ## Question pour petite kim
 - dépose Valises
@@ -113,12 +110,12 @@ Calendrier nomimal
 - d14 台东 Taitung
   - train pour 池上 Cheshang (~30min)
   - journée Vélo dans les rizières avec Takleshi Kaneshiro
-  - (festival des montgolfières)
+  - ([festival des montgolfières](https://balloontaiwan.taitung.gov.tw/en))
 - l15 台东 Taitung
   - [石雨傘](https://maps.app.goo.gl/9hcqgQviY44HsBv96) piscine naturelle en mer avec saut depuis rocher [video](https://www.youtube.com/watch?v=jd_v8CLG28c)
   - [三仙台 Sanxiantai](https://maps.app.goo.gl/BPYQjxGgRgQiqMYy7)
   - [小野柳 Xiaoyeliu](https://maps.app.goo.gl/zqpfjtivFMmuwNPe9)
-  - (festival des montgolfières by night à 太麻里 Taimali)
+  - ([festival des montgolfières](https://balloontaiwan.taitung.gov.tw/en) by night à 太麻里 Taimali)
   - bus (à peaufiner après résa hotel)
     - 台東火車站 à 小野柳 bus8109 ~22min
     - 小野柳 à 三仙台 bus8102 ~1h15
@@ -247,16 +244,19 @@ Calendrier en cas de fermeture prolongée de Taroko
 - j18 台南 Tainan
   - balade en vélo (en U-bike, pour retour éventuel en bus)
   - quartier 安南區 (zone nature, bord de mer)
+    - [Taijiang National Park 台江國家公園](https://maps.app.goo.gl/oSQM6bZ1rq1UgMY29) 
+    - [Westernmost Point of Taiwan](https://maps.app.goo.gl/zHKfeAUuwG1ttKTi9)
 - v19 台南 Tainan
   - visite de ville
 - s20 台南 Tainan
   - balade vélo (en U-bike, pour retour éventuel en bus)
   - quartier 七股區 en direction de 井仔腳瓦盤鹽田 marais salant de Jingzaijiao ~30km
-    - 七股鹽山 Qigu Salt Mountain (glace salée)
+    - 七股鹽山 Qigu Salt Mountain (glace salée) [Centre attration autour du sel](https://maps.app.goo.gl/R546xeqCGNhMGJwv9)
     - 生命之樹 Tree of Life
   - zone ostréicole
 - d21 台南/嘉義 Tainan/Chiayi
-  - route du café (plantation de café, longan, ...)
+  - 東山175咖啡大道 route du café  (plantation de café, longan, ...)
+    - [bus黃7](http://www.singing168.com.tw/Y_route7403.html) à 7h30 (Aie! ca pique, mais pas le choix) pour [仙公廟](https://maps.app.goo.gl/Q3hq3UB1z1doBV1FA) le terminus
   - 關子嶺 Guanziling Source chaude de boue
 - l22 Chiaya/Fenchihu
   - train AlishanExpress pour Fenchihu (9h-11h30)
@@ -368,13 +368,6 @@ Calendrier en cas de fermeture prolongée de Taroko
 - Bus
   - [310](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0071)
 
-## <a id="taitung" />Taitung 台东 (2j)
-- Hotel TODO
-- Activités
-  - Journée vélo dans les rizières de [池上 Chishang](https://maps.app.goo.gl/yADvgcQHaEn8srW27)    [video](https://youtu.be/HlQbgTydUyc)
-  - Journée source chaude de [栗松溫泉 Lisong](https://maps.app.goo.gl/ZJ59xBMbLsK2cEvw8) [video](https://youtu.be/bU3983IN6H8) 	:warning: sous réserve que mon permis international arrive à temps!
-  - Eventuellement, le [festival de ballon](https://balloontaiwan.taitung.gov.tw/en)
-
 ## <a id="orchid-island" />Orchid Island 蘭嶼岛 (3j)
 - Traversée bateau ~2h
 - Hotel
@@ -383,19 +376,3 @@ Calendrier en cas de fermeture prolongée de Taroko
   - Tour de l'ile en vélo
   - Baignade, Snorkeling
   - ...
-    
-## <a id="tainan" />Tainan 台南 (4j/3n)
-- Hotel TODO
-- Activités
-  - Visite vielle ville
-  - Journée vélo au bord de mer dans le triangle
-    - [Taijiang National Park 台江國家公園](https://maps.app.goo.gl/oSQM6bZ1rq1UgMY29) 
-    - [Westernmost Point of Taiwan](https://maps.app.goo.gl/zHKfeAUuwG1ttKTi9)
-    - [Centre attration autour du sel](https://maps.app.goo.gl/R546xeqCGNhMGJwv9)
-
-## <a id="alishan" />Alishan 阿里山 (3j/2n)
-- Hotel TODO
-- Activités
-  - Visite colline de plantation de thé
-  - Rando dans foret de bamboo [奮瑞古道 Fenrui Historical Trail](https://youtu.be/cjHw3EXFjRk)
-  - Levée de soleil sur les monts Alishan
