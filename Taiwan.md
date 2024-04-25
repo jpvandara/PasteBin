@@ -256,22 +256,24 @@ Calendrier en cas de fermeture prolongée de Taroko
   - zone ostréicole
 - d21 台南/嘉義 Tainan/Chiayi
   - version "on pête la forme"
-    - 東山175咖啡大道 route du café 
-      - [bus黃7](http://www.singing168.com.tw/Y_route7403.html) à **7h30** pour [仙公廟](https://maps.app.goo.gl/Q3hq3UB1z1doBV1FA) le terminus
+    - 東山175咖啡大道 route du café
+      - train de 6h42 arrivée	07h04 (22min), sinon 6h06 arrivée 6h50 (49min)
+      - [bus黃7](http://www.singing168.com.tw/Y_route7403.html) à 7h30 en face de la gare pour [仙公廟](https://maps.app.goo.gl/Q3hq3UB1z1doBV1FA) le terminus, arrivée 8h25
       - déambulation (en descente) dans plantation de café et longan
       - parcemé de café-shop de producteur
-      - destination (non contractuelle) au café-shop (le plus médiatique) [Café Dachu](https://maps.app.goo.gl/xrDzEVoSwZyyeMfc7)
+      - destination au café-shop (le plus médiatique) [Café Dachu](https://maps.app.goo.gl/xrDzEVoSwZyyeMfc7)
     - 關子嶺 Guanziling Source chaude de boue
       - bus pour 關子嶺 du café Dachu ~20min
         - Dongshan Coffee Route Tourist Shuttle [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0103) [live](https://www.taiwantrip.com.tw/Frontend/Bustime/bus/R0103)
         - [bus黃13](http://www.singing168.com.tw/Y_route_Y13.html) 11:48 et 14:28
       - un [spa](https://www.myspa.com.tw/spa/) 成人NT$520/兒童NT$340
   - version "on est claqué"
-    - 東山175咖啡大道 route du café 
-      - [bus黃7](http://www.singing168.com.tw/Y_route7403.html) à **7h30** pour [仙公廟](https://maps.app.goo.gl/Q3hq3UB1z1doBV1FA) le terminus
+    - 東山175咖啡大道 route du café
+      - train de 9h46 arrivée 10h09 (23min)
+      - [bus黃7](http://www.singing168.com.tw/Y_route7403.html) à 10h40 pour [仙公廟](https://maps.app.goo.gl/Q3hq3UB1z1doBV1FA) le terminus, arrivée 11h42
       - déambulation (en descente) dans plantation de café et longan
       - parcemé de café-shop de producteur
-      - destination (non contractuelle) au café-shop (le plus médiatique) [Café Dachu](https://maps.app.goo.gl/xrDzEVoSwZyyeMfc7)
+      - destination au café-shop (le plus médiatique) [Café Dachu](https://maps.app.goo.gl/xrDzEVoSwZyyeMfc7)
 - l22 Chiaya/Fenchihu
   - train AlishanExpress pour Fenchihu (9h-11h30)
     - <a id="train-alishan" />[Résa instruction](https://afrch.forest.gov.tw/EN/0000270), [site](https://afrts.forest.gov.tw/OT01_1.aspx)
