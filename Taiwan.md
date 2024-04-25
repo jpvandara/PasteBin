@@ -255,7 +255,7 @@ Calendrier en cas de fermeture prolongée de Taroko
     - 生命之樹 Tree of Life
   - zone ostréicole
 - d21 台南/嘉義 Tainan/Chiayi
-  - version "on est en forme"
+  - version "on pête la forme"
     - 東山175咖啡大道 route du café 
       - [bus黃7](http://www.singing168.com.tw/Y_route7403.html) à **7h30** pour [仙公廟](https://maps.app.goo.gl/Q3hq3UB1z1doBV1FA) le terminus
       - déambulation (en descente) dans plantation de café et longan
