@@ -258,9 +258,13 @@ Calendrier en cas de fermeture prolongée de Taroko
   - version "on est en forme"
     - 東山175咖啡大道 route du café 
       - [bus黃7](http://www.singing168.com.tw/Y_route7403.html) à **7h30** pour [仙公廟](https://maps.app.goo.gl/Q3hq3UB1z1doBV1FA) le terminus
-      - déambulation dans plantation de café et longan
+      - déambulation (en descente) dans plantation de café et longan
       - parcemé de café-shop de producteur
       - destination (non contractuelle) au café-shop (le plus médiatique) [Café Dachu](https://maps.app.goo.gl/xrDzEVoSwZyyeMfc7)
+    - 關子嶺 Guanziling Source chaude de boue
+      - bus pour 關子嶺 du café Dachu ~20min
+        - Dongshan Coffee Route Tourist Shuttle [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0103) [live](https://www.taiwantrip.com.tw/Frontend/Bustime/bus/R0103)
+        - [bus黃13](http://www.singing168.com.tw/Y_route_Y13.html) 11:48 et 14:28
   - version "on est claqué"
   
     
