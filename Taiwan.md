@@ -35,7 +35,7 @@ Calendrier nomimal
 | l | m | M | j | v | s | d
 | --- | --- | --- | --- | --- | --- | --- |
 | |
-| d30 |
+| | | | | | | d30 |
 | Paris/Avion |
 | l1 | m2 | M3 | j4 | v5* | s6 | d7 |
 | 台北| 台北 | 台北 | 台北 | 台北 | 台北 | 台北/基隆 |
@@ -162,8 +162,8 @@ Calendrier en cas de fermeture prolongée de Taroko
 | l | m | M | j | v | s | d
 | --- | --- | --- | --- | --- | --- | --- |
 | |
-| d30 |
-| Paris/Avion |
+| | | | | | | d30 |
+| | | | | | | Paris/Avion |
 | l1 | m2 | M3 | j4 | v5* | s6 | d7 |
 | 台北| 台北 | 台北 | 台北 | 台北 | 台北 | 台北/基隆 |
 | l8 | m9 | M10 | j11 | v12 | s13 | d14 |
