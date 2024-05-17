@@ -167,7 +167,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 | l1 | m2 | M3 | j4 | v5* | s6 | d7 |
 | 台北| 台北 | 台北 | 台北 | 台北 | 台北 | 台北/基隆 |
 | l8 | m9 | M10 | j11 | v12 | s13 | d14 |
-| 基隆 | 基隆 | 基隆/花蓮 | 花蓮/台东 | 台东 | 台东 | 台东/蘭嶼岛 |
+| 基隆 | 基隆 | 基隆/花蓮 | 花蓮/石雨傘 | 石雨傘/台东 | 台东 | 台东/蘭嶼岛 |
 | l15 | m16 | M17 | j18 | v19 | s20 | d21
 | 蘭嶼岛 | 蘭嶼岛 | 蘭嶼岛/台南 | 台南 | 台南 | 台南 | 台南/嘉義 |
 | l22 | m23 | M24 | j25 | v26 | s27 | d28
@@ -203,35 +203,36 @@ Calendrier en cas de fermeture prolongée de Taroko
   - rdv avec les bretonnes
   - train (~2h30) et nuit à 花蓮 Hualien
     - night market de Hualien
-- j11 花蓮/台东 Hualien/Taitung  --> :warning: journée visite avec affaires
-  - bus pour visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer)
-  - bus 145 pour 芭崎 baqi **à 8h50**
-    - durée ~1h10 800m à pied (dont 400m sur route)
-    - arrivée ~10h à [牛寮坑](https://maps.app.goo.gl/bTzEN1wRf4VYK6ns8)
-  - bus 140 pour 大石鼻 Dashibi promontoire **à 11h30**
-    - durée ~10min
+- j11 花蓮/石雨傘 Hualien/Shiyusan  --> :warning: journée visite avec affaires
+  - bus pour visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer, 石雨傘 plage)
+  - 芭崎 baqi
+    - bus 140 à 8h20 (arrivée 9h39)
+    - bus 145 à 8h50 (arrivée 10h09)
+    - station [牛寮坑 Niuliaokeng](https://maps.app.goo.gl/bTzEN1wRf4VYK6ns8) 800m à pied (dont 400m sur route
+  - 大石鼻 Dashibi promontoire
+    - bus 1140 à 11h39
     - rando ~1h large
     - restauration (poisson volant...), plage
-  - bus 140 ou 145 pour 新社梯田
+  - 新社梯田
     - durée ~7min
+    - bus 
     - au plus tard dernier bus 1140 16h42 pour 豐濱 durée ~10min
     - départ à 豐濱 du bus 1125 à 17h30 pour 光復 (arrivée 18h08)
     - départ à 光復 du train 19h17 pour taitung (arrivée 20h44)
-  - nuit à Taitung
-- v12 台东 Taitung
-  - train pour 池上 Cheshang (~30min)
-  - journée Vélo dans les rizières avec Takleshi Kaneshiro
+  - bus pour 石雨傘 Shiyusan
+    - bus 1145 à 2h15 (arrivé 4h36)
+    - bus 8810 à 2h46 (arrivé 4h43)
+    - bus 1145 à 3h55 (arrivé ??) 
+  - nuit à 石雨傘 Shiyusan
+- v12 石雨傘/台东 Shiyusan/Taitung
+  - pour 三仙台 Sanxiantai, bus 145, 8101 et 8102, ~15min
+  - pour 成功漁港 marché aux poissons, à pied ~4km5, ~1h
+    - marché vers midi-1h
+  - bus pour 台东 8101
   - ([festival des montgolfières](https://balloontaiwan.taitung.gov.tw/en))
 - s13 台东 Taitung
-  - [石雨傘](https://maps.app.goo.gl/9hcqgQviY44HsBv96) piscine naturelle en mer avec saut depuis rocher [video](https://www.youtube.com/watch?v=jd_v8CLG28c)
-  - [三仙台 Sanxiantai](https://maps.app.goo.gl/BPYQjxGgRgQiqMYy7)
-  - [小野柳 Xiaoyeliu](https://maps.app.goo.gl/zqpfjtivFMmuwNPe9)
-  - (([festival des montgolfières](https://balloontaiwan.taitung.gov.tw/en)) by night à 太麻里 Taimali)
-  - bus (à peaufiner après résa hotel)
-    - 台東火車站 à 小野柳 bus8109 ~22min
-    - 小野柳 à 三仙台 bus8102 ~1h15
-    - 三仙台 à 石雨傘 bus8102 ~8min
-    - retour 石雨傘 à 台东 ~1h40
+  - train pour 池上 Cheshang (~30min)
+  - journée Vélo dans les rizières avec Takleshi Kaneshiro
 - d14 台东/蘭嶼岛 Taitung/Ile des orchidées
   - bus pour port
   - bateau (~2h)
