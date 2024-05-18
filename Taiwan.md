@@ -2,8 +2,7 @@
 ## TOC
 - [A faire](#a-faire)
 - [A prendre](#a-prendre)
-- [Calendrier](#calendrier)
-  - [Plan B](#plan-b)
+- [Calendrier plan B](#plan-b)
 - [Taipei 台北](#taipei)
 
 ## Question pour petite kim
