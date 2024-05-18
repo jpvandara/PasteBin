@@ -16,12 +16,13 @@
 
 ## A faire :alarm_clock:
 - ~~**Mi mars** [réservation permit pour Zhuilu Old road trail](#permit-zhuilu-trail)~~
-- **1 mai** [réservation de l'hotel à Taroko](https://rwd.ezhotel.cloud/cyh/12/room/list)
+- ~~**1 mai** [réservation de l'hotel à Taroko](https://rwd.ezhotel.cloud/cyh/12/room/list)~~
 - **1 semaine avant le vol** [Loterie 'Taiwan Lucky Land'](https://theme.taiwan.net.tw/luckyland/en.html) （environ ~150Є en bon d'achat)
   - [enregistrement](https://5000.taiwan.net.tw/people2_en.html)
   - 24 juin pour les charentonnais
   - 28 juin pour les bretons
-- **Dimanche 7 juillet** [Imprimer les permis pour Zhuilu Old trail](#permis-zhuilu)
+- ~~**Dimanche 7 juillet** [Imprimer les permis pour Zhuilu Old trail](#permis-zhuilu)~~
+- fin mai [billets bateau pour LanYu](https://www.klook.com/en-AU/activity/10985-orchid-island-round-trip-ferry-tickets-kenting-taitung/?aff_adid=99916&af_wid=3452&aff_label1=%20%E3%80%90Limited%20Offer%20-%20Maximum%2025%25%20off%E3%80%91Hualien%20Scooter%20Rental%20%28Hualie&aff_label2=Taiwan%20itinerary&aff_label3=Taiwan&aid=3452&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=3452&utm_term=&utm_content=&aff_klick_id=67216120493-3452-99916-cb4d8c4&spm=Activity.TopNavigation.SelectCurrency&clickId=3da3c2c07c)
 - **Lundi 18 juillet** [réservation 15j avant du train AlishanExpress](#train-alishan)
 - Hotel à Keelung pour 4, 2 ou 3 nuits selon plan A ou plan B
 
