@@ -75,21 +75,19 @@ Calendrier en cas de fermeture prolongée de Taroko
     - night market de Hualien
 - j11 花蓮/石雨傘 Hualien/Shiyusan  --> :warning: journée visite avec affaires
   - bus pour visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer, 石雨傘 plage)
-  - 芭崎 baqi
+  - 芭崎 baqi (牛寮坑 1h04 après départ)
     - bus 140 à 8h20 (arrivée 9h39)
     - bus 145 à 8h50 (arrivée 10h09)
     - station [牛寮坑 Niuliaokeng](https://maps.app.goo.gl/bTzEN1wRf4VYK6ns8) 800m à pied (dont 400m sur route
-  - 大石鼻 Dashibi promontoire
+  - 大石鼻 Dashibi promontoire (~1h13 après départ)
     - bus 1140 à 11h39
+    - durée 9min
     - rando ~1h large
     - restauration (poisson volant...), plage
-  - 新社梯田
+  - 新社梯田 (1h20 après départ)
     - durée ~7min
-    - bus 
-    - au plus tard dernier bus 1140 16h42 pour 豐濱 durée ~10min
-    - départ à 豐濱 du bus 1125 à 17h30 pour 光復 (arrivée 18h08)
-    - départ à 光復 du train 19h17 pour taitung (arrivée 20h44)
-  - bus pour 石雨傘 Shiyusan
+    - bus 1140 à 14h20
+  - 石雨傘 Shiyusan (2h48 après départ)
     - bus 1145 à 2h15 (arrivé 4h36)
     - bus 8810 à 2h46 (arrivé 4h43)
     - bus 1145 à 3h55 (arrivé ??) 
