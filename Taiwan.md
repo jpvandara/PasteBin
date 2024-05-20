@@ -76,21 +76,24 @@ Calendrier en cas de fermeture prolongée de Taroko
 - j11 花蓮/石雨傘 Hualien/Shiyusan  --> :warning: journée visite avec affaires
   - bus pour visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer, 石雨傘 plage)
   - 芭崎 baqi (牛寮坑 1h04 après départ)
-    - bus 140 à 8h20 (arrivée 9h39)
-    - bus 145 à 8h50 (arrivée 10h09)
-    - station [牛寮坑 Niuliaokeng](https://maps.app.goo.gl/bTzEN1wRf4VYK6ns8) 800m à pied (dont 400m sur route
+    - depuis 花蓮轉運站, bus 140 à 6h30 (arrivée 7h34)
+      - bus 140 à 8h20 (arrivée 9h39)
+      - bus 145 à 8h50 (arrivée 10h09)
+    - station [牛寮坑 Niuliaokeng](https://maps.app.goo.gl/bTzEN1wRf4VYK6ns8) 800m à pied (dont 400m sur route)
   - 大石鼻 Dashibi promontoire (~1h13 après départ)
-    - bus 1140 à 11h39
+    - depuis 牛寮坑, bus 1140 à 9h39 (arrivée 9h48)
+      - bus 
     - durée 9min
     - rando ~1h large
     - restauration (poisson volant...), plage
   - 新社梯田 (1h20 après départ)
+    - depuis 大石鼻, bus 1140 à 12h30
+      - bus
     - durée ~7min
-    - bus 1140 à 14h20
   - 石雨傘 Shiyusan (2h48 après départ)
-    - bus 1145 à 2h15 (arrivé 4h36)
-    - bus 8810 à 2h46 (arrivé 4h43)
-    - bus 1145 à 3h55 (arrivé ??) 
+    - bus 1145 à 2h15 (arrivée 4h36)
+    - bus 8810 à 2h46 (arrivée 4h43)
+    - bus 1145 à 3h55 (arrivée ??) 
   - nuit à 石雨傘 Shiyusan
 - v12 石雨傘/台东 Shiyusan/Taitung
   - pour 三仙台 Sanxiantai, bus 145, 8101 et 8102, ~15min
