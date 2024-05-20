@@ -96,7 +96,7 @@ Calendrier en cas de fermeture prolongée de Taroko
     - bus 1145 à 3h55 (arrivée ??) 
   - nuit à 石雨傘 Shiyusan
 - v12 石雨傘/台东 Shiyusan/Taitung
-  - pour 三仙台 Sanxiantai (descendre 1 station avant pour ptitDej)
+  - pour 三仙台 Sanxiantai (descendre 1 station avant si ptitDej)
     - bus 8102 à 8h22 (arrivée 8h32)
     - bus 1145 à 8h48 (arrivée 8h56)
     - bus 8101 à 9h10 (arrivée 9h18)  <---  
