@@ -104,9 +104,12 @@ Calendrier en cas de fermeture prolongée de Taroko
     - bus 8102 à 10h52 (arrivée 11h02)
   - pour 成功漁港 marché aux poissons, à pied ~4km5, ~1h
     - marché vers midi-1h
-  - pour 台东
-    - bus 8101 
-    - bus 8119 @成功市場 à 16:37 (arrivée 17h53 @台東轉運站)
+  - pour 台东 @成功市場 @台東火車站
+    - bus 8101 à 13h27 (arrivée 14h43 )
+    - bus 8102 à 14h42 (arrivée 15h42 @富岡) <-- 
+    - bus 8101 à 15h37 (arrivée 16h53) <---
+    - bus 8119 à 16:37 (arrivée 17h53 @台東轉運站)
+    - bus 8101 à 17h17 (arrivée 18h33)
   - ([festival des montgolfières](https://balloontaiwan.taitung.gov.tw/en))
 - s13 台东 Taitung
   - train pour 池上 Cheshang (~30min)
