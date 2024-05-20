@@ -92,7 +92,7 @@ Calendrier en cas de fermeture prolongée de Taroko
     - durée ~7min
   - 石雨傘 Shiyusan (2h48 après départ)
     - bus 1145 à 2h15 (arrivée 4h36)
-    - bus 8810 à 2h46 (arrivée 4h43)
+    - bus 8819 @新社國小 à 14h51 (arrivée 16h13)
     - bus 1145 à 3h55 (arrivée ??) 
   - nuit à 石雨傘 Shiyusan
 - v12 石雨傘/台东 Shiyusan/Taitung
