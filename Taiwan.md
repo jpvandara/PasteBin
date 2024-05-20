@@ -96,12 +96,17 @@ Calendrier en cas de fermeture prolongée de Taroko
     - bus 1145 à 3h55 (arrivée ??) 
   - nuit à 石雨傘 Shiyusan
 - v12 石雨傘/台东 Shiyusan/Taitung
-  - pour 三仙台 Sanxiantai
-    - bus 8101 à 10h00
-    - bus 145, 8101 et 8102, ~15min
+  - pour 三仙台 Sanxiantai (descendre 1 station avant pour ptitDej)
+    - bus 8102 à 8h22 (arrivée 8h32)
+    - bus 1145 à 8h48 (arrivée 8h56)
+    - bus 8101 à 9h10 (arrivée 9h18)  <---  
+    - bus 8101 à 10h00 (arrivée 10h08)
+    - bus 8102 à 10h52 (arrivée 11h02)
   - pour 成功漁港 marché aux poissons, à pied ~4km5, ~1h
     - marché vers midi-1h
-  - pour 台东 8101
+  - pour 台东
+    - bus 8101 
+    - bus 8119 @成功市場 à 16:37 (arrivée 17h53 @台東轉運站)
   - ([festival des montgolfières](https://balloontaiwan.taitung.gov.tw/en))
 - s13 台东 Taitung
   - train pour 池上 Cheshang (~30min)
