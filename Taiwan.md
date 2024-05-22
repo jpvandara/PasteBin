@@ -4,6 +4,7 @@
 - [A prendre](#a-prendre)
 - [Calendrier plan B](#plan-b)
 - [Taipei 台北](#taipei)
+- [Hotel](#hotel)
 - [Pot commun](#pot)
 
 ## Question pour petite kim
@@ -252,6 +253,15 @@ Calendrier en cas de fermeture prolongée de Taroko
   - transport
     - MTR 象山 Xiangshan (sortie 2)
     - bus [33](bus33.jpg), [46 direction 圓環](bus46.jpg), [88](bus88.jpg), [207](bus207.jpg), [Blue10](busBlue10.jpg), [M17](busM17.jpg), [Xinyi](xinyiBus.jpg)
+
+## Hotel
+
+| Hotel | Nuits | Lieu | Prix | Paiement | PtitDej | 
+| [Quiet Hostel](https://maps.app.goo.gl/9zPS6Rt5WtF1KEQi9) | 17-20| Tainan | 10336NT$ (295€) | auto | Non |
+| [Crown Hotel](https://maps.app.goo.gl/2AyF3ktbrqX5UCGK9) | 21 | Chiayi | 2599NT$ (74€) | à payer sur place | Oui | 
+| [雅琇山莊 Yeashow Villa](https://maps.app.goo.gl/uNZfjXkAvYgrkauQ8) | 22 | Fenchihu | 4000NT$ (114€)| à payer place (seulement espèces) | Non |
+| [綠香茶園民宿](https://maps.app.goo.gl/vtsB6S9j5xeY8T7AA) | 23 | Shizhao |  5500NT$ (157€) | à payer place (seulement espèces) | Oui |
+| [Sunny Hostel]() | 24-27 | Taipei | 16550NT$ (472€)| 1er nuit en auto, le reste ??? | Non | 
 
 ## Pot
 
