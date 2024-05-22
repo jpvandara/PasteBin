@@ -172,11 +172,11 @@ Calendrier en cas de fermeture prolongée de Taroko
     - <a id="train-alishan" />[Résa instruction](https://afrch.forest.gov.tw/EN/0000270), [site](https://afrts.forest.gov.tw/OT01_1.aspx)
   - dépose affaires soit casier de la gare soit hotel
   - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (forêt de bamboo ~5h aller/retour)
-  - nuit à Fenchihu
+  - nuit à Fenchihu au [雅琇山莊 Yeashow Villa](https://maps.app.goo.gl/uNZfjXkAvYgrkauQ8)⚠️ 4000$ à payer place
 - m23 Fenchihu/石卓 Shizhao --> ⚠️ journée visite avec affaires 
   - rejoindre Shizhao par sentier de montagne et plantation de thé
   - (5km par la route, 11min)
-  - nuit à Shizhao
+  - nuit à Shizhao au [綠香茶園民宿](https://maps.app.goo.gl/vtsB6S9j5xeY8T7AA) ⚠️ 5500$ à payer place
 - M24 石卓 Shizhao/Taipei --> ⚠️ journée visite avec affaires 
   - soit visite d'une fabrique de tea si je trouve qqchose soit grace matinée et brunch
   - bus ~12h18 (durée 15min) pour balade dans plantation de thé des trails [Eryanping et Mist](https://www.taiwanobsessed.com/eryanping-tea-mist-trail-alishan/#Getting_to_Eryanping_Mist_Trail) (durée ~2h)
