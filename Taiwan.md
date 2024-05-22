@@ -253,4 +253,5 @@ Calendrier en cas de fermeture prolongée de Taroko
 
 | Quand | Devise | JP | Kim | Mumu | Léo | Lin | Juju | Desc |
 |---|---|---|---|---|---|---|---|---|
-|d14/7| EUR | 395,09 | 
+| d14/7 | EUR | 395,09 | | | | | | b&b@lanyu |
+| M24/7 | EUR | 402 | | | | | | SunnyHostel@Taipei |
