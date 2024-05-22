@@ -120,8 +120,9 @@ Calendrier en cas de fermeture prolongée de Taroko
 - d14 台东/蘭嶼岛 Taitung/Ile des orchidées
   - bus pour port
   - bateau (~2h)
+  - |Airbnb 黑潮民宿](https://maps.app.goo.gl/Ma81UgofwC5Uteob8), 3 nuits, 1 chambre
   - Hotel [月台民宿](https://maps.app.goo.gl/DAMJxs6GFgkRKKYa8), 3 nuits, 2 chambres (4/2pers)
-    - à pied, port -> hotel 1h15 5.5km
+    - à pied, port -> hotel 1h39 6.6km
 - l15 蘭嶼岛 Ile des orchidées
 - m16 蘭嶼岛 Ile des orchidées
 - M17 蘭嶼岛/台南 Ile des orchidées/Tainan
