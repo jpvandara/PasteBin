@@ -119,13 +119,13 @@ Calendrier en cas de fermeture prolongée de Taroko
   - journée Vélo dans les rizières avec Takleshi Kaneshiro
 - d14 台东/蘭嶼岛 Taitung/Ile des orchidées
   - bus [陸海空線A](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=0982A&rn=1716367599577&lan=C) pour port à 9h50, 10h30, 11h30 (durée 18min)
-  - bateau (~2h)
+  - bateau 12h30 (traversée ~2h), arrivée 45min pour recup billet
   - [Airbnb 黑潮民宿](https://maps.app.goo.gl/Ma81UgofwC5Uteob8), 3 nuits, 1 chambre
     - à pied, port -> hotel 1h30 6.6km
 - l15 蘭嶼岛 Ile des orchidées
 - m16 蘭嶼岛 Ile des orchidées
 - M17 蘭嶼岛/台南 Ile des orchidées/Tainan
-  - bateau (~2h)
+  - bateau 9h30 (~2h)
   - bus [陸海空線A](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=0982A&rn=1716367599577&lan=C) pour la gare ferrovière de Taitung à 12h, 13h (durée 18min)
   - train pour Tainan
     - à 14h25 (arrivée 17:40, 3h15)
