@@ -4,6 +4,7 @@
 - [A prendre](#a-prendre)
 - [Calendrier plan B](#plan-b)
 - [Taipei 台北](#taipei)
+- [Pot commun](#pot)
 
 ## Question pour petite kim
 - dépose Valises
@@ -247,3 +248,9 @@ Calendrier en cas de fermeture prolongée de Taroko
   - transport
     - MTR 象山 Xiangshan (sortie 2)
     - bus [33](bus33.jpg), [46 direction 圓環](bus46.jpg), [88](bus88.jpg), [207](bus207.jpg), [Blue10](busBlue10.jpg), [M17](busM17.jpg), [Xinyi](xinyiBus.jpg)
+
+## Pot
+
+| Quand | Devise | JP | Kim | Mumu | Léo | Lin | Juju | Desc |
+|---|---|---|---|---|---|---|---|---|
+|d14/7| EUR | 395,09 | 
