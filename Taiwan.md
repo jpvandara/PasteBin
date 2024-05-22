@@ -21,6 +21,7 @@
   - 28 juin pour les bretons
 - ~~**Dimanche 7 juillet** [Imprimer les permis pour Zhuilu Old trail](#permis-zhuilu)~~
 - fin mai [billets bateau pour LanYu](https://www.klook.com/en-AU/activity/10985-orchid-island-round-trip-ferry-tickets-kenting-taitung/?aff_adid=99916&af_wid=3452&aff_label1=%20%E3%80%90Limited%20Offer%20-%20Maximum%2025%25%20off%E3%80%91Hualien%20Scooter%20Rental%20%28Hualie&aff_label2=Taiwan%20itinerary&aff_label3=Taiwan&aid=3452&aff_pid=&aff_sid=&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=3452&utm_term=&utm_content=&aff_klick_id=67216120493-3452-99916-cb4d8c4&spm=Activity.TopNavigation.SelectCurrency&clickId=3da3c2c07c)
+- fin juin, payer le 2nd paiement de Airbnb Lanyu avant le départ
 - **Lundi 18 juillet** [réservation 15j avant du train AlishanExpress](#train-alishan)
 - Hotel à Keelung pour 4, 2 ou 3 nuits selon plan A ou plan B
 
@@ -258,6 +259,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 
 | Hotel | Nuits | Lieu | Prix | Paiement | PtitDej | 
 |---|---|---|---|---|---|
+| [黑潮民宿](https://maps.app.goo.gl/Ma81UgofwC5Uteob8) | 14-16 | Lanyu | 395€09 | done (2eme partie 5/7) | Non |
 | [Quiet Hostel](https://maps.app.goo.gl/9zPS6Rt5WtF1KEQi9) | 17-20| Tainan | 10336NT$ (295€) | auto | Non |
 | [Crown Hotel](https://maps.app.goo.gl/2AyF3ktbrqX5UCGK9) | 21 | Chiayi | 2599NT$ (74€) | à payer sur place | Oui | 
 | [雅琇山莊 Yeashow Villa](https://maps.app.goo.gl/uNZfjXkAvYgrkauQ8) | 22 | Fenchihu | 4000NT$ (114€)| à payer place (seulement espèces) | Non |
