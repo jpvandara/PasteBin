@@ -130,6 +130,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - train pour Tainan
     - à 14h25 (arrivée 17:40, 3h15)
     - à 16h00 (arrivée 18:21, 2h21)
+  - 4 nuits à [Quiet Hostel](https://maps.app.goo.gl/9zPS6Rt5WtF1KEQi9)
 - j18 台南 Tainan
   - balade en vélo (en U-bike, pour retour éventuel en bus)
   - quartier 安南區 (zone nature, bord de mer)
