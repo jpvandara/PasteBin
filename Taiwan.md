@@ -257,6 +257,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 ## Hotel
 
 | Hotel | Nuits | Lieu | Prix | Paiement | PtitDej | 
+|---|---|---|---|---|---|
 | [Quiet Hostel](https://maps.app.goo.gl/9zPS6Rt5WtF1KEQi9) | 17-20| Tainan | 10336NT$ (295€) | auto | Non |
 | [Crown Hotel](https://maps.app.goo.gl/2AyF3ktbrqX5UCGK9) | 21 | Chiayi | 2599NT$ (74€) | à payer sur place | Oui | 
 | [雅琇山莊 Yeashow Villa](https://maps.app.goo.gl/uNZfjXkAvYgrkauQ8) | 22 | Fenchihu | 4000NT$ (114€)| à payer place (seulement espèces) | Non |
