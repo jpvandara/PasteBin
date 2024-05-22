@@ -121,8 +121,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - bus [陸海空線A](https://www.taiwanbus.tw/eBUSPage/Query/QueryResult.aspx?rno=0982A&rn=1716367599577&lan=C) pour port à 9h50, 10h30, 11h30 (durée 18min)
   - bateau (~2h)
   - [Airbnb 黑潮民宿](https://maps.app.goo.gl/Ma81UgofwC5Uteob8), 3 nuits, 1 chambre
-  - Hotel [月台民宿](https://maps.app.goo.gl/DAMJxs6GFgkRKKYa8), 3 nuits, 2 chambres (4/2pers)
-    - à pied, port -> hotel 1h39 6.6km
+    - à pied, port -> hotel 1h30 6.6km
 - l15 蘭嶼岛 Ile des orchidées
 - m16 蘭嶼岛 Ile des orchidées
 - M17 蘭嶼岛/台南 Ile des orchidées/Tainan
