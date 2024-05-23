@@ -7,6 +7,9 @@
 - [Hotel](#hotel)
 - [Pot commun](#pot)
 
+## Info
+- Taiwan Tourist Hotline 0800-011-765
+  
 ## Question pour petite kim
 - dépose Valises
 - confirmation impressionIbon@7eleven
