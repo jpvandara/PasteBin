@@ -182,7 +182,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - [Fenrui historic trail](https://www.walkmyworld.com/posts/fenrui-historic-trail-fenchihu) (forêt de bamboo ~5h aller/retour)
   - nuit à Fenchihu au [雅琇山莊 Yeashow Villa](https://maps.app.goo.gl/uNZfjXkAvYgrkauQ8)⚠️ 4000$ à payer place
 - m23 Fenchihu/石卓 Shizhao --> ⚠️ journée visite avec affaires 
-  - rejoindre Shizhao par sentier de montagne et plantation de thé
+  - [rejoindre Shizhao par sentier de montagne et plantation de thé](https://www.alltrails.com/fr/explore?b_tl_lat=23.50769562396738&b_tl_lng=120.67524604247689&b_br_lat=23.472941769228726&b_br_lng=120.7416811733001)
   - (5km par la route, 11min)
   - nuit à Shizhao au [綠香茶園民宿](https://maps.app.goo.gl/vtsB6S9j5xeY8T7AA) ⚠️ 5500$ à payer place
 - M24 石卓 Shizhao/Taipei --> ⚠️ journée visite avec affaires 
