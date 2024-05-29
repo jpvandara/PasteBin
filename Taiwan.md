@@ -57,7 +57,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - programme en fonction de la météo
 - s6 台北
   - TaipeiEye Le roi des singes 20h, résa OK
-    - ouverture porte 19h
+    - ouverture porte 19h: recup ticket, voir préparatif des acteurs et tester les costumes
     - sous titre anglais à gauche de la scène
 - d7 台北/基隆
   - sans les bretonnes
