@@ -47,7 +47,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 | 基隆 | 基隆 | 基隆/花蓮 | 花蓮/石雨傘 | 石雨傘/台东 | 台东 | 台东/蘭嶼岛 |
 | l15 | m16 | M17 | j18 | v19 | s20 | d21
 | 蘭嶼岛 | 蘭嶼岛 | 蘭嶼岛/台南 | 台南 | 台南 | 台南 | 台南/嘉義 |
-| l22 | m23 | M24 | j25 | v26 | s27 | d28
+| l22 | m23 | M24 | j25 | v26[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "JO 19h30") | s27 | d28
 | 嘉義/阿里山 | 阿里山 | 阿里山/台北 | 台北| 台北 | 台北 | 台北/Avion |
 | l29 |
 | Avion/Paris |
