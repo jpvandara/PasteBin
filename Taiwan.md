@@ -41,9 +41,9 @@ Calendrier en cas de fermeture prolongée de Taroko
 | |
 | | | | | | | d30 |
 | | | | | | | Paris/Avion |
-| l1 | m2 | M3 | j4 | v5[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "Arrivée bretonnes")[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "Quart 18h & 21h") | s6[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "Quart 18h & 21h") | d7 |
+| l1[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "1/8 18h & 21h") | m2[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "1/8 18h & 21h") | M3 | j4 | v5[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "Arrivée bretonnes")[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "Quart 18h & 21h") | s6[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "Quart 18h & 21h") | d7 |
 | 台北| 台北 | 台北 | 台北 | 台北 | 台北 | 台北/基隆 |
-| l8 | m9 | M10 | j11 | v12 | s13 | d14 |
+| l8 | m9[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "Demi 21h") | M10[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "Demi 21h") | j11 | v12 | s13 | d14[<img src="https://icons8.github.io/flat-color-icons/svg/about.svg" width="20px">](## "Finale 21h") |
 | 基隆 | 基隆 | 基隆/花蓮 | 花蓮/石雨傘 | 石雨傘/台东 | 台东 | 台东/蘭嶼岛 |
 | l15 | m16 | M17 | j18 | v19 | s20 | d21
 | 蘭嶼岛 | 蘭嶼岛 | 蘭嶼岛/台南 | 台南 | 台南 | 台南 | 台南/嘉義 |
