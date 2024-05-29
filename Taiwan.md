@@ -55,6 +55,10 @@ Calendrier en cas de fermeture prolongée de Taroko
 - l1, m2, M3, j4, v5, s6 台北 Taipei
   - sans les bretonnes
   - programme en fonction de la météo
+- s6 台北
+  - TaipeiEye Le roi des singes 20h, résa OK
+    - ouverture porte 19h
+    - sous titre anglais à gauche de la scène
 - d7 台北/基隆
   - sans les bretonnes
   - train pour 基隆 (~45min, toute les 1/2h, billets sur place)
