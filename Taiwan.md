@@ -269,7 +269,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 |---|---|---|---|---|---|
 | [Just Walk Backpacker Hostel](https://maps.app.goo.gl/U71kKDhitsAUzBmcA) | 10 | Hualien | 2383NT$ (68€) | | Non | 
 | [大統休閒旅館 Da-Tong Vacation Hotel](https://maps.app.goo.gl/ckuzA29c23SmutcK6) | 11 | Chenggong | 4100NT$ (117€) | | Non |
-| [Taitung Garden Cabin 龙星花园度假木屋](https://maps.app.goo.gl/wLUc5LkFvpKgQdNm7) | 12-13 | Taitung | 4700NT$ (134€) | | Non | 
+| [Taitung Garden Cabin 龙星花园度假木屋](https://maps.app.goo.gl/wLUc5LkFvpKgQdNm7) | 12-13 | Taitung | 4700NT$ (134€) | auto | Non | 
 | [黑潮民宿](https://maps.app.goo.gl/Ma81UgofwC5Uteob8) | 14-16 | Lanyu | 395€09 | done (2eme partie 5/7) | Non |
 | [Quiet Hostel](https://maps.app.goo.gl/9zPS6Rt5WtF1KEQi9) | 17-20| Tainan | 10336NT$ (295€) | auto | Non |
 | [Crown Hotel](https://maps.app.goo.gl/2AyF3ktbrqX5UCGK9) | 21 | Chiayi | 2599NT$ (74€) | à payer sur place | Oui | 
