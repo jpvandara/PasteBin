@@ -41,7 +41,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 | |
 | | | | | | | d30 |
 | | | | | | | Paris/Avion |
-| l1 | m2 | M3 | j4 | v5[<img src="https://www.wppluginsforyou.com/wp-content/uploads/2020/05/tooltips.png">](## "Arrivée bretonnes")[ *](## "Quart 18h & 21h") | s6[ *](## "Quart 18h & 21h") | d7 |
+| l1 | m2 | M3 | j4 | v5[:alarm_clock: <img src="https://www.wppluginsforyou.com/wp-content/uploads/2020/05/tooltips.png" width="15px"> ](## "Arrivée bretonnes")[ *](## "Quart 18h & 21h") | s6[ *](## "Quart 18h & 21h") | d7 |
 | 台北| 台北 | 台北 | 台北 | 台北 | 台北 | 台北/基隆 |
 | l8 | m9 | M10 | j11 | v12 | s13 | d14 |
 | 基隆 | 基隆 | 基隆/花蓮 | 花蓮/石雨傘 | 石雨傘/台东 | 台东 | 台东/蘭嶼岛 |
