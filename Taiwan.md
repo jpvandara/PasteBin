@@ -264,6 +264,10 @@ Calendrier en cas de fermeture prolongée de Taroko
     - bus [33](bus33.jpg), [46 direction 圓環](bus46.jpg), [88](bus88.jpg), [207](bus207.jpg), [Blue10](busBlue10.jpg), [M17](busM17.jpg), [Xinyi](xinyiBus.jpg)
 
 ## Hotel
+| Hotel (seulement charentonnais) | Nuits | Lieu | Prix | Paiement | PtitDej | 
+|---|---|---|---|---|---|
+| [Queens Hotel II 皇后旅店(二館)](https://maps.app.goo.gl/MdHg1a4gM3n1Y3Ue9) | 1-3 | Taipei | 12420NT$ (356€) | Sur place | Non |
+| [Taipei Triple Tiger Inn 三隻老虎旅店](https://maps.app.goo.gl/fiwgAkBL1H8PLuVNA) | 4-6 | Taipei | 10599NT$ (303€) | Sur place | Non |
 
 | Hotel | Nuits | Lieu | Prix | Paiement | PtitDej | 
 |---|---|---|---|---|---|
