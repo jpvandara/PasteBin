@@ -268,6 +268,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 |---|---|---|---|---|---|
 | [Queens Hotel II 皇后旅店(二館)](https://maps.app.goo.gl/MdHg1a4gM3n1Y3Ue9) | 1-3 | Taipei | 12420NT$ (356€) | Sur place | Non |
 | [Taipei Triple Tiger Inn 三隻老虎旅店](https://maps.app.goo.gl/fiwgAkBL1H8PLuVNA) | 4-6 | Taipei | 10599NT$ (303€) | Sur place | Non |
+| [Aloha Hotel 阿樂哈](https://maps.app.goo.gl/8PwgQP9duuse91Ey7) | 7-9 | Keelung | 6600NT$ (189€) | Sur place | Non |
 
 | Hotel | Nuits | Lieu | Prix | Paiement | PtitDej | 
 |---|---|---|---|---|---|
