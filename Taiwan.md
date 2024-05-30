@@ -85,7 +85,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - train (~2h30) et nuit à 花蓮 Hualien
     - night market de Hualien
   - nuit à l'auberge de jeunesse [Just Walk Backpacker Hostel](https://maps.app.goo.gl/U71kKDhitsAUzBmcA)
-- j11 花蓮/石雨傘 Hualien/Shiyusan  --> :warning: journée visite avec affaires
+- j11 花蓮/石雨傘 Hualien/Shiyusan
   - visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer, 石雨傘 plage)
   - récuperation de la voiture de location à 8h30 [ici](https://maps.app.goo.gl/bJy8nWu2PnbXaV2C9)
   - nuit à 石雨傘 Shiyusan à l'hotel [大統休閒旅館 Da-Tong Vacation Hotel](https://maps.app.goo.gl/ckuzA29c23SmutcK6)
