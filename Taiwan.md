@@ -84,45 +84,17 @@ Calendrier en cas de fermeture prolongée de Taroko
   - rdv avec les bretonnes
   - train (~2h30) et nuit à 花蓮 Hualien
     - night market de Hualien
+  - nuit à l'auberge de jeunesse [Just Walk Backpacker Hostel](https://maps.app.goo.gl/U71kKDhitsAUzBmcA)
 - j11 花蓮/石雨傘 Hualien/Shiyusan  --> :warning: journée visite avec affaires
-  - bus pour visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer, 石雨傘 plage)
-  - 芭崎 baqi
-    - depuis 花蓮轉運站 (pour 牛寮坑 durée 1h)
-      - bus 140 à 6h30 (arrivée 7h34) <--
-      - bus 140 à 8h20 (arrivée 9h39)
-      - bus 145 à 8h50 (arrivée 10h09)
-    - station [牛寮坑 Niuliaokeng](https://maps.app.goo.gl/bTzEN1wRf4VYK6ns8) 800m à pied (dont 400m sur route)
-  - 大石鼻 Dashibi promontoire (~1h13 après départ)
-    - depuis 牛寮坑 (durée 9min)
-      - bus 1140 à 9h20 (arrivée 9h29) <---
-      - bus 1145 à 9h54 (arrivée 10h03) 
-    - rando ~1h large
-    - restauration (poisson volant...), plage
-  - 新社梯田 (1h20 après départ)
-    - depuis 大石鼻
-      - bus 1140 à 12h30 <--
-      - bus
-    - durée ~7min
-  - 石雨傘 Shiyusan (2h48 après départ)
-    - bus 1145 à 2h15 (arrivée 4h36)
-    - bus 8819 @新社國小 à 14h51 (arrivée 16h13)
-    - bus 1145 à 3h55 (arrivée ??) 
-  - nuit à 石雨傘 Shiyusan
+  - visite de la côte pacifique (芭崎 Baqi promontoire, 大石鼻 Dashibi promontoire, 新社梯田 Xinshe rizière en terrasse sur bord de mer, 石雨傘 plage)
+  - récuperation de la voiture de location à 8h30 [ici](https://maps.app.goo.gl/bJy8nWu2PnbXaV2C9)
+  - nuit à 石雨傘 Shiyusan à l'hotel [大統休閒旅館 Da-Tong Vacation Hotel](https://maps.app.goo.gl/ckuzA29c23SmutcK6)
 - v12 石雨傘/台东 Shiyusan/Taitung
-  - pour 三仙台 Sanxiantai (descendre 1 station avant si ptitDej)
-    - bus 8102 à 8h22 (arrivée 8h32)
-    - bus 1145 à 8h48 (arrivée 8h56)
-    - bus 8101 à 9h10 (arrivée 9h18)  <---  
-    - bus 8101 à 10h00 (arrivée 10h08)
-    - bus 8102 à 10h52 (arrivée 11h02)
-  - pour 成功漁港 marché aux poissons, à pied ~4km5, ~1h
+  - visite 三仙台 Sanxiantai
+  - visite 成功漁港 marché aux poissons
     - marché vers midi-1h
-  - pour 台东 @成功市場 @台東火車站
-    - bus 8101 à 13h27 (arrivée 14h43 )
-    - bus 8102 à 14h42 (arrivée 15h42 @富岡) <-- 
-    - bus 8101 à 15h37 (arrivée 16h53) <---
-    - bus 8119 à 16:37 (arrivée 17h53 @台東轉運站)
-    - bus 8101 à 17h17 (arrivée 18h33)
+  - desitnation Taitung 台东
+    - dépose voiture de location avant 18h [ici](https://maps.app.goo.gl/4qsdXfBn4N9C1cq9A)
   - ([festival des montgolfières](https://balloontaiwan.taitung.gov.tw/en))
 - s13 台东 Taitung
   - train pour 池上 Cheshang (~30min)
