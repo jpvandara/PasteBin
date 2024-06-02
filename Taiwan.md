@@ -236,23 +236,23 @@ Calendrier en cas de fermeture prolongée de Taroko
     - bus [33](bus33.jpg), [46 direction 圓環](bus46.jpg), [88](bus88.jpg), [207](bus207.jpg), [Blue10](busBlue10.jpg), [M17](busM17.jpg), [Xinyi](xinyiBus.jpg)
 
 ## Hotel
-| Hotel (seulement charentonnais) | Nuits | Lieu | Prix | Paiement | PtitDej | 
-|---|---|---|---|---|---|
-| [Queens Hotel II 皇后旅店(二館)](https://maps.app.goo.gl/MdHg1a4gM3n1Y3Ue9) | 1-3 | Taipei | 12420NT$ (356€) | Sur place | Non |
-| [Taipei Triple Tiger Inn 三隻老虎旅店](https://maps.app.goo.gl/fiwgAkBL1H8PLuVNA) | 4-6 | Taipei | 10599NT$ (303€) | Sur place | Non |
-| [Aloha Hotel 阿樂哈](https://maps.app.goo.gl/8PwgQP9duuse91Ey7) | 7-9 | Keelung | 6600NT$ (189€) | Sur place | Non |
+| Hotel (seulement charentonnais) | Nuits | Lieu | Prix | Paiement | PtitDej | Laverie |
+|---|---|---|---|---|---|---|
+| [Queens Hotel II 皇后旅店(二館)](https://maps.app.goo.gl/MdHg1a4gM3n1Y3Ue9) | 1-3 | Taipei | 12420NT$ (356€) | Sur place | Non | 100m |
+| [Taipei Triple Tiger Inn 三隻老虎旅店](https://maps.app.goo.gl/fiwgAkBL1H8PLuVNA) | 4-6 | Taipei | 10599NT$ (303€) | Sur place | Non | 220m |
+| [Aloha Hotel 阿樂哈](https://maps.app.goo.gl/8PwgQP9duuse91Ey7) | 7-9 | Keelung | 6600NT$ (189€) | Sur place | Non | 700m |
 
-| Hotel | Nuits | Lieu | Prix | Paiement | PtitDej | 
-|---|---|---|---|---|---|
-| [Just Walk Backpacker Hostel](https://maps.app.goo.gl/U71kKDhitsAUzBmcA) | 10 | Hualien | 2383NT$ (68€) | | Non | 
-| [大統休閒旅館 Da-Tong Vacation Hotel](https://maps.app.goo.gl/ckuzA29c23SmutcK6) | 11 | Chenggong | 4100NT$ (117€) | | Non |
-| [Taitung Garden Cabin 龙星花园度假木屋](https://maps.app.goo.gl/wLUc5LkFvpKgQdNm7) | 12-13 | Taitung | 4700NT$ (134€) | auto | Non | 
+| Hotel | Nuits | Lieu | Prix | Paiement | PtitDej | Laverie |
+|---|---|---|---|---|---|---|
+| [Just Walk Backpacker Hostel](https://maps.app.goo.gl/U71kKDhitsAUzBmcA) | 10 | Hualien | 2383NT$ (68€) | | Non | 130m |
+| [大統休閒旅館 Da-Tong Vacation Hotel](https://maps.app.goo.gl/ckuzA29c23SmutcK6) | 11 | Chenggong | 4100NT$ (117€) | | Non | Non |
+| [Taitung Garden Cabin 龙星花园度假木屋](https://maps.app.goo.gl/wLUc5LkFvpKgQdNm7) | 12-13 | Taitung | 4700NT$ (134€) | auto | Non | 1km2 | 
 | [黑潮民宿](https://maps.app.goo.gl/Ma81UgofwC5Uteob8) | 14-16 | Lanyu | 395€09 | done (2eme partie 5/7) | Non |
-| [Quiet Hostel](https://maps.app.goo.gl/9zPS6Rt5WtF1KEQi9) | 17-20| Tainan | 10336NT$ (295€) | auto | Non |
-| [Crown Hotel](https://maps.app.goo.gl/2AyF3ktbrqX5UCGK9) | 21 | Chiayi | 2599NT$ (74€) | à payer sur place | Oui | 
-| [雅琇山莊 Yeashow Villa](https://maps.app.goo.gl/uNZfjXkAvYgrkauQ8) | 22 | Fenchihu | 4000NT$ (114€)| à payer place (seulement espèces) | Non |
-| [綠香茶園民宿](https://maps.app.goo.gl/vtsB6S9j5xeY8T7AA) | 23 | Shizhao |  5500NT$ (157€) | à payer place (seulement espèces) | Oui |
-| [Sunny Hostel]() | 24-27 | Taipei | 16550NT$ (472€)| 1er nuit en auto, le reste ??? | Non | 
+| [Quiet Hostel](https://maps.app.goo.gl/9zPS6Rt5WtF1KEQi9) | 17-20| Tainan | 10336NT$ (295€) | auto | Non | Oui/240m |
+| [Crown Hotel](https://maps.app.goo.gl/2AyF3ktbrqX5UCGK9) | 21 | Chiayi | 2599NT$ (74€) | à payer sur place | Oui | Oui/240m |
+| [雅琇山莊 Yeashow Villa](https://maps.app.goo.gl/uNZfjXkAvYgrkauQ8) | 22 | Fenchihu | 4000NT$ (114€)| à payer place (seulement espèces) | Non | Non |
+| [綠香茶園民宿](https://maps.app.goo.gl/vtsB6S9j5xeY8T7AA) | 23 | Shizhao |  5500NT$ (157€) | à payer place (seulement espèces) | Oui | Non |
+| [Sunny Hostel]() | 24-27 | Taipei | 16550NT$ (472€)| 1er nuit en auto, le reste ??? | Non |  Oui/750m |
 
 ## Pot
 
