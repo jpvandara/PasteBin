@@ -32,7 +32,7 @@
 ## A prendre
 - lunettes de piscine
 - bonnet bain (charentonais, sourceChaude de Beidou)
-- chaussure aquatique (à acheter à Taipei, moins cher)
+- chaussure aquatique (sinon à acheter à Taipei, moins cher)
 
 ## Calendrier    
 ### Plan B <a id="plan-b" :>
