@@ -10,6 +10,7 @@
 ## Info
 - Taiwan Tourist Hotline 0800-011-765
 - [Meteo](https://www.cwa.gov.tw/eng/)
+- Jour: ~5h15 / ~18h45
   
 ## Question pour petite kim
 - dépose Valises
