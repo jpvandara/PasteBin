@@ -236,7 +236,9 @@ Calendrier en cas de fermeture prolongée de Taroko
   - transport
     - MTR 象山 Xiangshan (sortie 2)
     - bus [33](bus33.jpg), [46 direction 圓環](bus46.jpg), [88](bus88.jpg), [207](bus207.jpg), [Blue10](busBlue10.jpg), [M17](busM17.jpg), [Xinyi](xinyiBus.jpg)
-
+- National Palace Museum
+  - [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
+  - 
 ## Hotel
 | Hotel (seulement charentonnais) | Nuits | Lieu | Prix | Paiement | PtitDej | Laverie |
 |---|---|---|---|---|---|---|
