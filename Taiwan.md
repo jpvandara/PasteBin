@@ -233,7 +233,7 @@ Calendrier en cas de fermeture prolongée de Taroko
       - [bus 916](bus916.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400091600) ou [bus 705](bus705.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400070500) ou [bus 706](bus706.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400070600) arrêt 三峽老街 Sanxia Old Street :warning: [localisation différente](Sanxia%20Old%20Street%20station.jpg)
       -  [bus 807](bus807.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400080700) ou [bus F627](busF627.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0454062700) arrêt 合作橋 Hezuo Bridge
 - Journée 101
-  - Visite 101
+  - Visite 101 suivi des malls alentours
   - Arrivée au départ du trail vers 16h30
   - [rando 象山步道 Elephan trail](https://www.alltrails.com/explore/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng?mobileMap=false&ref=sidebar-static-map)
     - transport
