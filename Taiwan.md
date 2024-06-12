@@ -238,7 +238,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - [rando 象山步道 Elephan trail](https://www.alltrails.com/explore/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng?mobileMap=false&ref=sidebar-static-map)
   - transport
     - taxi
-    - bus [33](bus33.jpg), [88](bus88.jpg), [207](bus207.jpg), [Blue10](busBlue10.jpg), [M17](busM17.jpg), [Xinyi](xinyiBus.jpg)
+    - bus [88](bus88.jpg), [207](bus207.jpg), [Xinyi](xinyiBus.jpg)
     - arrêt station 信義行政中心 Xinyi Administrative Center
 - National Palace Museum
   - [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
