@@ -240,6 +240,7 @@ Calendrier en cas de fermeture prolongée de Taroko
     - taxi
     - bus [88](bus88.jpg), [207](bus207.jpg), [Xinyi](xinyiBus.jpg)
     - arrêt station 信義行政中心 Xinyi Administrative Center
+  - [Simple Kaffa Sola booking](https://inline.app/booking/-MG6PxUwAfduMTqgqD4l:inline-live-1/-NIrk5wm5GAfbIY8a7NN)
 - National Palace Museum
   - [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
 - Journée Beitou
