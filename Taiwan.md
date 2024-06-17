@@ -221,6 +221,7 @@ Calendrier en cas de fermeture prolongée de Taroko
       - train Ruifang-Pingxi ~50min (dernier retour 20h44)
   - [le trail](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/mount-cimu-loop)
   - [les cascades et baignades](https://www.alltrails.com/explore/trail/taiwan/new-taipei-city/wangguo-waterfall-lingjiao-waterfall?mobileMap=false&ref=sidebar-static-map),&nbsp; [videos](https://www.youtube.com/watch?v=5MXErNYXcSE&t=365s),&nbsp; [prez](https://taiwantrailsandtales.com/2021/07/30/lingjiao-and-wanggu-waterfalls/)
+  - [深坑老街 Shenkeng Old Street](https://www.nickkembel.com/shenkeng-old-street-taiwan/)
 - [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88)
   - transport
     - choix 1 (simplement pour l'aller)
