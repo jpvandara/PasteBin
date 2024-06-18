@@ -29,6 +29,7 @@
 - fin juin, payer le 2nd paiement de Airbnb Lanyu avant le départ
 - **Lundi 18 juillet** [réservation 15j avant du train AlishanExpress](#train-alishan)
 - ~~Hotel à Keelung pour 4, 2 ou 3 nuits selon plan A ou plan B~~
+- Horaire de passage bus 795 de 望古 Wanggu à 深坑老街 Shenkeng 
 
 ## A prendre
 - lunettes de piscine
@@ -213,15 +214,14 @@ Calendrier en cas de fermeture prolongée de Taroko
 
 - rando Pingxi Crags 平溪六尖 & cascades/baignades 望古瀑布
   - transport
-    - par l'ouest
-      - metro MainStation à Muzha ~25min
-      - [bus 795 à 8h08](https://www.taiwantrip.com.tw/Frontend/Route/Select_p?RouteID=R0020) ~45min [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020) (dernier retour 20h40) [plan](bus795.jpg)
-    - par l'est
-      - train Taipei-Ruifang 45min-1h (dernier retour 23h13)
-      - train Ruifang-Pingxi ~50min (dernier retour 20h44)
+    - metro MainStation à Muzha ~25min
+    - [bus 795 à 8h08](https://www.taiwantrip.com.tw/Frontend/Route/Select_p?RouteID=R0020) ~45min [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020) (dernier retour 20h40) [plan](bus795.jpg)
   - [le trail](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/mount-cimu-loop)
+  - dej à 平溪 Pingxi
   - [les cascades et baignades](https://www.alltrails.com/explore/trail/taiwan/new-taipei-city/wangguo-waterfall-lingjiao-waterfall?mobileMap=false&ref=sidebar-static-map),&nbsp; [videos](https://www.youtube.com/watch?v=5MXErNYXcSE&t=365s),&nbsp; [prez](https://taiwantrailsandtales.com/2021/07/30/lingjiao-and-wanggu-waterfalls/)
+    - train pour 望古 Wanggu (8min) à 12h17, 13h17, 14h17, 15h17, 16h17
   - [深坑老街 Shenkeng Old Street](https://www.nickkembel.com/shenkeng-old-street-taiwan/)
+    - bus 795 de 望古 Wanggu: TODO
 - [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88)
   - transport
     - choix 1 (simplement pour l'aller)
