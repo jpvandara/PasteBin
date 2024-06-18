@@ -220,10 +220,11 @@ Calendrier en cas de fermeture prolongée de Taroko
   - dej à 平溪 Pingxi
   - [les cascades et baignades](https://www.alltrails.com/explore/trail/taiwan/new-taipei-city/wangguo-waterfall-lingjiao-waterfall?mobileMap=false&ref=sidebar-static-map),&nbsp; [videos](https://www.youtube.com/watch?v=5MXErNYXcSE&t=365s),&nbsp; [prez](https://taiwantrailsandtales.com/2021/07/30/lingjiao-and-wanggu-waterfalls/)
     - train pour 望古 Wanggu (8min) à 12h17, 13h17, 14h17, 15h17, 16h17
+    - bus retour départ 慶和站 arrivée 捷運木柵站: dernier 20h40 [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020)
   - [深坑老街 Shenkeng Old Street](https://www.nickkembel.com/shenkeng-old-street-taiwan/)
     - [bus 795 de 望古 Wanggu départ 慶和站 arrivée 深坑國小](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400079570#): (15h34, 16h34, 17h34, 18h34, 19h04)
   - retour à Muzha
-    - depuis 望古Wanggu départ 慶和站 arrivée 捷運木柵站: [bus795](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400079570#) (16h34, 17h34, 18h34, 19h04, 19h34, 20h34, 21h04, 22h04, 23h04)
+    - depuis 望古Wanggu départ 慶和站 arrivée 捷運木柵站: [bus795](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400079570#) (16h34, 17h34, 18h34, 19h04, 19h34, 20h34, 21h04, 22h04, 23h04) [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020)
     - depuis 深坑老街Shenkeng arrivée 捷運木柵站: [bus660](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100066000) dernier 22h06, [bus666](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h30, [bus819](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h05
 - [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88)
   - transport
