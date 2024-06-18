@@ -242,11 +242,10 @@ Calendrier en cas de fermeture prolongée de Taroko
 - Journée 101
   - Visite 101 suivi des malls alentours, dej dans le food court
   - Départ trail après visite du temple Songshan Fengtian Temple
-  - [rando 象山步道 Elephan trail](https://www.alltrails.com/explore/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng?mobileMap=false&ref=sidebar-static-map)
+  - [rando 象山步道 Elephan trail](https://www.alltrails.com/explore/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng?mobileMap=false&ref=sidebar-static-map) départ ~16h (durée 2h30, couchée soleil 18h45)
   - transport
     - taxi
-    - bus [88](bus88.jpg), [207](bus207.jpg), [Xinyi](xinyiBus.jpg)
-    - arrêt station 信義行政中心 Xinyi Administrative Center
+    - bus départ 捷運台北101 arrêt station 信義行政中心 Xinyi Administrative Center : [bus88](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100008800&gb=1), [bus207](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100020700&gb=1), [busXinyi](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0161001200&gb=1)
   - [Simple Kaffa Sola booking](https://inline.app/booking/-MG6PxUwAfduMTqgqD4l:inline-live-1/-NIrk5wm5GAfbIY8a7NN)
 - National Palace Museum
   - [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
