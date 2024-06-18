@@ -222,6 +222,9 @@ Calendrier en cas de fermeture prolongée de Taroko
     - train pour 望古 Wanggu (8min) à 12h17, 13h17, 14h17, 15h17, 16h17
   - [深坑老街 Shenkeng Old Street](https://www.nickkembel.com/shenkeng-old-street-taiwan/)
     - bus 795 de 望古 Wanggu: TODO
+  - retour à Muzha
+    - depuis 望古Wanggu: bus795
+    - depuis 深坑老街Shenkeng: [bus660 dernier 22h06](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100066000), [bus666 dernier 22h30](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1), [bus819 dernier 22h05(https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1)
 - [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88)
   - transport
     - choix 1 (simplement pour l'aller)
