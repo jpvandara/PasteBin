@@ -224,7 +224,7 @@ Calendrier en cas de fermeture prolongée de Taroko
     - [bus 795 de 望古 Wanggu départ 慶和站 arrivée 深坑國小](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400079570#): (15h, 3016h34, 17h34, 18h34, 19h04)
   - retour à Muzha
     - depuis 望古Wanggu départ 慶和站 arrivée 捷運木柵站: [bus795](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400079570#) (16h34, 17h34, 18h34, 19h04, 19h34, 20h34, 21h04, 22h04, 23h04)
-    - depuis 深坑老街Shenkeng arrivée 捷運木柵站: [bus660 dernier 22h06](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100066000), [bus666 dernier 22h30](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1), [bus819 dernier 22h05(https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1)
+    - depuis 深坑老街Shenkeng arrivée 捷運木柵站: [bus660](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100066000) dernier 22h06, [bus666](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h30, [bus819](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h05
 - [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88)
   - transport
     - choix 1 (simplement pour l'aller)
