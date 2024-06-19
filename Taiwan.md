@@ -241,7 +241,8 @@ Calendrier en cas de fermeture prolongée de Taroko
   - bus 807 de retour à 三峽: 18h23
 - Journée 101
   - Visite 101 suivi des malls alentours, dej dans le food court
-    - Pokémon Center Taipei at 3F of Shinkong Mitsukoshi 
+    - Pokémon Center Taipei at 3F of Shinkong Mitsukoshi
+    - Donguri Republic (Totoro store) inside a large toy store at 4F of Shinkong Mitsukoshi
   - Départ trail après visite du temple Songshan Fengtian Temple
   - [rando 象山步道 Elephan trail](https://www.alltrails.com/explore/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng?mobileMap=false&ref=sidebar-static-map) départ ~16h (durée 2h30, couchée soleil 18h45)
   - transport
