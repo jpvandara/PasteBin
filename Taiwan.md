@@ -251,6 +251,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
 - Journée Beitou
   - Taxi pour 龍鳳谷遊客服務中心
+  - [Bus](beitou.png) [小7](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151000700) [小25](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151002500) [230](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100023000)  
   - Trajet en descente vers bain public 2km4 33min
   - entrée bain public 19h30-20
 ## Hotel
