@@ -226,7 +226,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - retour à Muzha
     - depuis 望古Wanggu départ 慶和站 arrivée 捷運木柵站: [bus795](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400079570#) (16h34, 17h34, 18h34, 19h04, 19h34, 20h34, 21h04, 22h04, 23h04) [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020)
     - depuis 深坑老街Shenkeng arrivée 捷運木柵站: [bus660](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100066000) dernier 22h06, [bus666](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h30, [bus819](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h05
-- [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88)
+- [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88) ~5h [video](https://www.youtube.com/watch?v=pTpBtseAhuo)
   - transport
     - choix 1 (simplement pour l'aller)
       - MTR 永寧 Yongning (sortie 1 ou 4)
