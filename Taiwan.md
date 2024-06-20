@@ -228,6 +228,7 @@ Calendrier en cas de fermeture prolongée de Taroko
     - depuis 深坑老街Shenkeng arrivée 捷運木柵站: [bus660](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100066000) dernier 22h06, [bus666](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h30, [bus819](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h05
 - [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88) ~5h [video](https://www.youtube.com/watch?v=pTpBtseAhuo)
   - transport
+    - taxi
     - choix 1 (simplement pour l'aller)
       - MTR 永寧 Yongning (sortie 1 ou 4)
       - [bus 916](bus916.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400091600) arrêt 臺北大學 Taipei University ~10min
@@ -238,7 +239,9 @@ Calendrier en cas de fermeture prolongée de Taroko
       - [bus 916](bus916.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400091600) ou [bus 705](bus705.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400070500) ou [bus 706](bus706.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400070600) arrêt 三峽老街 Sanxia Old Street :warning: [localisation différente](Sanxia%20Old%20Street%20station.jpg)
       -  [bus 807](bus807.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400080700) ou [bus F627](busF627.jpg) &nbsp;[(live)](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0454062700) arrêt 合作橋 Hezuo Bridge
   - heure de passage du bus 807 pour 東眼橋 : 12h23, 15h23
-  - bus 807 de retour à 三峽: 18h23
+    - [bus 807](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400080700&gb=1) de retour à 三峽: 18h23
+  - heure de passage des bus pour retour depuis 五寮尖: 13h14, 14h12, 16h14, 17h32, 18h39
+    - [bus 807](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400080700&gb=1), [bus F627](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0454062700)
 - Journée 101
   - Visite 101 suivi des malls alentours, dej dans le food court
     - Pokémon Center Taipei at 3F of Shinkong Mitsukoshi
