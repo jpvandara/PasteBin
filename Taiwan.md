@@ -81,7 +81,9 @@ Calendrier en cas de fermeture prolongée de Taroko
 - m9 基隆 Keelung
   - sans les bretonnes
   - [鼻頭角步道 Bitoujiao Trail](https://maps.app.goo.gl/NpfyaBWnQT5Nzf87A) par le [bas](https://www.youtube.com/watch?v=LvBCQRktnNs&t=24s) et par le [haut](https://youtu.be/DWWfUADEv-k?t=814)
-    - [bus791](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400079100) [plan](bus791.jpg) ~1h
+    - [bus791](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400079100) départ 市政府 arrêt 鼻頭角 [plan](bus791.jpg) ~1h
+      - [aller](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400079100&gb=0): 06h20, 07h15, 08h25
+      - [retour](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400079100&gb=1): 16h50, 17h52, 18h47, 19h12, 20h07, 21h22
   - [龍洞灣海洋公園](https://maps.app.goo.gl/H3oqhir2rMmYSFnW9) baignade
   - marché de nuit de Keelung
 - M10 基隆花 Keelung/Hualien
