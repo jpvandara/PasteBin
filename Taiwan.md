@@ -71,8 +71,8 @@ Calendrier en cas de fermeture prolongée de Taroko
   - marché de nuit de 廟口 MiaoKou
 - l8 基隆 Keelung
   - sans les bretonnes
-  - rando vue montagne-mer [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h [version venteux](https://youtu.be/Dwrx5yUnUhI)
-    - [bus 788 金瓜石](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) départ 7h05, 8h05, 8h45 ou 9h25, ~50min [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map)
+  - rando vue montagne-mer [tracé](https://www.alltrails.com/fr/explore/trail/taiwan/new-taipei-city/teapot-mountain-and-benshan-wukeng-loop?mobileMap=false&ref=sidebar-static-map) [茶壺山 Tea pot trail](https://youtu.be/7pE-kUjAm5c?t=252) ~3h [version venteux](https://youtu.be/Dwrx5yUnUhI)
+    - [bus 788 金瓜石](https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0400078800) [plan](bus788.jpg) départ 7h05, 8h05, 8h45 ou 9h25, ~50min 
       - départ 市政府 arrivée 瓜山國小
   - visite Jiufen
     - ~30min ~1,6km à pied depuis le Tea pot trail
