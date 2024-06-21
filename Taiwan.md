@@ -77,6 +77,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - visite Jiufen
     - ~30min ~1,6km à pied depuis le Tea pot trail
   - diner à JiuFen pour "Jiufen by Night"
+  - return [bus788](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400078800&gb=1) départ 九份老街 ou 代天府, 18h27, 18h47, 19h07, 19h37, 20h07, 20h37, 21h07, 21h37, 22h07
 - m9 基隆 Keelung
   - sans les bretonnes
   - [鼻頭角步道 Bitoujiao Trail](https://maps.app.goo.gl/NpfyaBWnQT5Nzf87A) par le [bas](https://www.youtube.com/watch?v=LvBCQRktnNs&t=24s) et par le [haut](https://youtu.be/DWWfUADEv-k?t=814)
