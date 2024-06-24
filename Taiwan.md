@@ -262,7 +262,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - Taxi pour 龍鳳谷遊客服務中心
   - Bus [plan des Stations](beitou.png) [小7](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151000700) [小25](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151002500) [230](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100023000)  
   - Trajet en descente vers bain public 2km4 33min
-  - entrée bain public 19h30-20
+  - entrée bain public 19h30-22h
 - Shilin Night Market
   - The giant 3D Cat in Shilin Night Market
 ## Hotel
