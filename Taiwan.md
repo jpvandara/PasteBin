@@ -217,9 +217,11 @@ Calendrier en cas de fermeture prolongée de Taroko
 | :sunny: | rando [象山步道](https://www.alltrails.com/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng) |
 
 - l1
+  - dépose valise dans locker du main train station
   - chiang kai shek memorial hall
-  - 
+  - balade dans nanmen ou dongmen market
   - dadaocheng
+  - ningxia night market
 - m2 journée 101
   - Visite 101 suivi des malls alentours, dej dans le food court
     - Pokémon Center Taipei at 3F of Shinkong Mitsukoshi
@@ -230,7 +232,12 @@ Calendrier en cas de fermeture prolongée de Taroko
     - taxi
     - bus départ 捷運台北101 arrivée 信義行政中心 Xinyi Administrative Center : [bus88](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100008800&gb=1), [bus207](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100020700&gb=1), [busXinyi](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0161001200&gb=1)
   - [Simple Kaffa Sola booking](https://inline.app/booking/-MG6PxUwAfduMTqgqD4l:inline-live-1/-NIrk5wm5GAfbIY8a7NN)
-- rando Pingxi Crags 平溪六尖 & cascades/baignades 望古瀑布
+- M3 journée NationamPalaceMuseum/Shiling
+  - National Palace Museum [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
+  - Shilin Night Market
+    - The giant 3D Cat in Shilin Night Market
+- j4 beitou
+- v5 rando Pingxi Crags 平溪六尖 & cascades/baignades 望古瀑布
   - transport
     - metro MainStation à Muzha ~25min
     - [bus 795 à 8h08](https://www.taiwantrip.com.tw/Frontend/Route/Select_p?RouteID=R0020) ~45min [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020) (dernier retour 20h40) [plan](bus795.jpg)
@@ -244,6 +251,10 @@ Calendrier en cas de fermeture prolongée de Taroko
   - retour à Muzha
     - depuis 望古Wanggu départ 慶和站 arrivée 捷運木柵站: [bus795](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400079570#) (16h34, 17h34, 18h34, 19h04, 19h34, 20h34, 21h04, 22h04, 23h04) [horaires](https://www.taiwantrip.com.tw/Frontend/Bustime/TimeTable/R0020)
     - depuis 深坑老街Shenkeng arrivée 捷運木柵站: [bus660](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100066000) dernier 22h06, [bus666](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h30, [bus819](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400066670&gb=1) dernier 22h05
+- s6
+  - balade vélo
+  - Spectacle TaipeiEye
+  
 - [rando 五寮尖山 Wuliao peak](https://hiking.biji.co/index.php?q=trail&act=detail&id=88) ~5h [video](https://www.youtube.com/watch?v=pTpBtseAhuo)
   - transport
     - taxi
@@ -260,15 +271,12 @@ Calendrier en cas de fermeture prolongée de Taroko
     - [bus 807](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400080700&gb=1) de retour à 三峽: 18h23
   - heure de passage des bus pour retour depuis 五寮尖: 13h14, 14h12, 16h14, 17h32, 18h39
     - [bus 807](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400080700&gb=1), [bus F627](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0454062700)
-- National Palace Museum
-  - [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
 - Journée Beitou
   - Taxi pour 龍鳳谷遊客服務中心
   - Bus [plan des Stations](beitou.png) [小7](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151000700) [小25](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151002500) [230](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100023000)  
   - Trajet en descente vers bain public 2km4 33min
   - entrée bain public 19h30-22h
-- Shilin Night Market
-  - The giant 3D Cat in Shilin Night Market
+
 ## Hotel
 | Hotel (seulement charentonnais) | Nuits | Lieu | Prix | Paiement | PtitDej | Laverie |
 |---|---|---|---|---|---|---|
