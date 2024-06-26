@@ -216,6 +216,20 @@ Calendrier en cas de fermeture prolongée de Taroko
 | | Marché Fleurs et Jade (le WE only)  |
 | :sunny: | rando [象山步道](https://www.alltrails.com/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng) |
 
+- l1
+  - chiang kai shek memorial hall
+  - 
+  - dadaocheng
+- m2 journée 101
+  - Visite 101 suivi des malls alentours, dej dans le food court
+    - Pokémon Center Taipei at 3F of Shinkong Mitsukoshi
+    - Donguri Republic (Totoro store) inside a large toy store at 4F of Shinkong Mitsukoshi
+  - Départ trail après visite du temple Songshan Fengtian Temple
+  - [rando 象山步道 Elephan trail](https://www.alltrails.com/explore/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng?mobileMap=false&ref=sidebar-static-map) départ ~16h (durée 2h30, couchée soleil 18h45)
+  - transport
+    - taxi
+    - bus départ 捷運台北101 arrivée 信義行政中心 Xinyi Administrative Center : [bus88](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100008800&gb=1), [bus207](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100020700&gb=1), [busXinyi](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0161001200&gb=1)
+  - [Simple Kaffa Sola booking](https://inline.app/booking/-MG6PxUwAfduMTqgqD4l:inline-live-1/-NIrk5wm5GAfbIY8a7NN)
 - rando Pingxi Crags 平溪六尖 & cascades/baignades 望古瀑布
   - transport
     - metro MainStation à Muzha ~25min
@@ -246,16 +260,6 @@ Calendrier en cas de fermeture prolongée de Taroko
     - [bus 807](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400080700&gb=1) de retour à 三峽: 18h23
   - heure de passage des bus pour retour depuis 五寮尖: 13h14, 14h12, 16h14, 17h32, 18h39
     - [bus 807](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400080700&gb=1), [bus F627](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0454062700)
-- Journée 101
-  - Visite 101 suivi des malls alentours, dej dans le food court
-    - Pokémon Center Taipei at 3F of Shinkong Mitsukoshi
-    - Donguri Republic (Totoro store) inside a large toy store at 4F of Shinkong Mitsukoshi
-  - Départ trail après visite du temple Songshan Fengtian Temple
-  - [rando 象山步道 Elephan trail](https://www.alltrails.com/explore/trail/taiwan/taipei-city/tiger-to-elephant-mountain-via-jiuwufeng?mobileMap=false&ref=sidebar-static-map) départ ~16h (durée 2h30, couchée soleil 18h45)
-  - transport
-    - taxi
-    - bus départ 捷運台北101 arrivée 信義行政中心 Xinyi Administrative Center : [bus88](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100008800&gb=1), [bus207](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100020700&gb=1), [busXinyi](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0161001200&gb=1)
-  - [Simple Kaffa Sola booking](https://inline.app/booking/-MG6PxUwAfduMTqgqD4l:inline-live-1/-NIrk5wm5GAfbIY8a7NN)
 - National Palace Museum
   - [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
 - Journée Beitou
