@@ -237,6 +237,10 @@ Calendrier en cas de fermeture prolongée de Taroko
   - Shilin Night Market
     - The giant 3D Cat in Shilin Night Market
 - j4 beitou
+  - Taxi pour 龍鳳谷遊客服務中心
+  - Bus [plan des Stations](beitou.png) [小7](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151000700) [小25](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151002500) [230](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100023000)  
+  - Trajet en descente vers bain public 2km4 33min
+  - entrée bain public 19h30-22h
 - v5 rando Pingxi Crags 平溪六尖 & cascades/baignades 望古瀑布
   - transport
     - metro MainStation à Muzha ~25min
@@ -271,11 +275,6 @@ Calendrier en cas de fermeture prolongée de Taroko
     - [bus 807](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400080700&gb=1) de retour à 三峽: 18h23
   - heure de passage des bus pour retour depuis 五寮尖: 13h14, 14h12, 16h14, 17h32, 18h39
     - [bus 807](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0400080700&gb=1), [bus F627](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0454062700)
-- Journée Beitou
-  - Taxi pour 龍鳳谷遊客服務中心
-  - Bus [plan des Stations](beitou.png) [小7](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151000700) [小25](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151002500) [230](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100023000)  
-  - Trajet en descente vers bain public 2km4 33min
-  - entrée bain public 19h30-22h
 
 ## Hotel
 | Hotel (seulement charentonnais) | Nuits | Lieu | Prix | Paiement | PtitDej | Laverie |
