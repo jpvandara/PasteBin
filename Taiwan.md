@@ -233,6 +233,11 @@ Calendrier en cas de fermeture prolongée de Taroko
     - bus départ 捷運台北101 arrivée 信義行政中心 Xinyi Administrative Center : [bus88](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100008800&gb=1), [bus207](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100020700&gb=1), [busXinyi](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0161001200&gb=1)
   - [Simple Kaffa Sola booking](https://inline.app/booking/-MG6PxUwAfduMTqgqD4l:inline-live-1/-NIrk5wm5GAfbIY8a7NN)
 - M3 journée NationamPalaceMuseum/Shiling
+  - ptit dej à 慈聖宮
+    - bus pour 大龍峒保安宮 arrêt 酒泉重慶路口: 223, 250, 300, 302, 304, 757, 966, Chongquing main line
+  - visite 大龍峒保安宮 & 孔子廟 & 林安泰古厝
+  - void décollage avion
+  - dej au Addiction Aquatic Development
   - National Palace Museum [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
   - Shilin Night Market
     - The giant 3D Cat in Shilin Night Market
