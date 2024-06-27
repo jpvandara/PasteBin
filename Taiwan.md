@@ -241,6 +241,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - National Palace Museum [transport](https://www.npm.gov.tw/Articles.aspx?sno=03009216&l=2)
   - Shilin Night Market
     - The giant 3D Cat in Shilin Night Market
+    - café modern toilette
 - j4 beitou
   - Taxi pour 龍鳳谷遊客服務中心
   - Bus [plan des Stations](beitou.png) [小7](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151000700) [小25](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0151002500) [230](https://ebus.gov.taipei/EBus/VsSimpleMap?routeid=0100023000)  
