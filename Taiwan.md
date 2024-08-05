@@ -327,7 +327,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Hotel Taitung| 4700 | jp | v12 | | | | |
 | Plein Voiture | 540 | k | | | | | |
 | Pause abre takeshi | 380 | m | s 13 | | | | |
-| | | | | | | | |
+| Dej à Chishang | 930 | m | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
