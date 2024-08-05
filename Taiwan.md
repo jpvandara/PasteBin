@@ -6,6 +6,7 @@
 - [Taipei 台北](#taipei)
 - [Hotel](#hotel)
 - [Pot commun](#pot)
+- [Comptes](#comptes)
 
 ## Info
 - Taiwan Tourist Hotline 0800-011-765
@@ -310,3 +311,8 @@ Calendrier en cas de fermeture prolongée de Taroko
 | d14/7 | EUR | 362,20 | | | | | | bateau4lanyu |
 | d14/7 | EUR | 395,09 | | | | | | b&b@lanyu |
 | M24/7 | EUR | 402 | | | | | | SunnyHostel@Taipei |
+
+## Comptes
+| Quoi | Combien | Qui | Kim | Mumu | JP |
+| Bento gare centrale Taipei | 672 | M | | | |
+| Train Hualien | 2420 | K | | | |
