@@ -319,18 +319,18 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Train HuaLien | 2420 | k | | | | |
 | Hotel HuaLien | 2383 | k | | | | |
 | Diner HuaLien | 1225 | m | | | | |
-| Location voiture | | jp | j11 | | | *Ajouté frais retour |
+| Location voiture | 8829 + frais retour | jp | j11 | | | TODO |
 | Dej bord de route | 1370 | jp | | | | | |
 | Poisson volant | 240 | jp | | | | | Stand à côté |
 | Hotel côte pacifique | 0 | | | | | | Frais séparé|
-| Diner Bouiboui| | | | | | | Parapluies offerts |
+| Diner Bouiboui| | | | | | | Parapluies offerts TODO |
 | Hotel TaiTung| 4700 | jp | v12 | | | | |
 | Plein Voiture | 540 | k | | | | | |
 | Pause abre takeshi | 380 | m | s 13 | | | | |
 | Dej à ChiShang | 930 | m | | | | | |
 | Taxi TaiTung | 350 | k | | | | | |
-| Billets bateau| | jp | d14 | | | | |
-| Airbnb LanYu | | jp | | | | | |
+| Billets bateau| 12979| jp | d14 | | | | |
+| Airbnb LanYu | 14154| jp | | | | | |
 | Vélo | 2400 | k | l15| | | | |
 | Dej LanYu| 815 | jp | | | | | |
 | Diner LanYu | 610 | jp | | | | | Nouilles instantés|
@@ -344,10 +344,10 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Diner avec Kim2 | 950 | jp | | | | | |
 | Diner resto canard| | m | | | | | |
 | Train FenQiHu | 2172 | jp | | | | | |
-| Hotel ChiaYi| | jp | d21 | | | | |
+| Hotel ChiaYi | 2599 | jp | d21 | | | | |
 | Dej ChiaYi | 435 | m | | | | | |
 | Diner ChiaYi Nightmarket | ??? | jp | | | | | |
-| Hotel FenQiHi |  | | l22 | | | | |
+| Hotel FenQiHi | 4000 | k | l22 | | | | |
 | Dej FenQiHu | 700 | jp | | | | | Terrasse |
 | Diner FenQiHou | 990 | k | | | | | Bento |
 | 7Eleven | 528| m | | | | | |
