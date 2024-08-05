@@ -319,4 +319,5 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Train Hualien | 2420 | k | | | | |
 | Hotel Hualien | 2383 | k | | | | |
 | Diner Hualien | 1225 | m | | | | |
-| Hotel côte pacifique | 
+| Hotel côte pacifique | 0 | | | | | Paiement séparé|
+| | | | | | | |
