@@ -319,14 +319,14 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Train Hualien | 2420 | k | | | | |
 | Hotel Hualien | 2383 | k | | | | |
 | Diner Hualien | 1225 | m | | | | |
-| Location voiture | | jp | j11 | | | |
+| Location voiture | | jp | j11 | | | *Ajouté frais retour |
 | Dej bord de route | 1370 | jp | | | | | |
 | Poisson volant | 240 | jp | | | | | Stand à côté |
 | Hotel côte pacifique | 0 | | | | | | Paiement séparé|
 | Diner Bouiboui| | | | | | | Parapluies offerts |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Hotel Taitung| 4700 | jp | v12 | | | | |
+| Plein Voiture | 540 | k | | | | | |
+| Pause abre takeshi | 380 | m | s 13 | | | | |
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
