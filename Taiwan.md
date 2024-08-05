@@ -313,7 +313,10 @@ Calendrier en cas de fermeture prolongée de Taroko
 | M24/7 | EUR | 402 | | | | | | SunnyHostel@Taipei |
 
 ## Comptes
-| Quoi | Combien | Qui | Kim | Mumu | JP |
-|---|---|---|---|---|---|
-| Bento gare centrale Taipei | 672 | M | | | |
-| Train Hualien | 2420 | K | | | |
+| Quoi | Combien | Qui | Kim | Mumu | JP | Comment |
+|---|---|---|---|---|---|---|
+| Bento gare centrale Taipei | 672 | m | | | | |
+| Train Hualien | 2420 | k | | | | |
+| Hotel Hualien | 2383 | k | | | | |
+| Diner Hualien | 1225 | m | | | | |
+| Hotel côte pacifique | 
