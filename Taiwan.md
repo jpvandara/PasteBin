@@ -344,10 +344,24 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Diner avec Kim2 | 950 | jp | | | | | |
 | Diner resto canard| | m | | | | | |
 | Train FenQiHu | 2172 | jp | | | | | |
-| Hotel ChiaYi| | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Hotel ChiaYi| | jp | d21 | | | | |
+| Dej ChiaYi | 435 | m | | | | | |
+| Diner ChiaYi Nightmarket | ??? | jp | | | | | |
+| Hotel FenQiHi |  | | l22 | | | | |
+| Dej FenQiHu | 700 | jp | | | | | Terrasse |
+| Diner FenQiHou | 990 | k | | | | | Bento |
+| 7Eleven | 528| m | | | | | |
+| Dessert | 179 | m | | | | | |
+| Dej ShiZhuo | 475 | jp | m23 | | | | |
+| 7Eleven | 315 | m | | | | | |
+| Chambres d'hôtes ShiZhuo | 5500 | k | | | | | |
+| Diner ShiZhuo | 1280 | k | | | | | |
+| 7Eleven | 165 | m | | | | | |
+| Transport Van | 2000 | jp | M24 | | | | |
+| Train HSR | 5745 | k | | | | | |
+| 7Eleven Station | 645 | m | | | | | |
+| Hotel Sunny | 16550 | k | | | | | |
+| Diner fastfood Jap | 1186 | k | | | | | |
+| Diner fastfood Jap2 | 555 | k | | | | | |
+| Diner XiMenDing | 670 | m | | | | | |
+
