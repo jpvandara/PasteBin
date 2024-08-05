@@ -315,36 +315,36 @@ Calendrier en cas de fermeture prolongée de Taroko
 ## Comptes
 | Quoi | Combien | Qui | Quand | Kim | Mumu | JP | Comment |
 |---|---|---|---|---|---|---|---|
-| Bento gare centrale Taipei | 672 | m | M10 | | | |
-| Train Hualien | 2420 | k | | | | |
-| Hotel Hualien | 2383 | k | | | | |
-| Diner Hualien | 1225 | m | | | | |
+| Bento gare centrale TaiPei | 672 | m | M10 | | | |
+| Train HuaLien | 2420 | k | | | | |
+| Hotel HuaLien | 2383 | k | | | | |
+| Diner HuaLien | 1225 | m | | | | |
 | Location voiture | | jp | j11 | | | *Ajouté frais retour |
 | Dej bord de route | 1370 | jp | | | | | |
 | Poisson volant | 240 | jp | | | | | Stand à côté |
-| Hotel côte pacifique | 0 | | | | | | Paiement séparé|
+| Hotel côte pacifique | 0 | | | | | | Frais séparé|
 | Diner Bouiboui| | | | | | | Parapluies offerts |
-| Hotel Taitung| 4700 | jp | v12 | | | | |
+| Hotel TaiTung| 4700 | jp | v12 | | | | |
 | Plein Voiture | 540 | k | | | | | |
 | Pause abre takeshi | 380 | m | s 13 | | | | |
-| Dej à Chishang | 930 | m | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Dej à ChiShang | 930 | m | | | | | |
+| Taxi TaiTung | 350 | k | | | | | |
+| Billets bateau| | jp | d14 | | | | |
+| Airbnb LanYu | | jp | | | | | |
+| Vélo | 2400 | k | l15| | | | |
+| Dej LanYu| 815 | jp | | | | | |
+| Diner LanYu | 610 | jp | | | | | Nouilles instantés|
+| Plongée| 3000 | m | m16 | | | | |
+| Diner LanYu | 2390 | m | | | | | |
+| Train TaiNan | | | M17 | | | | Frais séparé |
+| Hotel TaiNan | 10336 | k | | | | | |
+| Diner TaiNan | | | | | | | Frais séparé |
+| Fruits | 500 | jp | | | | | |
+| Déj vélo | | | | | | | Frais séparé |
+| Diner avec Kim2 | 950 | jp | | | | | |
+| Diner resto canard| | m | | | | | |
+| Train FenQiHu | 2172 | jp | | | | | |
+| Hotel ChiaYi| | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
