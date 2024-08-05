@@ -320,10 +320,10 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Hotel Hualien | 2383 | k | | | | |
 | Diner Hualien | 1225 | m | | | | |
 | Location voiture | | jp | j11 | | | |
-| Dej | 1370 | jp | | | | | |
+| Dej bord de route | 1370 | jp | | | | | |
 | Poisson volant | 240 | jp | | | | | Stand à côté |
 | Hotel côte pacifique | 0 | | | | | | Paiement séparé|
-| | | | | | | | |
+| Diner Bouiboui| | | | | | | Parapluies offerts |
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
