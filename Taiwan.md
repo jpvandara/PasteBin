@@ -313,45 +313,46 @@ Calendrier en cas de fermeture prolongée de Taroko
 | M24/7 | EUR | 402 | | | | | | SunnyHostel@Taipei |
 
 ## Comptes
-| Quoi | Combien | Qui | Quand | Kim | Mumu | JP | Comment |
+| Quoi | Combien | Qui | Quand | PôtCommun | Mumu | JP | Comment |
 |---|---|---|---|---|---|---|---|
-| Bento gare centrale TaiPei | 672 | m | M10 | | | |
-| Train HuaLien | 2420 | k | | | | |
-| Hotel HuaLien | 2383 | k | | | | |
+| Bento gare centrale TaiPei | 672 | m | M10 | x | | |
+| Train HuaLien | 2420 | k | | x | | |
+| Hotel HuaLien | 2383 | k | | x | | |
 | Diner HuaLien | 1225 | m | | | | |
-| Location voiture | 8829 + frais retour | jp | j11 | | | TODO |
+| Location voiture | 8829 + frais retour | jp | j11 | x | | | TODO |
 | Dej bord de route | 1370 | jp | | | | | |
 | Poisson volant | 240 | jp | | | | | Stand à côté |
 | Hotel côte pacifique | 0 | | | | | | Frais séparé|
-| Diner Bouiboui| | | | | | | Parapluies offerts TODO |
-| Hotel TaiTung| 4700 | jp | v12 | | | | |
-| Plein Voiture | 540 | k | | | | | |
-| Pause abre takeshi | 380 | m | s 13 | | | | |
-| Dej à ChiShang | 930 | m | | | | | |
-| Taxi TaiTung | 350 | k | | | | | |
-| Billets bateau| 12979| jp | d14 | | | | |
-| Airbnb LanYu | 14154| jp | | | | | |
-| Vélo | 2400 | k | l15| | | | |
-| Dej LanYu| 815 | jp | | | | | |
-| Diner LanYu | 610 | jp | | | | | Nouilles instantés|
-| Plongée| 3000 | m | m16 | | | | |
+| Diner Bouiboui| ? | | | | | | Parapluies offerts TODO |
+| Hotel TaiTung| 4700 | jp | v12 | x | | | |
+| Plein Voiture | 540 | k | | x | | | |
+| PtitDej à ChiShang | | | | | | | Frais séparé|
+| Pause abre takeshi | 380 | m | s 13 | x | | | |
+| Dej à ChiShang | 930 | m | | x | | | |
+| Taxi TaiTung | 350 | k | | x | | | |
+| Billets bateau| 12979| jp | d14 | x | | | |
+| Airbnb LanYu | 14154| jp | | x | | | |
+| Vélo | 2400 | k | l15| | x | | |
+| Dej LanYu | 815 | jp | | x | | | |
+| Diner LanYu | 610 | jp | | x | | | Nouilles instantés|
+| Plongée| 3000 | m | m16 | | x | | |
 | Diner LanYu | 2390 | m | | | | | |
 | Train TaiNan | | | M17 | | | | Frais séparé |
-| Hotel TaiNan | 10336 | k | | | | | |
+| Hotel TaiNan | 10336 | k | x | | | | |
 | Diner TaiNan | | | | | | | Frais séparé |
 | Fruits | 500 | jp | | | | | |
 | Déj vélo | | | | | | | Frais séparé |
 | Diner avec Kim2 | 950 | jp | | | | | |
-| Diner resto canard| | m | | | | | |
-| Train FenQiHu | 2172 | jp | | | | | |
-| Hotel ChiaYi | 2599 | jp | d21 | | | | |
-| Dej ChiaYi | 435 | m | | | | | |
-| Diner ChiaYi Nightmarket | ??? | jp | | | | | |
-| Hotel FenQiHi | 4000 | k | l22 | | | | |
-| Dej FenQiHu | 700 | jp | | | | | Terrasse |
-| Diner FenQiHou | 990 | k | | | | | Bento |
-| 7Eleven | 528| m | | | | | |
-| Dessert | 179 | m | | | | | |
+| Diner resto canard| 800| m | | x | | | forfait ( somme inconnue)|
+| Train FenQiHu | 2172 | jp | | x | | | |
+| Hotel ChiaYi | 2599 | jp | d21 | x | | | |
+| Dej ChiaYi | 435 | m | | x | | | |
+| Diner ChiaYi Nightmarket | ? | jp | | | | | |
+| Hotel FenQiHi | 4000 | k | l22 | x | | | |
+| Dej FenQiHu | 700 | jp | | x | | | Terrasse |
+| Diner FenQiHou | 990 | k | | x | | | Bento |
+| 7Eleven | 528| m | | x | | | |
+| Dessert | 179 | m | | x | | | |
 | Dej ShiZhuo | 475 | jp | m23 | | | | |
 | 7Eleven | 315 | m | | | | | |
 | Chambres d'hôtes ShiZhuo | 5500 | k | | | | | |
