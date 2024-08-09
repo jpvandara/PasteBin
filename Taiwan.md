@@ -338,7 +338,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Plongée| 3000 | m | m16 | x | | | |
 | Diner LanYu | 2390 | m | | | | | |
 | Train TaiNan | | | M17 | | | | Frais séparé |
-| Hotel TaiNan | 10336 | k | x | | | | |
+| Hotel TaiNan | 10336 | k | | x | | | |
 | Diner TaiNan | | | | | | | Frais séparé |
 | Fruits | 500 | jp | | | | | |
 | Déj vélo | | | | | | | Frais séparé |
