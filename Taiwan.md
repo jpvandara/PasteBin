@@ -353,16 +353,16 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Diner FenQiHou | 990 | k | | x | | | Bento |
 | 7Eleven | 528| m | | x | | | |
 | Dessert | 179 | m | | x | | | |
-| Dej ShiZhuo | 475 | jp | m23 | | | | |
-| 7Eleven | 315 | m | | | | | |
-| Chambres d'hôtes ShiZhuo | 5500 | k | | | | | |
-| Diner ShiZhuo | 1280 | k | | | | | |
-| 7Eleven | 165 | m | | | | | |
-| Transport Van | 2000 | jp | M24 | | | | |
-| Train HSR | 5745 | k | | | | | |
-| 7Eleven Station | 645 | m | | | | | |
-| Hotel Sunny | 16550 | k | | | | | |
-| Diner fastfood Jap | 1186 | k | | | | | |
-| Diner fastfood Jap2 | 555 | k | | | | | |
+| Dej ShiZhuo | 475 | jp | m23 | x | | | |
+| 7Eleven | 315 | m | | x | | | |
+| Chambres d'hôtes ShiZhuo | 5500 | k | | x| | | |
+| Diner ShiZhuo | 1280 | k | | x | | | |
+| 7Eleven | 165 | m | | x | | | |
+| Transport Van | 2000 | jp | M24 | x | | | |
+| Train HSR | 5745 | k | | x | | | |
+| 7Eleven Station | 645 | m | | x | | | |
+| Hotel Sunny | 16550 | k | | x | | | |
+| Diner fastfood Jap | 1186 | k | | x | | | |
+| Diner fastfood Jap2 | 555 | k | | x | | | |
 | Diner XiMenDing | 670 | m | | | | | |
 
