@@ -332,10 +332,10 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Taxi TaiTung | 350 | k | | x | | | |
 | Billets bateau| 12979| jp | d14 | x | | | |
 | Airbnb LanYu | 14154| jp | | x | | | |
-| Vélo | 2400 | k | l15| | x | | |
+| Vélo | 2400 | k | l15| x | | | |
 | Dej LanYu | 815 | jp | | x | | | |
 | Diner LanYu | 610 | jp | | x | | | Nouilles instantés|
-| Plongée| 3000 | m | m16 | | x | | |
+| Plongée| 3000 | m | m16 | x | | | |
 | Diner LanYu | 2390 | m | | | | | |
 | Train TaiNan | | | M17 | | | | Frais séparé |
 | Hotel TaiNan | 10336 | k | x | | | | |
