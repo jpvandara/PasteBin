@@ -319,10 +319,10 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Train HuaLien | 2420 | k | | x | |
 | Hotel HuaLien | 2383 | k | | x | |
 | Diner HuaLien | 1225 | m | | | on prend en charge |
-| Location voiture | 8829 + frais retour | jp | j11 | x | | | TODO |
-| Dej bord de route | 1370 | jp | | | | | |
-| Poisson volant | 240 | jp | | | | | Stand à côté |
-| Hotel côte pacifique | 0 | | | | | | Frais séparé|
+| Location voiture | 8829 + frais retour | jp | j11 | x | TODO |
+| Dej bord de route | 1370 | jp | | | |
+| Poisson volant | 240 | jp | | | Stand à côté |
+| Hotel côte pacifique | 0 | | | | Frais séparé|
 | Diner Bouiboui| ? | | | | | | Parapluies offerts TODO |
 | Hotel TaiTung| 4700 | jp | v12 | x | | | |
 | Plein Voiture | 540 | k | | x | | | |
