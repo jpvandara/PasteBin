@@ -323,7 +323,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Dej bord de route | 1370 | jp | | | Kim régale |
 | Poisson volant | 240 | jp | | | Stand à côté. Kim régale |
 | Hotel côte pacifique | 0 | | | | Frais séparé|
-| Diner Bouiboui| 800  | | | | | x| Oubli de noter, prix forfaitaire |
+| Diner Bouiboui| 800 | | | x | Oubli de noter, prix forfaitaire |
 | Hotel TaiTung| 4700 | jp | v12 | x | | | |
 | Plein Voiture | 540 | k | | x | | | |
 | PtitDej à ChiShang | | | | | Frais séparé|
