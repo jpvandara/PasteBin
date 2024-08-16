@@ -318,15 +318,14 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Bento gare centrale TaiPei | 672 | m | M10 | x | |
 | Train HuaLien | 2420 | k | | x | |
 | Hotel HuaLien | 2383 | k | | x | |
-| Diner HuaLien MarchéNuit | 1225 | m | | | Kim régale |
+| Diner HuaLien (MarchéNuit) | 1225 | m | | | Kim régale |
 | Location voiture | 11212  | jp | j11 | x | |
-| Dej bord de route | 1370 | jp | | | Kim régale |
-| Poisson volant | 240 | jp | | | Stand à côté. Kim régale |
-| Hotel côte pacifique | 0 | | | | Frais séparé|
-| Diner Bouiboui| 800 | | | x | Oubli de noter, prix forfaitaire |
+| Dej Poisson volant | 1610 | jp | | | Kim régale |
+| Hotel côte pacifique | 0 | | | | Frais séparé |
+| Diner Bouiboui (ParapluieOffert) | 800 | | | x | Oubli de noter, prix forfaitaire |
 | Hotel TaiTung| 4700 | jp | v12 | x | | | |
 | Plein Voiture | 540 | k | | x | | | |
-| PtitDej à ChiShang | | | | | Frais séparé|
+| PtitDej à ChiShang | 0 | | | | Frais séparé|
 | Pause abre takeshi | 380 | m | s 13 | x | | | |
 | Dej à ChiShang | 930 | m | | x | | | |
 | Taxi TaiTung | 350 | k | | x | | | |
