@@ -335,7 +335,7 @@ Détails:
 | Hotel TaiTung| 4700 | jp | v12 | x | |
 | Plein Voiture | 540 | k | | x | |
 | PtitDej à ChiShang | 0 | | | | Frais séparé|
-| Pause abre takeshi | 380 | m | s 13 | x | |
+| Pause arbre takeshi | 380 | m | s 13 | x | |
 | Dej à ChiShang | 930 | m | | x | |
 | Taxi TaiTung | 350 | k | | x | |
 | Billets bateau| 12979| jp | d14 | x | |
