@@ -314,7 +314,7 @@ Calendrier en cas de fermeture prolongée de Taroko
   - Kim : _(ignore)_
   - Mumu : 3615 = 1225 + 2390
 
-- Rappage pour Dépense Commune: 
+- Rattrapage pour Dépense Commune: 
   - Mumu : 26389 = 38723 - 8719 - 3615 = 743.71 € (par MoneyConverter 1 EUR = 35.4850 TWD du 16/08/2024)
 
 Détails:
