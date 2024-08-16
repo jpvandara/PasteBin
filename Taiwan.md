@@ -313,7 +313,21 @@ Calendrier en cas de fermeture prolongée de Taroko
 | M24/7 | EUR | 402 | | | | | | SunnyHostel@Taipei |
 
 ## Comptes
-| Quoi | Combien | Qui | Quand | PôtCommun | Comment |
+
+DépenseCommunne = 116170 NTD  --> part 38723 NTD
+Avances pour DépenseCommune:
+  - JP : 53216
+  - Kim : 54235
+  - Mumu : 8719
+Avances pour Non DépenseCommune:
+  - Mumu : 3615 = 1225 + 2390
+
+Rappage pour Dépense Commune: 
+  - Mulu : 26389 = 38723 - 8719 - 3615
+
+Détails:
+
+| Quoi | Combien | Qui | Quand | DépenseCommunne | Comment |
 |---|---|---|---|---|---|
 | Bento gare centrale TaiPei | 672 | m | M10 | x | |
 | Train HuaLien | 2420 | k | | x | |
