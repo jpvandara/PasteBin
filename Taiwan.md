@@ -318,7 +318,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Bento gare centrale TaiPei | 672 | m | M10 | x | |
 | Train HuaLien | 2420 | k | | x | |
 | Hotel HuaLien | 2383 | k | | x | |
-| Diner HuaLien | 1225 | m | | | on prend en charge |
+| Diner HuaLien | 1225 (*) | m | | | on prend en charge |
 | Location voiture | 11212  | jp | j11 | x | TODO |
 | Dej bord de route | 1370 | jp | | | |
 | Poisson volant | 240 | jp | | | Stand à côté |
