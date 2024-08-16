@@ -314,7 +314,7 @@ Avances pour Non DépenseCommune:
   - Mumu : 3615 = 1225 + 2390
 
 Rappage pour Dépense Commune: 
-  - Mulu : 26389 = 38723 - 8719 - 3615
+  - Mumu : 26389 = 38723 - 8719 - 3615
 
 Détails:
 
