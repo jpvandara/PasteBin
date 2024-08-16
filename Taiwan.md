@@ -5,7 +5,6 @@
 - [Calendrier plan B](#plan-b)
 - [Taipei 台北](#taipei)
 - [Hotel](#hotel)
-- [Pot commun](#pot)
 - [Comptes](#comptes)
 
 ## Info
@@ -303,14 +302,6 @@ Calendrier en cas de fermeture prolongée de Taroko
 | [雅琇山莊 Yeashow Villa](https://maps.app.goo.gl/uNZfjXkAvYgrkauQ8) | 22 | Fenchihu | 4000NT$ (114€)| à payer place (seulement espèces) | Non | Non |
 | [綠香茶園民宿](https://maps.app.goo.gl/vtsB6S9j5xeY8T7AA) | 23 | Shizhao |  5500NT$ (157€) | à payer place (seulement espèces) | Oui | Non |
 | [Sunny Hostel]() | 24-27 | Taipei | 16550NT$ (472€)| 1er nuit en auto, le reste ??? | Non |  Oui/750m |
-
-## Pot
-
-| Quand | Devise | JP | Kim | Mumu | Léo | Lin | Juju | Desc |
-|---|---|---|---|---|---|---|---|---|
-| d14/7 | EUR | 362,20 | | | | | | bateau4lanyu |
-| d14/7 | EUR | 395,09 | | | | | | b&b@lanyu |
-| M24/7 | EUR | 402 | | | | | | SunnyHostel@Taipei |
 
 ## Comptes
 
