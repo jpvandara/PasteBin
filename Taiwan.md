@@ -346,7 +346,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 | Train FenQiHu | 2172 | jp | | x | |
 | Hotel ChiaYi | 2599 | jp | d21 | x | |
 | Dej ChiaYi | 435 | m | | x | |
-| Diner NightMarket@ChiaYi | 0 | jp | | Kim régale |
+| Diner NightMarket@ChiaYi | ?? | jp | | Kim régale |
 | Hotel FenQiHi | 4000 | k | l22 | x | |
 | Dej FenQiHu | 700 | jp | | x | Terrasse |
 | Diner FenQiHou | 990 | k | | x | Bento |
