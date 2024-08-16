@@ -323,7 +323,7 @@ Détails:
 |---|---|---|---|---|---|
 | OpéraChinois RoiSinge | 6280 | jp | S6 | | Kim régale |
 | Diner Nightmarket | ? | jp | | | Kim régale |
-| Dessert GlacePilée | ? | jp | | Kim régale |
+| Dessert GlacePilée | ? | jp | | | Kim régale |
 | Bento gare centrale TaiPei | 672 | m | M10 | x | |
 | Train HuaLien | 2420 | k | | x | |
 | Hotel HuaLien | 2383 | k | | x | |
