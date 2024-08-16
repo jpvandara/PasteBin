@@ -306,13 +306,13 @@ Calendrier en cas de fermeture prolongée de Taroko
 ## Comptes
 - DépenseCommunne = 116170 NTD  --> part par adulte: 38723 NTD = 116170 / 3
 - Avances pour DépenseCommune:
-  - JP : 53216
-  - Kim : 54235
-  - Mumu : 8719
+  - JP : + 53216
+  - Kim : + 54235
+  - Mumu : + 8719
 - Avances pour Non DépenseCommune:
   - JP: _(ignore)_
   - Kim : _(ignore)_
-  - Mumu : 3615 = 1225 + 2390
+  - Mumu : + 3615 = 1225 + 2390
 
 - Rattrapage pour Dépense Commune: 
   - Mumu : - 26389 =  - 38723 + 8719 + 3615 = - 743.71 € (par MoneyConverter 1 EUR = 35.4850 TWD du 16/08/2024)
