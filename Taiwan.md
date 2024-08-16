@@ -310,6 +310,8 @@ Calendrier en cas de fermeture prolongée de Taroko
   - Kim : 54235
   - Mumu : 8719
 - Avances pour Non DépenseCommune:
+  - JP: _(ignore)_
+  - Kim : _(ignore)_
   - Mumu : 3615 = 1225 + 2390
 
 - Rappage pour Dépense Commune: 
