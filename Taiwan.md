@@ -304,16 +304,15 @@ Calendrier en cas de fermeture prolongée de Taroko
 | [Sunny Hostel]() | 24-27 | Taipei | 16550NT$ (472€)| 1er nuit en auto, le reste ??? | Non |  Oui/750m |
 
 ## Comptes
-
-DépenseCommunne = 116170 NTD  --> part 38723 NTD
-Avances pour DépenseCommune:
+- DépenseCommunne = 116170 NTD  --> part 38723 NTD
+- Avances pour DépenseCommune:
   - JP : 53216
   - Kim : 54235
   - Mumu : 8719
-Avances pour Non DépenseCommune:
+- Avances pour Non DépenseCommune:
   - Mumu : 3615 = 1225 + 2390
 
-Rappage pour Dépense Commune: 
+- Rappage pour Dépense Commune: 
   - Mumu : 26389 = 38723 - 8719 - 3615
 
 Détails:
