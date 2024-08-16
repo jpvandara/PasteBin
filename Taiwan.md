@@ -304,7 +304,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 | [Sunny Hostel]() | 24-27 | Taipei | 16550NT$ (472€)| 1er nuit en auto, le reste ??? | Non |  Oui/750m |
 
 ## Comptes
-- DépenseCommunne = 116170 NTD  --> part par adulte: 38723 NTD = 116170 / 3
+- DépenseCommune = 116170 NTD  --> part par adulte: 38723 NTD = 116170 / 3
 - Avances pour DépenseCommune:
   - JP : + 53216
   - Kim : + 54235
@@ -319,7 +319,7 @@ Calendrier en cas de fermeture prolongée de Taroko
 
 Détails:
 
-| Quoi | Combien | Qui | Quand | DépenseCommunne | Comment |
+| Quoi | Combien | Qui | Quand | DépenseCommune | Comment |
 |---|---|---|---|---|---|
 | OpéraChinois RoiSinge | 6280 | jp | S6 | | Kim régale |
 | Diner Nightmarket | ? | jp | | | Kim régale |
